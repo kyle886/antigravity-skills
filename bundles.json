@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-18T08:13:56.813Z",
+  "generatedAt": "2026-02-03T06:15:20.411Z",
   "bundles": {
     "core-dev": {
       "description": "Core development skills across languages, frameworks, and backend/frontend fundamentals.",
@@ -27,6 +27,7 @@
         "frontend-security-coder",
         "go-concurrency-patterns",
         "golang-pro",
+        "industrial-scada-pro",
         "ios-developer",
         "java-pro",
         "javascript-pro",
@@ -53,12 +54,15 @@
         "ruby-pro",
         "rust-async-patterns",
         "rust-pro",
+        "shadcn-ui-patterns",
+        "supabase-integration",
         "systems-programming-rust-project",
         "temporal-python-pro",
         "temporal-python-testing",
         "typescript-advanced-types",
         "typescript-pro",
-        "uv-package-manager"
+        "uv-package-manager",
+        "vite-modern-patterns"
       ]
     },
     "security-core": {
@@ -160,6 +164,7 @@
         "dbt-transformation-patterns",
         "gdpr-data-handling",
         "hybrid-cloud-networking",
+        "industrial-scada-pro",
         "ios-developer",
         "kpi-dashboard-design",
         "legal-advisor",
@@ -174,6 +179,7 @@
         "spark-optimization",
         "sql-optimization-patterns",
         "sql-pro",
+        "tanstack-query-advanced",
         "unity-ecs-patterns",
         "vector-database-engineer"
       ]
@@ -211,10 +217,12 @@
         "gitlab-ci-patterns",
         "gitops-workflow",
         "grafana-dashboards",
+        "ignition-gateway-developer",
         "incident-responder",
         "incident-response-incident-response",
         "incident-response-smart-fix",
         "incident-runbook-templates",
+        "industrial-scada-pro",
         "kpi-dashboard-design",
         "kubernetes-architect",
         "machine-learning-ops-ml-pipeline",
@@ -236,7 +244,8 @@
         "slo-implementation",
         "temporal-python-pro",
         "terraform-specialist",
-        "unity-developer"
+        "unity-developer",
+        "vite-modern-patterns"
       ]
     }
   },

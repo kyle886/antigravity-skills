@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-18T08:13:56.813Z",
-  "total": 305,
+  "generatedAt": "2026-02-03T06:15:20.411Z",
+  "total": 317,
   "skills": [
     {
       "id": "accessibility-compliance-accessibility-audit",
@@ -551,6 +551,29 @@
       "path": "skills/backtesting-frameworks/SKILL.md"
     },
     {
+      "id": "base44-migration",
+      "name": "base44-migration",
+      "description": "Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-dependent applications.",
+      "category": "architecture",
+      "tags": [
+        "base44",
+        "migration"
+      ],
+      "triggers": [
+        "base44",
+        "migration",
+        "migrating",
+        "sdk",
+        "direct",
+        "supabase",
+        "integration",
+        "modernizing",
+        "dependent",
+        "applications"
+      ],
+      "path": "skills/base44-migration/SKILL.md"
+    },
+    {
       "id": "bash-defensive-patterns",
       "name": "bash-defensive-patterns",
       "description": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety.",
@@ -648,6 +671,31 @@
         "optimizing"
       ],
       "path": "skills/bazel-build-optimization/SKILL.md"
+    },
+    {
+      "id": "bess-optimization",
+      "name": "bess-optimization",
+      "description": "Master Battery Energy Storage System (BESS) optimization including State of Charge modeling, degradation curves, charge/discharge scheduling, and market arbitrage. Use PROACTIVELY for battery dispatch optimization, SOC forecasting, or energy storage system integration.",
+      "category": "business",
+      "tags": [
+        "bess",
+        "optimization"
+      ],
+      "triggers": [
+        "bess",
+        "optimization",
+        "battery",
+        "energy",
+        "storage",
+        "including",
+        "state",
+        "charge",
+        "modeling",
+        "degradation",
+        "curves",
+        "discharge"
+      ],
+      "path": "skills/bess-optimization/SKILL.md"
     },
     {
       "id": "billing-automation",
@@ -965,6 +1013,31 @@
         "cdk"
       ],
       "path": "skills/cloud-architect/SKILL.md"
+    },
+    {
+      "id": "cloudflare-workers",
+      "name": "cloudflare-workers",
+      "description": "Build and deploy edge applications with Cloudflare Workers, Pages Functions, KV, D1, and Durable Objects. Use when deploying to Cloudflare's edge network or building serverless APIs.",
+      "category": "infrastructure",
+      "tags": [
+        "cloudflare",
+        "workers"
+      ],
+      "triggers": [
+        "cloudflare",
+        "workers",
+        "deploy",
+        "edge",
+        "applications",
+        "pages",
+        "functions",
+        "kv",
+        "d1",
+        "durable",
+        "objects",
+        "deploying"
+      ],
+      "path": "skills/cloudflare-workers/SKILL.md"
     },
     {
       "id": "code-documentation-code-explain",
@@ -3617,6 +3690,31 @@
       "path": "skills/hybrid-search-implementation/SKILL.md"
     },
     {
+      "id": "ignition-gateway-developer",
+      "name": "ignition-gateway-developer",
+      "description": "Master Ignition SCADA platform development including Gateway architecture, Jython scripting, tag configuration, historian integration, and OPC-UA connectivity. Use PROACTIVELY for Ignition projects, SCADA HMI development, or industrial monitoring system integration.",
+      "category": "infrastructure",
+      "tags": [
+        "ignition",
+        "gateway"
+      ],
+      "triggers": [
+        "ignition",
+        "gateway",
+        "developer",
+        "scada",
+        "platform",
+        "development",
+        "including",
+        "architecture",
+        "jython",
+        "scripting",
+        "tag",
+        "configuration"
+      ],
+      "path": "skills/ignition-gateway-developer/SKILL.md"
+    },
+    {
       "id": "incident-responder",
       "name": "incident-responder",
       "description": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices.",
@@ -3707,6 +3805,31 @@
         "building"
       ],
       "path": "skills/incident-runbook-templates/SKILL.md"
+    },
+    {
+      "id": "industrial-scada-pro",
+      "name": "industrial-scada-pro",
+      "description": "Master SCADA systems and OPC-UA protocol for industrial energy systems including data acquisition, historian integration, and Python-based automation. Use PROACTIVELY for SCADA development, industrial protocols, or energy monitoring system integration.",
+      "category": "infrastructure",
+      "tags": [
+        "industrial",
+        "scada"
+      ],
+      "triggers": [
+        "industrial",
+        "scada",
+        "pro",
+        "opc",
+        "ua",
+        "protocol",
+        "energy",
+        "including",
+        "data",
+        "acquisition",
+        "historian",
+        "integration"
+      ],
+      "path": "skills/industrial-scada-pro/SKILL.md"
     },
     {
       "id": "ios-developer",
@@ -4332,6 +4455,31 @@
       "path": "skills/mermaid-expert/SKILL.md"
     },
     {
+      "id": "microgrid-controls",
+      "name": "microgrid-controls",
+      "description": "Design and implement microgrid control systems including peak shaving, DER coordination, grid-tied/islanded operation, and real-time dispatch optimization. Use PROACTIVELY for microgrid architecture, energy management systems, or distributed resource optimization.",
+      "category": "architecture",
+      "tags": [
+        "microgrid",
+        "controls"
+      ],
+      "triggers": [
+        "microgrid",
+        "controls",
+        "control",
+        "including",
+        "peak",
+        "shaving",
+        "der",
+        "coordination",
+        "grid",
+        "tied",
+        "islanded",
+        "operation"
+      ],
+      "path": "skills/microgrid-controls/SKILL.md"
+    },
+    {
       "id": "microservices-patterns",
       "name": "microservices-patterns",
       "description": "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing microservices.",
@@ -4575,6 +4723,32 @@
         "dependency"
       ],
       "path": "skills/monorepo-management/SKILL.md"
+    },
+    {
+      "id": "mpc-energy-dispatch",
+      "name": "mpc-energy-dispatch",
+      "description": "Master Model Predictive Control (MPC) for energy dispatch optimization including rolling horizon, constraint handling, and real-time implementation with solar, batteries, and generators. Use PROACTIVELY for dispatch optimization, energy scheduling, or predictive control systems.",
+      "category": "general",
+      "tags": [
+        "mpc",
+        "energy",
+        "dispatch"
+      ],
+      "triggers": [
+        "mpc",
+        "energy",
+        "dispatch",
+        "model",
+        "predictive",
+        "control",
+        "optimization",
+        "including",
+        "rolling",
+        "horizon",
+        "constraint",
+        "handling"
+      ],
+      "path": "skills/mpc-energy-dispatch/SKILL.md"
     },
     {
       "id": "mtls-configuration",
@@ -6328,6 +6502,30 @@
       "path": "skills/service-mesh-observability/SKILL.md"
     },
     {
+      "id": "shadcn-ui-patterns",
+      "name": "shadcn-ui-patterns",
+      "description": "Master shadcn/ui component patterns, customization, theming, and composition. Use when building accessible React UIs with shadcn/ui primitives.",
+      "category": "development",
+      "tags": [
+        "shadcn",
+        "ui"
+      ],
+      "triggers": [
+        "shadcn",
+        "ui",
+        "component",
+        "customization",
+        "theming",
+        "composition",
+        "building",
+        "accessible",
+        "react",
+        "uis",
+        "primitives"
+      ],
+      "path": "skills/shadcn-ui-patterns/SKILL.md"
+    },
+    {
       "id": "shellcheck-configuration",
       "name": "shellcheck-configuration",
       "description": "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability.",
@@ -6707,6 +6905,31 @@
       "path": "skills/stripe-integration/SKILL.md"
     },
     {
+      "id": "supabase-integration",
+      "name": "supabase-integration",
+      "description": "Master direct Supabase integration with TypeScript, including client setup, authentication, RLS policies, type generation, realtime subscriptions, and Edge Functions. Use when building applications with Supabase as the backend.",
+      "category": "development",
+      "tags": [
+        "supabase",
+        "integration"
+      ],
+      "triggers": [
+        "supabase",
+        "integration",
+        "direct",
+        "typescript",
+        "including",
+        "client",
+        "setup",
+        "authentication",
+        "rls",
+        "policies",
+        "type",
+        "generation"
+      ],
+      "path": "skills/supabase-integration/SKILL.md"
+    },
+    {
       "id": "systems-programming-rust-project",
       "name": "systems-programming-rust-project",
       "description": "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing",
@@ -6753,6 +6976,32 @@
         "ui"
       ],
       "path": "skills/tailwind-design-system/SKILL.md"
+    },
+    {
+      "id": "tanstack-query-advanced",
+      "name": "tanstack-query-advanced",
+      "description": "Advanced TanStack Query patterns including prefetching, infinite queries, optimistic updates, suspense mode, and testing. Use for complex server state management beyond basic data fetching.",
+      "category": "data-ai",
+      "tags": [
+        "tanstack",
+        "query",
+        "advanced"
+      ],
+      "triggers": [
+        "tanstack",
+        "query",
+        "advanced",
+        "including",
+        "prefetching",
+        "infinite",
+        "queries",
+        "optimistic",
+        "updates",
+        "suspense",
+        "mode",
+        "testing"
+      ],
+      "path": "skills/tanstack-query-advanced/SKILL.md"
     },
     {
       "id": "tdd-orchestrator",
@@ -7058,6 +7307,30 @@
         "scalable"
       ],
       "path": "skills/test-automator/SKILL.md"
+    },
+    {
+      "id": "thermal-systems-engineer",
+      "name": "thermal-systems-engineer",
+      "description": "Master thermal modeling for diesel and gas generators including heat rate curves, ambient derating, coolant systems, and thermal-aware dispatch optimization. Use PROACTIVELY for generator modeling, thermal constraints, or fuel consumption optimization.",
+      "category": "general",
+      "tags": [
+        "thermal"
+      ],
+      "triggers": [
+        "thermal",
+        "engineer",
+        "modeling",
+        "diesel",
+        "gas",
+        "generators",
+        "including",
+        "heat",
+        "rate",
+        "curves",
+        "ambient",
+        "derating"
+      ],
+      "path": "skills/thermal-systems-engineer/SKILL.md"
     },
     {
       "id": "threat-mitigation-mapping",
@@ -7434,6 +7707,31 @@
         "quantization"
       ],
       "path": "skills/vector-index-tuning/SKILL.md"
+    },
+    {
+      "id": "vite-modern-patterns",
+      "name": "vite-modern-patterns",
+      "description": "Master Vite build tool configuration, plugins, optimization, and deployment patterns. Use when setting up or optimizing Vite-based React/Vue/Svelte projects.",
+      "category": "infrastructure",
+      "tags": [
+        "vite",
+        "modern"
+      ],
+      "triggers": [
+        "vite",
+        "modern",
+        "configuration",
+        "plugins",
+        "optimization",
+        "deployment",
+        "setting",
+        "up",
+        "optimizing",
+        "react",
+        "vue",
+        "svelte"
+      ],
+      "path": "skills/vite-modern-patterns/SKILL.md"
     },
     {
       "id": "wcag-audit-patterns",

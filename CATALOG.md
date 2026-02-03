@@ -1,15 +1,16 @@
 # Skill Catalog
 
-Generated at: 2026-01-18T08:13:56.813Z
+Generated at: 2026-02-03T06:15:20.411Z
 
-Total skills: 305
+Total skills: 317
 
-## architecture (30)
+## architecture (32)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
 | `architect-review` | Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system desi... |  | architect, review, software, specializing, architecture, clean, microservices, event, driven, ddd, reviews, designs |
 | `architecture-decision-records` | Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation. Use when documenting significant techn... | architecture, decision, records | architecture, decision, records, write, maintain, adrs, following, technical, documentation, documenting, significant, decisions |
+| `base44-migration` | Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-dependent applications. | base44, migration | base44, migration, migrating, sdk, direct, supabase, integration, modernizing, dependent, applications |
 | `binary-analysis-patterns` | Master binary analysis patterns including disassembly, decompilation, control flow analysis, and code pattern recognition. Use when analyzing executables, un... | binary | binary, analysis, including, disassembly, decompilation, control, flow, code, recognition, analyzing, executables, understanding |
 | `c4-architecture-c4-architecture` | Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach. | c4, architecture | c4, architecture, generate, documentation, existing, repository, codebase, bottom, up, analysis, approach |
 | `c4-code` | Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, a... | c4, code | c4, code, level, documentation, analyzes, directories, including, function, signatures, arguments, dependencies, structure |
@@ -28,6 +29,7 @@ Total skills: 305
 | `godot-gdscript-patterns` | Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or le... | godot, gdscript | godot, gdscript, including, signals, scenes, state, machines, optimization, building, games, implementing, game |
 | `haskell-pro` | Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software. Use PROACTIVELY for type-level programm... | haskell | haskell, pro, engineer, specializing, type, pure, functional, high, reliability, software, proactively, level |
 | `julia-pro` | Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices. Expert in the Julia ecosystem including... | julia | julia, pro, 10, features, performance, optimization, multiple, dispatch, ecosystem, including, package, scientific |
+| `microgrid-controls` | Design and implement microgrid control systems including peak shaving, DER coordination, grid-tied/islanded operation, and real-time dispatch optimization. U... | microgrid, controls | microgrid, controls, control, including, peak, shaving, der, coordination, grid, tied, islanded, operation |
 | `minecraft-bukkit-pro` | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation... | minecraft, bukkit | minecraft, bukkit, pro, server, plugin, development, spigot, paper, apis, specializes, event, driven |
 | `monorepo-architect` | Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turborepo, Bazel, and Lerna for efficient multi-project devel... | monorepo | monorepo, architect, architecture, dependency, scale, masters, nx, turborepo, bazel, lerna, efficient, multi |
 | `nx-workspace-patterns` | Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected com... | nx, workspace | nx, workspace, configure, optimize, monorepo, workspaces, setting, up, configuring, boundaries, optimizing, caching |
@@ -39,10 +41,11 @@ Total skills: 305
 | `workflow-orchestration-patterns` | Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separation, saga patterns, state management, and determinism cons... |  | orchestration, durable, temporal, distributed, covers, vs, activity, separation, saga, state, determinism, constraints |
 | `workflow-patterns` | Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding th... |  | skill, implementing, tasks, according, conductor, tdd, handling, phase, checkpoints, managing, git, commits |
 
-## business (23)
+## business (24)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
+| `bess-optimization` | Master Battery Energy Storage System (BESS) optimization including State of Charge modeling, degradation curves, charge/discharge scheduling, and market arbi... | bess, optimization | bess, optimization, battery, energy, storage, including, state, charge, modeling, degradation, curves, discharge |
 | `competitive-landscape` | This skill should be used when the user asks to "analyze competitors", "assess competitive landscape", "identify differentiation", "evaluate market positioni... | competitive, landscape | competitive, landscape, skill, should, used, user, asks, analyze, competitors, assess, identify, differentiation |
 | `conductor-setup` | Initialize project with Conductor artifacts (product definition, tech stack, workflow, style guides) | conductor, setup | conductor, setup, initialize, artifacts, product, definition, tech, stack, style, guides |
 | `context-driven-development` | Use this skill when working with Conductor's context-driven development methodology, managing project context artifacts, or understanding the relationship be... | driven | driven, context, development, skill, working, conductor, methodology, managing, artifacts, understanding, relationship, between |
@@ -67,7 +70,7 @@ Total skills: 305
 | `startup-financial-modeling` | This skill should be used when the user asks to "create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "estima... | startup, financial, modeling | startup, financial, modeling, skill, should, used, user, asks, projections, model, forecast, revenue |
 | `team-composition-analysis` | This skill should be used when the user asks to "plan team structure", "determine hiring needs", "design org chart", "calculate compensation", "plan equity a... | team, composition | team, composition, analysis, skill, should, used, user, asks, plan, structure, determine, hiring |
 
-## data-ai (38)
+## data-ai (39)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -104,13 +107,14 @@ Total skills: 305
 | `similarity-search-patterns` | Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieva... | similarity, search | similarity, search, efficient, vector, databases, building, semantic, implementing, nearest, neighbor, queries, optimizing |
 | `spark-optimization` | Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or... | spark, optimization | spark, optimization, optimize, apache, jobs, partitioning, caching, shuffle, memory, tuning, improving, performance |
 | `sql-optimization-patterns` | Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when de... | sql, optimization | sql, optimization, query, indexing, explain, analysis, dramatically, improve, database, performance, eliminate, slow |
+| `tanstack-query-advanced` | Advanced TanStack Query patterns including prefetching, infinite queries, optimistic updates, suspense mode, and testing. Use for complex server state manage... | tanstack, query, advanced | tanstack, query, advanced, including, prefetching, infinite, queries, optimistic, updates, suspense, mode, testing |
 | `tdd-orchestrator` | Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices... | tdd, orchestrator | tdd, orchestrator, specializing, red, green, refactor, discipline, multi, agent, coordination, test, driven |
 | `team-collaboration-standup-notes` | You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remo... | team, collaboration, standup, notes | team, collaboration, standup, notes, communication, async, first, ai, assisted, note, generation, commit |
 | `unity-ecs-patterns` | Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizin... | unity, ecs | unity, ecs, entity, component, dots, jobs, burst, high, performance, game, development, building |
 | `vector-database-engineer` | Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applic... | vector, database | vector, database, engineer, databases, embedding, semantic, search, masters, pinecone, weaviate, qdrant, milvus |
 | `vector-index-tuning` | Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector sear... | vector, index, tuning | vector, index, tuning, optimize, performance, latency, recall, memory, hnsw, parameters, selecting, quantization |
 
-## development (36)
+## development (38)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -145,13 +149,15 @@ Total skills: 305
 | `ruby-pro` | Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing fram... | ruby | ruby, pro, write, idiomatic, code, metaprogramming, rails, performance, optimization, specializes, gem, development |
 | `rust-async-patterns` | Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing conc... | rust, async | rust, async, programming, tokio, traits, error, handling, concurrent, building, applications, implementing, debugging |
 | `rust-pro` | Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem in... | rust | rust, pro, 75, async, type, features, programming, latest, ecosystem, including, tokio, axum |
+| `shadcn-ui-patterns` | Master shadcn/ui component patterns, customization, theming, and composition. Use when building accessible React UIs with shadcn/ui primitives. | shadcn, ui | shadcn, ui, component, customization, theming, composition, building, accessible, react, uis, primitives |
+| `supabase-integration` | Master direct Supabase integration with TypeScript, including client setup, authentication, RLS policies, type generation, realtime subscriptions, and Edge F... | supabase, integration | supabase, integration, direct, typescript, including, client, setup, authentication, rls, policies, type, generation |
 | `systems-programming-rust-project` | You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo to... | programming, rust | programming, rust, architecture, specializing, scaffolding, applications, generate, complete, structures, cargo, tooling, proper |
 | `temporal-python-testing` | Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, integration testing, replay testing, and local development s... | temporal, python | temporal, python, testing, test, pytest, time, skipping, mocking, covers, unit, integration, replay |
 | `typescript-advanced-types` | Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe app... | typescript, advanced, types | typescript, advanced, types, type, including, generics, conditional, mapped, literals, utility, building, safe |
 | `typescript-pro` | Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTI... | typescript | typescript, pro, types, generics, strict, type, safety, complex, decorators, enterprise, grade, proactively |
 | `uv-package-manager` | Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python pr... | uv, package, manager | uv, package, manager, fast, python, dependency, virtual, environments, setting, up, managing, dependencies |
 
-## general (35)
+## general (37)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -182,16 +188,18 @@ Total skills: 305
 | `git-pr-workflows-pr-enhance` | You are a PR optimization expert specializing in creating high-quality pull requests that facilitate efficient code reviews. Generate comprehensive PR descri... | git, pr, enhance | git, pr, enhance, optimization, specializing, creating, high, quality, pull, requests, facilitate, efficient |
 | `legacy-modernizer` | Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compati... | legacy, modernizer | legacy, modernizer, refactor, codebases, migrate, outdated, frameworks, gradual, modernization, technical, debt, dependency |
 | `monorepo-management` | Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable multi-package repositories with optimized builds and dependen... | monorepo | monorepo, turborepo, nx, pnpm, workspaces, efficient, scalable, multi, package, repositories, optimized, dependency |
+| `mpc-energy-dispatch` | Master Model Predictive Control (MPC) for energy dispatch optimization including rolling horizon, constraint handling, and real-time implementation with sola... | mpc, energy, dispatch | mpc, energy, dispatch, model, predictive, control, optimization, including, rolling, horizon, constraint, handling |
 | `nft-standards` | Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, ... | nft, standards | nft, standards, erc, 721, 1155, proper, metadata, handling, minting, marketplace, integration, creating |
 | `paypal-integration` | Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processin... | paypal, integration | paypal, integration, integrate, payment, processing, express, checkout, subscriptions, refund, implementing, payments, online |
 | `posix-shell-pro` | Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (das... | posix, shell | posix, shell, pro, strict, sh, scripting, maximum, portability, unix, like, specializes, scripts |
 | `search-specialist` | Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles comp... | search | search, web, researcher, techniques, synthesis, masters, operators, result, filtering, multi, source, verification |
 | `shellcheck-configuration` | Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuri... | shellcheck, configuration | shellcheck, configuration, static, analysis, usage, shell, script, quality, setting, up, linting, infrastructure |
+| `thermal-systems-engineer` | Master thermal modeling for diesel and gas generators including heat rate curves, ambient derating, coolant systems, and thermal-aware dispatch optimization.... | thermal | thermal, engineer, modeling, diesel, gas, generators, including, heat, rate, curves, ambient, derating |
 | `turborepo-caching` | Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing d... | turborepo, caching | turborepo, caching, configure, efficient, monorepo, local, remote, setting, up, optimizing, pipelines, implementing |
 | `tutorial-engineer` | Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. U... | tutorial | tutorial, engineer, creates, step, tutorials, educational, content, code, transforms, complex, concepts, progressive |
 | `ui-ux-designer` | Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design toke... | ui, ux, designer | ui, ux, designer, interface, designs, wireframes, masters, user, research, accessibility, standards, specializes |
 
-## infrastructure (55)
+## infrastructure (59)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -204,6 +212,7 @@ Total skills: 305
 | `bash-pro` | Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities. Expert in safe, portable, and testable shell scripts. | bash | bash, pro, defensive, scripting, automation, ci, cd, pipelines, utilities, safe, portable, testable |
 | `bats-testing-patterns` | Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring t... | bats | bats, testing, bash, automated, shell, script, writing, tests, scripts, ci, cd, pipelines |
 | `c4-container` | Expert C4 Container-level documentation specialist. Synthesizes Component-level documentation into Container-level architecture, mapping components to deploy... | c4, container | c4, container, level, documentation, synthesizes, component, architecture, mapping, components, deployment, units, documenting |
+| `cloudflare-workers` | Build and deploy edge applications with Cloudflare Workers, Pages Functions, KV, D1, and Durable Objects. Use when deploying to Cloudflare's edge network or ... | cloudflare, workers | cloudflare, workers, deploy, edge, applications, pages, functions, kv, d1, durable, objects, deploying |
 | `code-review-ai-ai-review` | You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Levera... | code, ai | code, ai, review, powered, combining, automated, static, analysis, intelligent, recognition, devops, leverage |
 | `cost-optimization` | Optimize cloud costs through resource rightsizing, tagging strategies, reserved instances, and spending analysis. Use when reducing cloud expenses, analyzing... | cost, optimization | cost, optimization, optimize, cloud, costs, through, resource, rightsizing, tagging, reserved, instances, spending |
 | `data-engineer` | Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data pl... | data | data, engineer, scalable, pipelines, warehouses, real, time, streaming, architectures, implements, apache, spark |
@@ -228,6 +237,8 @@ Total skills: 305
 | `grafana-dashboards` | Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visua... | grafana, dashboards | grafana, dashboards, real, time, visualization, application, metrics, building, monitoring, visualizing, creating, operational |
 | `helm-chart-scaffolding` | Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, pa... | helm, chart | helm, chart, scaffolding, organize, charts, templating, packaging, kubernetes, applications, reusable, configurations, creating |
 | `hybrid-cloud-networking` | Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building... | hybrid, cloud, networking | hybrid, cloud, networking, configure, secure, high, performance, connectivity, between, premises, infrastructure, platforms |
+| `ignition-gateway-developer` | Master Ignition SCADA platform development including Gateway architecture, Jython scripting, tag configuration, historian integration, and OPC-UA connectivit... | ignition, gateway | ignition, gateway, developer, scada, platform, development, including, architecture, jython, scripting, tag, configuration |
+| `industrial-scada-pro` | Master SCADA systems and OPC-UA protocol for industrial energy systems including data acquisition, historian integration, and Python-based automation. Use PR... | industrial, scada | industrial, scada, pro, opc, ua, protocol, energy, including, data, acquisition, historian, integration |
 | `istio-traffic-management` | Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic po... | istio, traffic | istio, traffic, configure, including, routing, load, balancing, circuit, breakers, canary, deployments, implementing |
 | `java-pro` | Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Proj... | java | java, pro, 21, features, like, virtual, threads, matching, spring, boot, latest, ecosystem |
 | `kpi-dashboard-design` | Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboard... | kpi, dashboard | kpi, dashboard, effective, dashboards, metrics, selection, visualization, real, time, monitoring, building, business |
@@ -250,6 +261,7 @@ Total skills: 305
 | `terraform-module-library` | Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure mod... | terraform, module, library | terraform, module, library, reusable, modules, aws, azure, gcp, infrastructure, following, code, creating |
 | `test-automator` | Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with a... | automator | automator, test, ai, powered, automation, frameworks, self, healing, tests, quality, engineering, scalable |
 | `unity-developer` | Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform de... | unity | unity, developer, games, optimized, scripts, efficient, rendering, proper, asset, masters, lts, urp |
+| `vite-modern-patterns` | Master Vite build tool configuration, plugins, optimization, and deployment patterns. Use when setting up or optimizing Vite-based React/Vue/Svelte projects. | vite, modern | vite, modern, configuration, plugins, optimization, deployment, setting, up, optimizing, react, vue, svelte |
 
 ## security (62)
 
