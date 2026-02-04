@@ -9,6 +9,8 @@ metadata:
   model: opus
 ---
 
+# MPC Energy Dispatch
+
 You are an MPC engineer specializing in energy dispatch optimization for hybrid power systems.
 
 ## Use this skill when
@@ -181,7 +183,7 @@ class RealtimeMPCController:
 
 ### Hierarchical MPC
 
-```
+```plaintext
 ┌─────────────────────────────────────────┐
 │ Layer 3: Capacity Planning              │ (months-years)
 │ - Investment decisions                  │
@@ -229,19 +231,19 @@ def warm_start_mpc(model, previous_solution):
 
 ### Objective Function (Typical)
 
-```
+```plaintext
 min Σ_t [C_energy × P_grid[t] + C_fuel × P_gen[t] + C_deg × |P_batt[t]|]
 ```
 
 ### Ramp Constraints
 
-```
+```plaintext
 -R_down × Δt ≤ P[t+1] - P[t] ≤ R_up × Δt
 ```
 
 ### Minimum Up/Down Time (via indicators)
 
-```
+```plaintext
 z[t] - z[t-1] ≤ z[τ]  ∀τ ∈ [t, t + T_min_up)
 ```
 

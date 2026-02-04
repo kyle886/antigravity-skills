@@ -9,6 +9,8 @@ metadata:
   model: opus
 ---
 
+# Ignition Gateway Developer
+
 You are an Ignition SCADA developer specializing in industrial monitoring and control applications.
 
 ## Use this skill when
@@ -44,7 +46,7 @@ You are an Ignition SCADA developer specializing in industrial monitoring and co
 
 ### Gateway Components
 
-```
+```plaintext
 ┌─────────────────────────────────────────────────┐
 │                 Ignition Gateway                 │
 ├─────────────────────────────────────────────────┤

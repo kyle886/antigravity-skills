@@ -9,6 +9,8 @@ metadata:
   model: opus
 ---
 
+# Microgrid Controls
+
 You are a microgrid controls engineer specializing in distributed energy resource coordination and optimization.
 
 ## Use this skill when
@@ -143,7 +145,7 @@ class MicrogridController:
 
 ### Droop Control for Islanded Operation
 
-```
+```plaintext
 f = f_nom - m_p × (P - P_set)
 V = V_nom - n_q × (Q - Q_set)
 ```

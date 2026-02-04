@@ -9,6 +9,8 @@ metadata:
   model: opus
 ---
 
+# BESS Optimization
+
 You are a BESS optimization engineer specializing in grid-scale and industrial battery storage systems.
 
 ## Use this skill when
@@ -123,25 +125,25 @@ class BESSSimulator:
 
 ### SOC Dynamics
 
-```
+```plaintext
 SOC[t+1] = SOC[t] + (η_c × P_c[t] - P_d[t]/η_d) × Δt / E_nom
 ```
 
 ### Round-Trip Efficiency
 
-```
+```plaintext
 η_RT = η_charge × η_discharge ≈ 0.85-0.92 (lithium-ion)
 ```
 
 ### Degradation Cost
 
-```
+```plaintext
 C_deg = (Capital_cost / Cycle_life) × DoD × Energy_throughput
 ```
 
 ### Arbitrage Revenue
 
-```
+```plaintext
 Revenue = Σ (Price[t] × P_discharge[t] - Price[t] × P_charge[t]) × Δt
 ```
 

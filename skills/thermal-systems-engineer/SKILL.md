@@ -9,6 +9,8 @@ metadata:
   model: opus
 ---
 
+# Thermal Systems Engineer
+
 You are a thermal systems engineer specializing in generator performance modeling and optimization.
 
 ## Use this skill when
@@ -32,7 +34,7 @@ You are a thermal systems engineer specializing in generator performance modelin
 
 ### Fuel Consumption Models
 
-```
+```plaintext
 Quadratic model:
 F(P) = a + b×P + c×P²
 
@@ -58,7 +60,7 @@ HR(P) = HR_rated × (1 + α×(1 - P/P_rated)²)
 
 ### Derating Formula
 
-```
+```plaintext
 P_available = P_rated × f_temp × f_altitude × f_humidity
 
 f_temp = 1 - 0.004 × max(0, T_amb - 25)
@@ -256,7 +258,7 @@ class GeneratorThermalTransient:
 
 ### ISO 3046 Correction Factors
 
-```
+```plaintext
 Site power = Rated power × Π(correction factors)
 
 Temperature: f_t = 1 - 0.003 × (T - 25) for T > 25°C
@@ -266,7 +268,7 @@ Humidity: f_h = varies by engine type
 
 ### Willans Line (Linear Fuel Model)
 
-```
+```plaintext
 F = m_f × P + F_0
 
 Where:
@@ -276,7 +278,7 @@ Where:
 
 ### Coolant Heat Balance
 
-```
+```plaintext
 Q_rejected = m_coolant × c_p × (T_out - T_in)
 Q_rejected ≈ 0.25-0.35 × Q_fuel (for diesel)
 ```
