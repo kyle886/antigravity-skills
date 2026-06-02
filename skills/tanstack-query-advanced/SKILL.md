@@ -27,6 +27,7 @@ Advanced patterns for TanStack Query (React Query) covering prefetching, infinit
 - Clarify goals, constraints, and required inputs.
 - Apply relevant best practices and validate outcomes.
 - Provide actionable steps and verification.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -550,6 +551,11 @@ test('updates building and invalidates cache', async () => {
 
 ## Resources
 
-- [TanStack Query Documentation](https://tanstack.com/query/latest)
-- [Practical React Query](https://tkdodo.eu/blog/practical-react-query)
-- [Testing React Query](https://tanstack.com/query/latest/docs/react/guides/testing)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [terraform-specialist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/terraform-specialist/SKILL.md) - Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterp...
+- [csharp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csharp-pro/SKILL.md) - Write modern C# code with advanced features like records, pattern matching, and async/await. Optimiz...
+- [flutter-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/flutter-expert/SKILL.md) - Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles sta...
+

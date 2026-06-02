@@ -26,6 +26,7 @@ Domain expertise in commercial real estate terminology, metrics, and market anal
 2. Calculate and display metrics properly
 3. Use industry-standard units and formats
 4. Validate data against market norms
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Key Property Types
 
@@ -292,7 +293,15 @@ const formatPercent = (value) => `${value.toFixed(1)}%`;
 
 ## Resources
 
-- SIOR Organization: https://www.sior.com/
-- CBRE Research: https://www.cbre.com/insights
-- JLL Research: https://www.jll.com/research
-- CoStar: https://www.costar.com/
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cre-brand-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cre-brand-compliance/SKILL.md) - Audit and enforce brand consistency for commercial real estate companies. Covers visual identity (co...
+- [dbt-transformation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dbt-transformation-patterns/SKILL.md) - Master dbt (data build tool) for analytics engineering with model organization, testing, documentati...
+- [globe-gl-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/globe-gl-integration/SKILL.md) - Master Globe.gl for interactive 3D globe visualization with WebGL. Use when building geographic data...
+- [csv-json-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csv-json-data-pipeline/SKILL.md) - Transform CSV data to JSON for web applications. Use when processing spreadsheet data, converting ma...
+- [grafana-dashboards](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/grafana-dashboards/SKILL.md) - Create and manage production Grafana dashboards for real-time visualization of system and applicatio...
+- [memory-forensics](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/memory-forensics/SKILL.md) - Master memory forensics techniques including memory acquisition, process analysis, and artifact extr...
+- [typescript-advanced-types](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-advanced-types/SKILL.md) - Master TypeScript's advanced type system including generics, conditional types, mapped types, templa...
+

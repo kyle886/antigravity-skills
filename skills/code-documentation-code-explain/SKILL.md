@@ -43,4 +43,11 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed examples and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-documentation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+- [documentation-generation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/documentation-generation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+- [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) - You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective d...
+

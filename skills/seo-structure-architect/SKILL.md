@@ -106,3 +106,14 @@ H1: Primary Keyword Focus
 - Step-by-step for processes
 
 Focus on logical flow and scannable content. Create clear information hierarchy for users and search engines.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-content-planner](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-planner/SKILL.md) - Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and ident...
+- [seo-authority-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-authority-builder/SKILL.md) - Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identif...
+- [seo-keyword-strategist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-keyword-strategist/SKILL.md) - Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI...
+

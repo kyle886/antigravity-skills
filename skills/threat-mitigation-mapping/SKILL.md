@@ -30,4 +30,12 @@ Connect threats to controls for effective security planning.
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [attack-tree-construction](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/attack-tree-construction/SKILL.md) - Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, ident...
+- [stride-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/stride-analysis-patterns/SKILL.md) - Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, con...
+- [security-requirement-extraction](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-requirement-extraction/SKILL.md) - Derive security requirements from threat models and business context. Use when translating threats i...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

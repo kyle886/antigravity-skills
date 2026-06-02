@@ -39,4 +39,12 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [core-web-vitals-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/core-web-vitals-audit/SKILL.md) - Audit and optimize Core Web Vitals (LCP, CLS, INP) using Lighthouse, CrUX data, and PageSpeed Insigh...
+- [pwa-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pwa-optimization/SKILL.md) - Optimize Progressive Web App service worker strategies, precache configuration, offline UX, and mani...
+- [spark-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/spark-optimization/SKILL.md) - Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use ...
+- [embedding-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/embedding-strategies/SKILL.md) - Select and optimize embedding models for semantic search and RAG applications. Use when choosing emb...
+

@@ -34,4 +34,13 @@ Comprehensive guide to implementing robust testing strategies in Python using py
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [javascript-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-testing-patterns/SKILL.md) - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, i...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [temporal-python-testing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/temporal-python-testing/SKILL.md) - Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, int...
+- [solidity-security](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/solidity-security/SKILL.md) - Master smart contract security best practices to prevent common vulnerabilities and implement secure...
+- [unit-testing-test-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/unit-testing-test-generate/SKILL.md) - Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case ...
+

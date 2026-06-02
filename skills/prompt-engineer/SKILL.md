@@ -270,3 +270,15 @@ Verify you have:
 ☐ Considered safety and ethical implications
 
 Remember: The best prompt is one that consistently produces the desired output with minimal post-processing. ALWAYS show the prompt, never just describe it.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) - Systematic improvement of existing agents through performance analysis, prompt engineering, and cont...
+- [llm-application-dev-prompt-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-application-dev-prompt-optimize/SKILL.md) - You are an expert prompt engineer specializing in crafting effective prompts for LLMs through advanc...
+- [prompt-engineering-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prompt-engineering-patterns/SKILL.md) - Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controll...
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+

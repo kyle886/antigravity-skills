@@ -60,3 +60,17 @@ ls conductor/index.md conductor/product.md conductor/tech-stack.md conductor/wor
 <type>_<name>_<YYYYMMDD>
 Example: feature_user_auth_20250115
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-setup/SKILL.md) - Initialize project with Conductor artifacts (product definition, tech stack, workflow, style guides)
+- [conductor-status](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-status/SKILL.md) - Display project status, active tracks, and next actions
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [hr-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hr-pro/SKILL.md) - Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, com...
+

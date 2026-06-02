@@ -39,4 +39,12 @@ Master automated billing systems including recurring billing, invoice generation
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, checklists, and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [stripe-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/stripe-integration/SKILL.md) - Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subs...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [payment-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/payment-integration/SKILL.md) - Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, a...
+

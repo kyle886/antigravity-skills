@@ -31,4 +31,11 @@ Comprehensive guide to tracking, calculating, and optimizing key performance met
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [market-sizing-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/market-sizing-analysis/SKILL.md) - This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "s...
+- [startup-financial-modeling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-financial-modeling/SKILL.md) - This skill should be used when the user asks to "create financial projections", "build a financial m...
+- [team-composition-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/team-composition-analysis/SKILL.md) - This skill should be used when the user asks to "plan team structure", "determine hiring needs", "de...
+

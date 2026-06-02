@@ -414,6 +414,13 @@ TURBO_LOG_VERBOSITY=debug turbo build --filter=@myorg/web
 
 ## Resources
 
-- [Turborepo Documentation](https://turbo.build/repo/docs)
-- [Caching Guide](https://turbo.build/repo/docs/core-concepts/caching)
-- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md) - Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote exe...
+- [gitlab-ci-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitlab-ci-patterns/SKILL.md) - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalab...
+- [monorepo-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/monorepo-management/SKILL.md) - Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable mult...
+- [nx-workspace-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nx-workspace-patterns/SKILL.md) - Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundarie...
+- [website-deployment-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/website-deployment-pipeline/SKILL.md) - Design and implement end-to-end website deployment pipelines including build, test, deploy, CDN purg...
+

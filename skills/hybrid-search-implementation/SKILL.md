@@ -29,4 +29,11 @@ Patterns for combining vector similarity and keyword-based search.
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [rag-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rag-implementation/SKILL.md) - Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and se...
+- [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) - Design and implement event stores for event-sourced systems. Use when building event sourcing infras...
+- [similarity-search-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/similarity-search-patterns/SKILL.md) - Implement efficient similarity search with vector databases. Use when building semantic search, impl...
+

@@ -34,4 +34,11 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) - Expert backend architect specializing in scalable API design, microservices architecture, and distri...
+- [code-review-excellence](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-excellence/SKILL.md) - Master effective code review practices to provide constructive feedback, catch bugs early, and foste...
+- [e2e-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/e2e-testing-patterns/SKILL.md) - Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs,...
+

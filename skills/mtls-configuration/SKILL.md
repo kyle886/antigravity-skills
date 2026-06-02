@@ -353,7 +353,12 @@ linkerd viz tap deploy/my-app --to deploy/my-backend
 
 ## Resources
 
-- [Istio Security](https://istio.io/latest/docs/concepts/security/)
-- [SPIFFE/SPIRE](https://spiffe.io/)
-- [cert-manager](https://cert-manager.io/)
-- [Zero Trust Architecture (NIST)](https://www.nist.gov/publications/zero-trust-architecture)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [hybrid-cloud-networking](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hybrid-cloud-networking/SKILL.md) - Configure secure, high-performance connectivity between on-premises infrastructure and cloud platfor...
+- [linkerd-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/linkerd-patterns/SKILL.md) - Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. ...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+

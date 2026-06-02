@@ -29,7 +29,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Observable MongoDB Migrations
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Observable MongoDB Migrations
 
 ```javascript
 const { MongoClient } = require('mongodb');
@@ -418,3 +421,15 @@ This plugin integrates with:
 - **sql-migrations**: Provides observability for SQL migrations
 - **nosql-migrations**: Monitors NoSQL transformations
 - **migration-integration**: Coordinates monitoring across workflows
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [database-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migration/SKILL.md) - Execute database migrations across ORMs and platforms with zero-downtime strategies, data transforma...
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+- [incident-response-smart-fix](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-smart-fix/SKILL.md) - [Extended thinking: This workflow implements a sophisticated debugging and resolution pipeline that ...
+

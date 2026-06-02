@@ -26,4 +26,11 @@ description: "[Extended thinking: This workflow implements a sophisticated debug
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [database-migrations-migration-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-migration-observability/SKILL.md) - Migration monitoring, CDC, and observability infrastructure
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+

@@ -30,4 +30,14 @@ Practical implementation guide for GDPR-compliant data processing, consent manag
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-quality-frameworks](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-quality-frameworks/SKILL.md) - Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when b...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [legal-advisor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/legal-advisor/SKILL.md) - Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant tex...
+- [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) - Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste...
+

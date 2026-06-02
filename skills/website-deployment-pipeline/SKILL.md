@@ -23,7 +23,10 @@ End-to-end deployment pipeline design for modern web applications.
 
 ## Instructions
 
-### Phase 1: Assess Current State
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Assess Current State
 
 1. Identify the build system (Vite, Next.js, CRA, etc.)
 2. Identify the hosting target and current deployment method
@@ -143,3 +146,16 @@ jobs:
 - Keep environment variables out of build logs
 - Verify HTTPS is configured on the production domain
 - Test redirects: www → non-www (or vice versa), HTTP → HTTPS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [csv-json-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csv-json-data-pipeline/SKILL.md) - Transform CSV data to JSON for web applications. Use when processing spreadsheet data, converting ma...
+- [machine-learning-ops-ml-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/machine-learning-ops-ml-pipeline/SKILL.md) - Design and implement a complete ML pipeline for: $ARGUMENTS
+- [gitlab-ci-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitlab-ci-patterns/SKILL.md) - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalab...
+- [deployment-pipeline-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-pipeline-design/SKILL.md) - Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestratio...
+- [turborepo-caching](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/turborepo-caching/SKILL.md) - Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up...
+

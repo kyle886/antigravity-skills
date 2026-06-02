@@ -28,6 +28,7 @@ Comprehensive patterns for direct Supabase integration in TypeScript application
 - Clarify goals, constraints, and required inputs.
 - Apply relevant best practices and validate outcomes.
 - Provide actionable steps and verification.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -599,7 +600,11 @@ export function useCreateBuilding() {
 
 ## Resources
 
-- [Supabase Documentation](https://supabase.com/docs)
-- [Supabase TypeScript Guide](https://supabase.com/docs/guides/api/rest/generating-types)
-- [RLS Guide](https://supabase.com/docs/guides/auth/row-level-security)
-- [Realtime Documentation](https://supabase.com/docs/guides/realtime)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+

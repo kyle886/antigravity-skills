@@ -23,7 +23,10 @@ What separates "works" from "feels fantastic" — patterns for every loading sta
 
 ## Instructions
 
-### Pattern 1: Skeleton Screens
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Pattern 1: Skeleton Screens
 
 Skeletons show the shape of content before it loads. They reduce perceived loading time by 30–40% compared to spinners.
 
@@ -285,3 +288,14 @@ function App() {
 - **Instant content pop**: Always fade/transition content in, even if it loaded instantly.
 - **Missing error states**: Every loading state needs a corresponding error state.
 - **Infinite skeletons**: Set a timeout (5–8s) — if still loading, show a retry option.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [responsive-polish-checklist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/responsive-polish-checklist/SKILL.md) - The "last 5%" cross-browser, cross-device quality checklist for production websites. Touch targets, ...
+- [shadcn-ui-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/shadcn-ui-patterns/SKILL.md) - Master shadcn/ui component patterns, customization, theming, and composition. Use when building acce...
+- [typography-and-font-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typography-and-font-optimization/SKILL.md) - Font loading strategies, responsive type scales, text rendering optimization, and typographic polish...
+

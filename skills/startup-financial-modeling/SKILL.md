@@ -465,3 +465,16 @@ To create a startup financial model:
 9. **Integrate fundraising** - Model funding rounds and milestones
 
 For complete templates and formulas, reference the `references/` and `examples/` files.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [competitive-landscape](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/competitive-landscape/SKILL.md) - This skill should be used when the user asks to "analyze competitors", "assess competitive landscape...
+- [market-sizing-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/market-sizing-analysis/SKILL.md) - This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "s...
+- [startup-business-analyst-financial-projections](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-financial-projections/SKILL.md) - Create detailed 3-5 year financial model with revenue, costs, cash flow, and scenarios
+- [team-composition-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/team-composition-analysis/SKILL.md) - This skill should be used when the user asks to "plan team structure", "determine hiring needs", "de...
+- [startup-metrics-framework](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-metrics-framework/SKILL.md) - This skill should be used when the user asks about "key startup metrics", "SaaS metrics", "CAC and L...
+

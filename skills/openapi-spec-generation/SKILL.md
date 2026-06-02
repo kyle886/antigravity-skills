@@ -30,4 +30,11 @@ Comprehensive patterns for creating, maintaining, and validating OpenAPI 3.1 spe
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [api-documenter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-documenter/SKILL.md) - Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practic...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

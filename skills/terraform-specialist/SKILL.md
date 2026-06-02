@@ -29,6 +29,7 @@ You are a Terraform/OpenTofu specialist focused on advanced infrastructure autom
 2. Design modules and choose a remote state backend.
 3. Implement plan/apply workflows with reviews and policies.
 4. Validate drift, costs, and rollback strategies.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -164,3 +165,16 @@ Expert Infrastructure as Code specialist with comprehensive knowledge of Terrafo
 - "Design multi-cloud Terraform architecture with provider abstraction"
 - "Troubleshoot state corruption and implement recovery procedures"
 - "Create enterprise service catalog with approved infrastructure modules"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [postgresql](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postgresql/SKILL.md) - Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, perfo...
+- [tanstack-query-advanced](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tanstack-query-advanced/SKILL.md) - Advanced TanStack Query patterns including prefetching, infinite queries, optimistic updates, suspen...
+- [terraform-module-library](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/terraform-module-library/SKILL.md) - Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [mobile-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-security-coder/SKILL.md) - Expert in secure mobile coding practices specializing in input validation, WebView security, and mob...
+

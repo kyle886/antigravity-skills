@@ -30,4 +30,13 @@ Build production-ready design systems with Tailwind CSS, including design tokens
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [frontend-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-developer/SKILL.md) - Build React components, implement responsive layouts, and handle client-side state management. Maste...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [nodejs-backend-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nodejs-backend-patterns/SKILL.md) - Build production-ready Node.js backend services with Express/Fastify, implementing middleware patter...
+- [auth-implementation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/auth-implementation-patterns/SKILL.md) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC...
+- [ui-ux-designer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ui-ux-designer/SKILL.md) - Create interface designs, wireframes, and design systems. Masters user research, accessibility stand...
+

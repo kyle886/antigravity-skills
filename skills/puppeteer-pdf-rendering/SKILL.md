@@ -26,6 +26,7 @@ Server-side PDF generation using Puppeteer for high-fidelity, complex document r
 2. Configure page layout and margins
 3. Handle dynamic data injection
 4. Optimize for performance
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -256,5 +257,11 @@ exports.handler = async (event) => {
 
 ## Resources
 
-- [Puppeteer Documentation](https://pptr.dev/)
-- [Chromium for AWS Lambda](https://github.com/Sparticuz/chromium)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [jspdf-generation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/jspdf-generation/SKILL.md) - Master client-side PDF generation with jsPDF and html2canvas. Use when creating downloadable reports...
+- [javascript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-pro/SKILL.md) - Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops,...
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+

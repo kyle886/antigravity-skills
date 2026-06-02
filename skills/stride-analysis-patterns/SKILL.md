@@ -30,4 +30,11 @@ Systematic threat identification using the STRIDE methodology.
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [threat-mitigation-mapping](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/threat-mitigation-mapping/SKILL.md) - Map identified threats to appropriate security controls and mitigations. Use when prioritizing secur...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [security-requirement-extraction](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-requirement-extraction/SKILL.md) - Derive security requirements from threat models and business context. Use when translating threats i...
+

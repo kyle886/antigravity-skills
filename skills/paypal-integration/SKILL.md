@@ -452,28 +452,12 @@ def test_payment_flow():
 
 ## Resources
 
-- **references/express-checkout.md**: Express Checkout implementation guide
-- **references/ipn-handling.md**: IPN verification and processing
-- **references/refund-workflows.md**: Refund handling patterns
-- **references/billing-agreements.md**: Recurring billing setup
-- **assets/paypal-client.py**: Production PayPal client
-- **assets/ipn-processor.py**: IPN webhook processor
-- **assets/recurring-billing.py**: Subscription management
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Always Verify IPN**: Never trust IPN without verification
-2. **Idempotent Processing**: Handle duplicate IPN notifications
-3. **Error Handling**: Implement robust error handling
-4. **Logging**: Log all transactions and errors
-5. **Test Thoroughly**: Use sandbox extensively
-6. **Webhook Backup**: Don't rely solely on client-side callbacks
-7. **Currency Handling**: Always specify currency explicitly
+- [payment-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/payment-integration/SKILL.md) - Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, a...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [stripe-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/stripe-integration/SKILL.md) - Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subs...
 
-## Common Pitfalls
-
-- **Not Verifying IPN**: Accepting IPN without verification
-- **Duplicate Processing**: Not checking for duplicate transactions
-- **Wrong Environment**: Mixing sandbox and production URLs/credentials
-- **Missing Webhooks**: Not handling all payment states
-- **Hardcoded Values**: Not making configurable for different environments

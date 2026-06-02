@@ -23,7 +23,10 @@ Make your React app "just work" by handling every failure gracefully. Users shou
 
 ## Instructions
 
-### Pattern 1: Component Error Boundary
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Pattern 1: Component Error Boundary
 
 Catch render errors and show a meaningful fallback instead of a white screen.
 
@@ -287,3 +290,15 @@ function NotFoundPage() {
 - [ ] 404 page is custom and branded
 - [ ] Form submissions handle failure with retry options
 - [ ] Console is free of unhandled promise rejections
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) - Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-d...
+- [error-diagnostics-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-smart-debug/SKILL.md) - Use when working with error diagnostics smart debug
+- [error-handling-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-handling-patterns/SKILL.md) - Master error handling patterns across languages including exceptions, Result types, error propagatio...
+- [tdd-workflows-tdd-red](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-red/SKILL.md) - Generate failing tests for the TDD red phase to define expected behavior and edge cases.
+

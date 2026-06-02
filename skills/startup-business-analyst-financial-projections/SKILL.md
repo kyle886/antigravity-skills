@@ -351,3 +351,14 @@ Growth assumptions?
 - Share with investors and board
 - Use for fundraising decks
 - Basis for budget and hiring decisions
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [startup-financial-modeling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-financial-modeling/SKILL.md) - This skill should be used when the user asks to "create financial projections", "build a financial m...
+- [startup-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-analyst/SKILL.md) - Expert startup business analyst specializing in market sizing, financial modeling, competitive analy...
+- [startup-business-analyst-business-case](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-business-case/SKILL.md) - Generate comprehensive investor-ready business case document with market, solution, financials, and ...
+

@@ -32,4 +32,11 @@ Comprehensive guidance for mastering TypeScript's advanced type system including
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [typescript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-pro/SKILL.md) - Master TypeScript with advanced types, generics, and strict type safety. Handles complex type system...
+- [helm-chart-scaffolding](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/helm-chart-scaffolding/SKILL.md) - Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with r...
+- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) - Master commercial real estate (CRE) terminology, metrics, and market analysis. Use when building CRE...
+

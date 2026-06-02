@@ -28,6 +28,7 @@ Comprehensive guide to configuring and optimizing Vite for modern frontend devel
 - Clarify goals, constraints, and required inputs.
 - Apply relevant best practices and validate outcomes.
 - Provide actionable steps and verification.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Project Setup
 
@@ -543,7 +544,11 @@ export default defineConfig({
 
 ## Resources
 
-- [Vite Documentation](https://vitejs.dev)
-- [Vitest Documentation](https://vitest.dev)
-- [Awesome Vite](https://github.com/vitejs/awesome-vite)
-- [Vite Plugin Directory](https://vitejs.dev/plugins/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [gitlab-ci-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitlab-ci-patterns/SKILL.md) - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalab...
+- [uv-package-manager](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/uv-package-manager/SKILL.md) - Master the uv package manager for fast Python dependency management, virtual environments, and moder...
+- [monorepo-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/monorepo-management/SKILL.md) - Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable mult...
+

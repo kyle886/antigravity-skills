@@ -38,6 +38,7 @@ Use for code review security analysis, injection vulnerabilities, hardcoded secr
 2. Select SAST tools and configure rules for the codebase.
 3. Run scans in CI or locally with reproducible settings.
 4. Triage findings, prioritize by severity, and propose fixes.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -493,3 +494,16 @@ sast:
 - **security-owasp.md** - OWASP Top 10 assessment
 - **security-api.md** - API security testing
 - **security-scan.md** - Comprehensive security scanning
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [frontend-mobile-security-xss-scan](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-mobile-security-xss-scan/SKILL.md) - You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detectio...
+- [sast-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sast-configuration/SKILL.md) - Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in ...
+- [security-scanning-security-dependencies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-dependencies/SKILL.md) - You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and su...
+- [security-scanning-security-hardening](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-hardening/SKILL.md) - Coordinate multi-layer security scanning and hardening across application, infrastructure, and compl...
+- [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) - Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, ...
+

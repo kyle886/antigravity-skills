@@ -344,3 +344,14 @@ kubectl auth can-i '*' '*' --as system:serviceaccount:default:my-sa
 
 - `k8s-manifest-generator` - For creating secure manifests
 - `gitops-workflow` - For automated policy deployment
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [k8s-manifest-generator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/k8s-manifest-generator/SKILL.md) - Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets foll...
+- [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) - Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste...
+- [auth-implementation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/auth-implementation-patterns/SKILL.md) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC...
+

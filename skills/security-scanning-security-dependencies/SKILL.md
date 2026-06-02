@@ -40,4 +40,12 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [codebase-cleanup-deps-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-deps-audit/SKILL.md) - You are a dependency security expert specializing in vulnerability scanning, license compliance, and...
+- [dependency-management-deps-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dependency-management-deps-audit/SKILL.md) - You are a dependency security expert specializing in vulnerability scanning, license compliance, and...
+- [frontend-mobile-security-xss-scan](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-mobile-security-xss-scan/SKILL.md) - You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detectio...
+- [security-scanning-security-sast](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-sast/SKILL.md) - Static Application Security Testing (SAST) for code vulnerability analysis across multiple languages...
+

@@ -30,4 +30,11 @@ Cross-language patterns for memory-safe programming including RAII, ownership, s
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+

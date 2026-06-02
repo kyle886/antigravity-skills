@@ -30,4 +30,12 @@ Production patterns for Go concurrency including goroutines, channels, synchroni
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [rust-async-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-async-patterns/SKILL.md) - Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use...
+- [shadcn-ui-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/shadcn-ui-patterns/SKILL.md) - Master shadcn/ui component patterns, customization, theming, and composition. Use when building acce...
+

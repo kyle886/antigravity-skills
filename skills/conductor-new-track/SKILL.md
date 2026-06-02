@@ -431,3 +431,15 @@ Next steps:
 - If directory creation fails: Halt and report, do not register in tracks.md
 - If any file write fails: Clean up partial track, report error
 - If tracks.md update fails: Warn user to manually register track
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-implement/SKILL.md) - Execute tasks from a track's implementation plan following TDD workflow
+- [conductor-manage](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-manage/SKILL.md) - Manage track lifecycle: archive, restore, delete, rename, and cleanup
+- [track-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/track-management/SKILL.md) - Use this skill when creating, managing, or working with Conductor tracks - the logical work units fo...
+- [fastapi-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-templates/SKILL.md) - Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensiv...
+

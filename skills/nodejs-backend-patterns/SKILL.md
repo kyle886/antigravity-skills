@@ -32,4 +32,13 @@ Comprehensive guidance for building scalable, maintainable, and production-ready
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [k8s-manifest-generator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/k8s-manifest-generator/SKILL.md) - Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets foll...
+- [error-diagnostics-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-smart-debug/SKILL.md) - Use when working with error diagnostics smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [fastapi-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-templates/SKILL.md) - Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensiv...
+- [tailwind-design-system](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tailwind-design-system/SKILL.md) - Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive ...
+

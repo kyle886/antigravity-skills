@@ -30,4 +30,11 @@ Practical guide to testing web applications with screen readers for comprehensiv
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+

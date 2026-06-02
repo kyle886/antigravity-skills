@@ -386,3 +386,14 @@ If implementation is paused and resumed:
 4. **Keep plan.md updated** - Task status must reflect actual progress
 5. **Commit frequently** - Each task completion should be committed
 6. **Track all commits** - Record commit hashes in metadata.json for potential revert
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-new-track](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-new-track/SKILL.md) - Create a new track with specification and phased implementation plan
+- [workflow-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/workflow-patterns/SKILL.md) - Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpo...
+- [changelog-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/changelog-automation/SKILL.md) - Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use...
+

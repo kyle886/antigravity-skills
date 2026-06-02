@@ -40,4 +40,11 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bats-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bats-testing-patterns/SKILL.md) - Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing...
+- [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) - Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities....
+- [async-python-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/async-python-patterns/SKILL.md) - Master Python asyncio, concurrent programming, and async/await patterns for high-performance applica...
+

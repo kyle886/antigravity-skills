@@ -185,29 +185,11 @@ If verification fails, revise your response."""
 
 ## Resources
 
-- **references/few-shot-learning.md**: Deep dive on example selection and construction
-- **references/chain-of-thought.md**: Advanced reasoning elicitation techniques
-- **references/prompt-optimization.md**: Systematic refinement workflows
-- **references/prompt-templates.md**: Reusable template patterns
-- **references/system-prompts.md**: System-level prompt design
-- **assets/prompt-template-library.md**: Battle-tested prompt templates
-- **assets/few-shot-examples.json**: Curated example datasets
-- **scripts/optimize-prompt.py**: Automated prompt optimization tool
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Success Metrics
+## Cross-References
 
-Track these KPIs for your prompts:
-- **Accuracy**: Correctness of outputs
-- **Consistency**: Reproducibility across similar inputs
-- **Latency**: Response time (P50, P95, P99)
-- **Token Usage**: Average tokens per request
-- **Success Rate**: Percentage of valid outputs
-- **User Satisfaction**: Ratings and feedback
+- [error-handling-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-handling-patterns/SKILL.md) - Master error handling patterns across languages including exceptions, Result types, error propagatio...
+- [prompt-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prompt-engineer/SKILL.md) - Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI syste...
+- [sql-optimization-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-optimization-patterns/SKILL.md) - Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve dat...
 
-## Next Steps
-
-1. Review the prompt template library for common patterns
-2. Experiment with few-shot learning for your specific use case
-3. Implement prompt versioning and A/B testing
-4. Set up automated evaluation pipelines
-5. Document your prompt engineering decisions and learnings

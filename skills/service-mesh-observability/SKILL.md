@@ -389,7 +389,12 @@ spec:
 
 ## Resources
 
-- [Istio Observability](https://istio.io/latest/docs/tasks/observability/)
-- [Linkerd Observability](https://linkerd.io/2.14/features/dashboard/)
-- [OpenTelemetry](https://opentelemetry.io/)
-- [Kiali](https://kiali.io/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [prometheus-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prometheus-configuration/SKILL.md) - Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and...
+- [risk-metrics-calculation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/risk-metrics-calculation/SKILL.md) - Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use wh...
+- [distributed-tracing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/distributed-tracing/SKILL.md) - Implement distributed tracing with Jaeger and Tempo to track requests across microservices and ident...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

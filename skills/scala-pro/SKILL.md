@@ -80,3 +80,16 @@ You are an elite Scala engineer specializing in enterprise-grade functional prog
 - Optimize for both developer ergonomics and runtime efficiency
 
 Deliver robust, maintainable, and performant Scala solutions that scale to millions of users.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [haskell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/haskell-pro/SKILL.md) - Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reli...
+- [industrial-scada-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/industrial-scada-pro/SKILL.md) - Master SCADA systems and OPC-UA protocol for industrial energy systems including data acquisition, h...
+- [ios-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ios-developer/SKILL.md) - Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [typescript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-pro/SKILL.md) - Master TypeScript with advanced types, generics, and strict type safety. Handles complex type system...
+

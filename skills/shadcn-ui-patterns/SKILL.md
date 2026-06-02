@@ -27,6 +27,7 @@ Comprehensive guide to building beautiful, accessible React UIs with shadcn/ui c
 - Clarify goals, constraints, and required inputs.
 - Apply relevant best practices and validate outcomes.
 - Provide actionable steps and verification.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Getting Started
 
@@ -675,7 +676,12 @@ export function EmptyState({
 
 ## Resources
 
-- [shadcn/ui Documentation](https://ui.shadcn.com)
-- [Radix UI Primitives](https://www.radix-ui.com)
-- [react-hook-form](https://react-hook-form.com)
-- [TanStack Table](https://tanstack.com/table)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [loading-states-and-transitions](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/loading-states-and-transitions/SKILL.md) - Production patterns for skeleton screens, progressive image loading, route transitions, optimistic U...
+- [nextjs-app-router-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nextjs-app-router-patterns/SKILL.md) - Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data ...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [go-concurrency-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/go-concurrency-patterns/SKILL.md) - Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building con...
+

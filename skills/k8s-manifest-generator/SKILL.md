@@ -32,4 +32,12 @@ Use this skill when you need to:
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [employment-contract-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/employment-contract-templates/SKILL.md) - Create employment contracts, offer letters, and HR policy documents following legal best practices. ...
+- [helm-chart-scaffolding](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/helm-chart-scaffolding/SKILL.md) - Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with r...
+- [k8s-security-policies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/k8s-security-policies/SKILL.md) - Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for prod...
+- [nodejs-backend-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nodejs-backend-patterns/SKILL.md) - Build production-ready Node.js backend services with Express/Fastify, implementing middleware patter...
+

@@ -30,6 +30,7 @@ You are a deployment engineer specializing in modern CI/CD pipelines, GitOps wor
 2. Design pipeline stages with quality gates and approvals.
 3. Implement deployment strategy with rollback and observability.
 4. Document runbooks and validate in staging before production.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -168,3 +169,16 @@ Expert deployment engineer with comprehensive knowledge of modern CI/CD practice
 - "Implement GitOps workflow with ArgoCD for Kubernetes application deployment"
 - "Create comprehensive monitoring and alerting for deployment pipeline and application health"
 - "Build developer platform with self-service deployment capabilities and proper guardrails"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) - Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities....
+- [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md) - You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Acti...
+- [kubernetes-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/kubernetes-architect/SKILL.md) - Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (...
+- [network-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/network-engineer/SKILL.md) - Expert network engineer specializing in modern cloud networking, security architectures, and perform...
+- [deployment-pipeline-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-pipeline-design/SKILL.md) - Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestratio...
+

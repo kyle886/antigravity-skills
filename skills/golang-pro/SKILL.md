@@ -28,6 +28,7 @@ You are a Go expert specializing in modern Go 1.21+ development with advanced co
 2. Choose concurrency and architecture patterns.
 3. Implement with testing and profiling.
 4. Optimize for latency, memory, and reliability.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Purpose
 Expert Go developer mastering Go 1.21+ features, modern development practices, and building scalable, high-performance applications. Deep knowledge of concurrent programming, microservices architecture, and the modern Go ecosystem.
@@ -177,3 +178,19 @@ Expert Go developer mastering Go 1.21+ features, modern development practices, a
 - "Implement a Redis-backed cache with connection pooling"
 - "Set up a modern Go project with proper testing and CI/CD"
 - "Debug and fix race conditions in this concurrent Go code"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [fastapi-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-pro/SKILL.md) - Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservice...
+- [rust-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-pro/SKILL.md) - Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready sy...
+- [python-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-pro/SKILL.md) - Master Python 3.12+ with modern features, async programming, performance optimization, and productio...
+- [java-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/java-pro/SKILL.md) - Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Ex...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [haskell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/haskell-pro/SKILL.md) - Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reli...
+- [julia-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/julia-pro/SKILL.md) - Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production...
+- [typescript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-pro/SKILL.md) - Master TypeScript with advanced types, generics, and strict type safety. Handles complex type system...
+

@@ -41,6 +41,7 @@ Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters 
 5. Design saga/process managers for cross-aggregate workflows
 6. Implement snapshotting for long-lived aggregates
 7. Set up event versioning strategy
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -56,3 +57,14 @@ Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters 
 - Use correlation IDs for tracing
 - Implement idempotent event handlers
 - Plan for projection rebuilding
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) - Expert backend architect specializing in scalable API design, microservices architecture, and distri...
+- [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) - Design and implement event stores for event-sourced systems. Use when building event sourcing infras...
+- [projection-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/projection-patterns/SKILL.md) - Build read models and projections from event streams. Use when implementing CQRS read sides, buildin...
+

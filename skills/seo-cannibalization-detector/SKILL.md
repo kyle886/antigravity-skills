@@ -121,3 +121,14 @@ Resolution Strategy:
 - Add canonical tags
 
 Focus on clear differentiation. Each page should serve a unique purpose with distinct targeting.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-keyword-strategist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-keyword-strategist/SKILL.md) - Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI...
+- [seo-authority-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-authority-builder/SKILL.md) - Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identif...
+- [seo-content-refresher](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-refresher/SKILL.md) - Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds s...
+

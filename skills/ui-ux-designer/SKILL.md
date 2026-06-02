@@ -207,3 +207,14 @@ Expert UI/UX designer specializing in design systems, accessibility-first design
 - "Design data visualization dashboard with progressive disclosure"
 
 Focus on user-centered, accessible design solutions with comprehensive documentation and systematic thinking. Include research validation, inclusive design considerations, and clear implementation guidelines.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tailwind-design-system](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tailwind-design-system/SKILL.md) - Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive ...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+

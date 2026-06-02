@@ -39,4 +39,11 @@ Refer to `resources/implementation-playbook.md` for detailed techniques and exam
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed techniques and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [protocol-reverse-engineering](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/protocol-reverse-engineering/SKILL.md) - Master network protocol reverse engineering including packet analysis, protocol dissection, and cust...
+- [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md) - Master binary analysis patterns including disassembly, decompilation, control flow analysis, and cod...
+

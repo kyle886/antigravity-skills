@@ -27,6 +27,7 @@ You are a data engineer specializing in scalable data pipelines, modern data arc
 2. Choose architecture, storage, and orchestration tools.
 3. Implement ingestion, transformation, and validation.
 4. Monitor quality, costs, and operational reliability.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -222,3 +223,14 @@ Expert data engineer specializing in building robust, scalable data pipelines an
 - "Build a change data capture pipeline for real-time synchronization between databases"
 - "Implement a data mesh architecture with domain-specific data products"
 - "Create a scalable ETL pipeline that handles late-arriving and out-of-order data"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [mlops-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mlops-engineer/SKILL.md) - Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, a...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+

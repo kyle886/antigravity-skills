@@ -50,4 +50,11 @@ Focus on production-ready SQL migrations with zero-downtime deployment strategie
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [database-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migration/SKILL.md) - Execute database migrations across ORMs and platforms with zero-downtime strategies, data transforma...
+- [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) - Expert database architect specializing in data layer design from scratch, technology selection, sche...
+- [sql-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-pro/SKILL.md) - Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques...
+

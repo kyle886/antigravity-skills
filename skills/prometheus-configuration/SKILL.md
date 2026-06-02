@@ -402,3 +402,16 @@ curl 'http://localhost:9090/api/v1/query?query=up'
 - `grafana-dashboards` - For visualization
 - `slo-implementation` - For SLO monitoring
 - `distributed-tracing` - For request tracing
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [service-mesh-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-observability/SKILL.md) - Implement comprehensive observability for service meshes including distributed tracing, metrics, and...
+- [javascript-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-testing-patterns/SKILL.md) - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, i...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [risk-metrics-calculation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/risk-metrics-calculation/SKILL.md) - Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use wh...
+- [shellcheck-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/shellcheck-configuration/SKILL.md) - Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting...
+

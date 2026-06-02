@@ -34,4 +34,11 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [llm-application-dev-ai-assistant](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-application-dev-ai-assistant/SKILL.md) - You are an AI assistant development expert specializing in creating intelligent conversational inter...
+- [llm-application-dev-langchain-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-application-dev-langchain-agent/SKILL.md) - You are an expert LangChain agent developer specializing in production-grade AI systems using LangCh...
+- [prompt-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prompt-engineer/SKILL.md) - Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI syste...
+

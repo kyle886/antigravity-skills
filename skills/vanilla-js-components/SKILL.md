@@ -26,6 +26,7 @@ Framework-agnostic web components for maximum portability and CMS compatibility.
 2. Use ES6+ with transpilation fallback
 3. Isolate styles with namespacing
 4. Test across target browsers
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Patterns
 
@@ -357,5 +358,11 @@ if (!supportsFetch) {
 
 ## Resources
 
-- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-- [ES6 Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [nextjs-app-router-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nextjs-app-router-patterns/SKILL.md) - Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data ...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

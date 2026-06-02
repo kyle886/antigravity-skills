@@ -166,3 +166,15 @@ Expert ML engineer specializing in production-ready machine learning systems. Ma
 - "Implement cost-optimized batch inference pipeline for processing millions of records"
 - "Build ML serving architecture with auto-scaling and load balancing"
 - "Create continuous training pipeline that automatically retrains models based on performance"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) - Build features guided by data insights, A/B testing, and continuous measurement using specialized ag...
+- [mlops-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mlops-engineer/SKILL.md) - Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, a...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+- [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md) - Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeF...
+

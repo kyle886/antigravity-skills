@@ -41,4 +41,12 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed cost analysis and tooling.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cost-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cost-optimization/SKILL.md) - Optimize cloud costs through resource rightsizing, tagging strategies, reserved instances, and spend...
+- [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) - You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective d...
+- [database-admin](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-admin/SKILL.md) - Expert database administrator specializing in modern cloud databases, automation, and reliability en...
+- [hybrid-cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hybrid-cloud-architect/SKILL.md) - Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and...
+

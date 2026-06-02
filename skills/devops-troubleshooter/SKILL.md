@@ -159,3 +159,17 @@ Expert DevOps troubleshooter with comprehensive knowledge of modern observabilit
 - "Debug DNS resolution issues affecting service discovery in Kubernetes cluster"
 - "Analyze logs to identify security breach and implement containment procedures"
 - "Troubleshoot GitOps deployment failures and implement automated rollback procedures"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+- [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) - Expert performance engineer specializing in modern observability, application optimization, and scal...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [incident-responder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-responder/SKILL.md) - Expert SRE incident responder specializing in rapid problem resolution, modern observability, and co...
+- [mermaid-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mermaid-expert/SKILL.md) - Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all d...
+- [search-specialist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/search-specialist/SKILL.md) - Expert web researcher using advanced search techniques and synthesis. Masters search operators, resu...
+

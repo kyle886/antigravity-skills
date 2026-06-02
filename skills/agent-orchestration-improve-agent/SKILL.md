@@ -28,6 +28,7 @@ Systematic improvement of existing agents through performance analysis, prompt e
 2. Identify failure modes and prioritize high-impact fixes.
 3. Apply prompt and workflow improvements with measurable goals.
 4. Validate with tests and roll out changes in controlled stages.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -347,3 +348,15 @@ Establish regular improvement cadence:
 - **Annually**: Strategic review and architecture updates
 
 Remember: Agent optimization is an iterative process. Each cycle builds upon previous learnings, gradually improving performance while maintaining stability and safety.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) - Build features guided by data insights, A/B testing, and continuous measurement using specialized ag...
+- [prompt-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prompt-engineer/SKILL.md) - Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI syste...
+- [agent-orchestration-multi-agent-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-multi-agent-optimize/SKILL.md) - Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orche...
+- [framework-migration-legacy-modernize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-legacy-modernize/SKILL.md) - Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gr...
+

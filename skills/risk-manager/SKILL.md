@@ -59,3 +59,14 @@ You are a risk manager specializing in portfolio protection and risk measurement
 - Risk dashboard template
 
 Use monte carlo simulations for stress testing. Track performance in R-multiples for objective analysis.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [quant-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/quant-analyst/SKILL.md) - Build financial models, backtest trading strategies, and analyze market data. Implements risk metric...
+- [mlops-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mlops-engineer/SKILL.md) - Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, a...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+

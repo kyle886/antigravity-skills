@@ -90,3 +90,14 @@ Description: Action verb + benefit. Include keyword naturally. Clear CTA here âœ
 - Astro/Next.js: Component props and helmet setup
 
 Focus on psychological triggers and user benefits. Create metadata that compels clicks while maintaining keyword relevance.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-content-writer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-writer/SKILL.md) - Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehe...
+- [seo-snippet-hunter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-snippet-hunter/SKILL.md) - Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized co...
+- [seo-content-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-auditor/SKILL.md) - Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and p...
+

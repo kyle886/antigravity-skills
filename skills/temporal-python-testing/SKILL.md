@@ -168,3 +168,14 @@ async def test_activity():
 - Python SDK Testing: docs.temporal.io/develop/python/testing-suite
 - Testing Patterns: github.com/temporalio/temporal/blob/main/docs/development/testing.md
 - Python Samples: github.com/temporalio/samples-python
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [python-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-testing-patterns/SKILL.md) - Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven developme...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+

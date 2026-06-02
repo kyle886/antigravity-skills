@@ -403,25 +403,11 @@ jobs:
 
 ## Resources
 
-- **references/hardhat-setup.md**: Hardhat configuration guide
-- **references/foundry-setup.md**: Foundry testing framework
-- **references/test-patterns.md**: Testing best practices
-- **references/mainnet-forking.md**: Fork testing strategies
-- **references/contract-verification.md**: Etherscan verification
-- **assets/hardhat-config.js**: Complete Hardhat configuration
-- **assets/test-suite.js**: Comprehensive test examples
-- **assets/foundry.toml**: Foundry configuration
-- **scripts/test-contract.sh**: Automated testing script
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Test Coverage**: Aim for >90% coverage
-2. **Edge Cases**: Test boundary conditions
-3. **Gas Limits**: Verify functions don't hit block gas limit
-4. **Reentrancy**: Test for reentrancy vulnerabilities
-5. **Access Control**: Test unauthorized access attempts
-6. **Events**: Verify event emissions
-7. **Fixtures**: Use fixtures to avoid code duplication
-8. **Mainnet Fork**: Test with real contracts
-9. **Fuzzing**: Use property-based testing
-10. **CI/CD**: Automate testing on every commit
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [error-diagnostics-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-smart-debug/SKILL.md) - Use when working with error diagnostics smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

@@ -116,3 +116,15 @@ Refresh Actions:
 - Sitemap priority adjustments
 
 Focus on meaningful updates that add value. Identify specific elements that need refreshing.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [marketing-website-content-refresh](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/marketing-website-content-refresh/SKILL.md) - Quarterly content freshness audit and data update workflow for marketing websites. Detects stale sta...
+- [seo-authority-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-authority-builder/SKILL.md) - Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identif...
+- [seo-cannibalization-detector](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-cannibalization-detector/SKILL.md) - Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. S...
+- [seo-content-planner](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-planner/SKILL.md) - Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and ident...
+

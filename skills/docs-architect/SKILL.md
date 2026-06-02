@@ -96,3 +96,16 @@ Generate documentation in Markdown format with:
 - Links to relevant code files (using file_path:line_number format)
 
 Remember: Your goal is to create documentation that serves as the definitive technical reference for the system, suitable for onboarding new team members, architectural reviews, and long-term maintenance.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) - Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bot...
+- [reference-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/reference-builder/SKILL.md) - Creates exhaustive technical references and API documentation. Generates comprehensive parameter lis...
+- [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md) - Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,...
+- [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) - Expert database architect specializing in data layer design from scratch, technology selection, sche...
+- [legacy-modernizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/legacy-modernizer/SKILL.md) - Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles...
+

@@ -30,6 +30,7 @@ Build reliable, fast, and maintainable end-to-end test suites that provide confi
 2. Build stable selectors and test data strategies.
 3. Implement tests with retries, tracing, and isolation.
 4. Run in CI with parallelization and artifact capture.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -38,4 +39,12 @@ Build reliable, fast, and maintainable end-to-end test suites that provide confi
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed E2E patterns and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [api-design-principles](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-design-principles/SKILL.md) - Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs th...
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+

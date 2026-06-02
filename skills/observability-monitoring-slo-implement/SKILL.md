@@ -40,4 +40,12 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [api-testing-observability-api-mock](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-testing-observability-api-mock/SKILL.md) - You are an API mocking expert specializing in realistic mock services for development, testing, and ...
+- [error-diagnostics-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+- [slo-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/slo-implementation/SKILL.md) - Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error ...
+- [error-debugging-error-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-analysis/SKILL.md) - You are an expert error analysis specialist with deep expertise in debugging distributed systems, an...
+

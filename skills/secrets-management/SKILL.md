@@ -31,6 +31,7 @@ Implement secure secrets management in CI/CD pipelines without hardcoding sensit
 2. Choose a secrets backend and access model.
 3. Integrate CI/CD or runtime retrieval with least privilege.
 4. Validate rotation and audit logging.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -362,3 +363,14 @@ secret-scan:
 - `github-actions-templates` - For GitHub Actions integration
 - `gitlab-ci-patterns` - For GitLab CI integration
 - `deployment-pipeline-design` - For pipeline architecture
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) - Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste...
+

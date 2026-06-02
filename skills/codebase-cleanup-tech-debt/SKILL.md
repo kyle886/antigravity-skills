@@ -25,7 +25,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Technical Debt Inventory
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Technical Debt Inventory
 
 Conduct a thorough scan for all types of technical debt:
 
@@ -384,3 +387,14 @@ Track progress with clear KPIs:
 7. **ROI Projections**: Expected returns on debt reduction investment
 
 Focus on delivering measurable improvements that directly impact development velocity, system reliability, and team morale.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-refactoring-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-refactor-clean/SKILL.md) - You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and ...
+- [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) - You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical...
+- [codebase-cleanup-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-refactor-clean/SKILL.md) - You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and ...
+

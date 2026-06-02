@@ -332,6 +332,11 @@ istioctl proxy-config log deploy/my-app --level debug
 
 ## Resources
 
-- [Istio Traffic Management](https://istio.io/latest/docs/concepts/traffic-management/)
-- [Virtual Service Reference](https://istio.io/latest/docs/reference/config/networking/virtual-service/)
-- [Destination Rule Reference](https://istio.io/latest/docs/reference/config/networking/destination-rule/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [linkerd-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/linkerd-patterns/SKILL.md) - Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. ...
+

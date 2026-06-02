@@ -167,3 +167,15 @@ Expert network engineer with comprehensive knowledge of cloud networking, modern
 - "Implement global load balancing with disaster recovery failover"
 - "Analyze network performance bottlenecks and implement optimization strategies"
 - "Set up comprehensive network monitoring with automated alerting and incident response"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [deployment-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-engineer/SKILL.md) - Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced de...
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [kubernetes-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/kubernetes-architect/SKILL.md) - Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (...
+- [service-mesh-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-expert/SKILL.md) - Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. ...
+

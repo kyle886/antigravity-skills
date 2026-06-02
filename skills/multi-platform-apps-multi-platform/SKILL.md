@@ -201,3 +201,14 @@ Build and deploy the same feature consistently across web, mobile, and desktop p
 **Desktop**: Code signing, auto-updates, OS-specific installers
 
 Initial feature specification: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [flutter-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/flutter-expert/SKILL.md) - Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles sta...
+- [react-native-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/react-native-architecture/SKILL.md) - Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-pl...
+- [security-scanning-security-hardening](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-hardening/SKILL.md) - Coordinate multi-layer security scanning and hardening across application, infrastructure, and compl...
+

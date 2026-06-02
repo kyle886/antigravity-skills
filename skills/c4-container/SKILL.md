@@ -169,3 +169,14 @@ When synthesizing containers, provide:
 - Links to deployment configurations (Dockerfiles, K8s manifests, etc.)
 - Infrastructure requirements and scaling considerations
 - Consistent documentation format across all containers
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) - Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Com...
+- [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) - Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, docume...
+- [c4-code](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-code/SKILL.md) - Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 ...
+

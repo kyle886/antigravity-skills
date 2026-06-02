@@ -32,4 +32,12 @@ Comprehensive guide for mastering modern JavaScript (ES6+) features, functional 
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md) - Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,...
+- [rust-async-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-async-patterns/SKILL.md) - Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use...
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [javascript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-pro/SKILL.md) - Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops,...
+

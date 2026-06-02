@@ -24,7 +24,10 @@ Service worker tuning, precache strategy optimization, and offline UX patterns f
 
 ## Instructions
 
-### Phase 1: Audit Current Configuration
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Audit Current Configuration
 
 1. Locate the PWA configuration:
    - `vite.config.ts` → `VitePWA()` plugin options
@@ -151,3 +154,14 @@ npx lighthouse <url> --only-categories=pwa
 - A broken service worker can cache bad content permanently
 - Include a "kill switch" mechanism to force-unregister the SW if needed
 - Be careful with `skipWaiting` — it can break in-flight requests
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [spark-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/spark-optimization/SKILL.md) - Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use ...
+- [vector-index-tuning](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vector-index-tuning/SKILL.md) - Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, ...
+- [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) - Optimize end-to-end application performance with profiling, observability, and backend/frontend tuni...
+

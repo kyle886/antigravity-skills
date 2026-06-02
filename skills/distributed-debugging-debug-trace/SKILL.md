@@ -41,4 +41,12 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed tooling and configuration patterns.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [error-debugging-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+- [error-diagnostics-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+- [observability-monitoring-monitor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-monitoring-monitor-setup/SKILL.md) - You are a monitoring and observability expert specializing in implementing comprehensive monitoring ...
+- [team-collaboration-issue](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/team-collaboration-issue/SKILL.md) - You are a GitHub issue resolution expert specializing in systematic bug investigation, feature imple...
+

@@ -36,4 +36,12 @@ Manage the complete track lifecycle including archiving, restoring, deleting, re
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed modes, prompts, and workflows.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [track-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/track-management/SKILL.md) - Use this skill when creating, managing, or working with Conductor tracks - the logical work units fo...
+- [conductor-new-track](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-new-track/SKILL.md) - Create a new track with specification and phased implementation plan
+- [conductor-status](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-status/SKILL.md) - Display project status, active tracks, and next actions
+- [conductor-revert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-revert/SKILL.md) - Git-aware undo by logical work unit (track, phase, or task)
+

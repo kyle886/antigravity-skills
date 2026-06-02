@@ -34,7 +34,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Architecture Design
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Architecture Design
 - Assess: sources, volume, latency requirements, targets
 - Select pattern: ETL (transform before load), ELT (load then transform), Lambda (batch + speed layers), Kappa (stream-only), Lakehouse (unified)
 - Design flow: sources → ingestion → processing → storage → serving
@@ -199,3 +202,19 @@ ingester.save_dead_letter_queue('s3://lake/dlq/orders')
 - Cost optimization reduces infrastructure costs by 30-50%
 - Schema evolution without downtime
 - End-to-end data lineage tracked
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md) - Senior embedded software engineer specializing in firmware and driver development for ARM Cortex-M m...
+- [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md) - You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Acti...
+- [code-documentation-code-explain](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-code-explain/SKILL.md) - You are a code education expert specializing in explaining complex code through clear narratives, vi...
+- [database-cloud-optimization-cost-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-cloud-optimization-cost-optimize/SKILL.md) - You are a cloud cost optimization expert specializing in reducing infrastructure expenses while main...
+- [code-documentation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+- [deployment-validation-config-validate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-validation-config-validate/SKILL.md) - You are a configuration management expert specializing in validating, testing, and ensuring the corr...
+- [security-compliance-compliance-check](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-compliance-compliance-check/SKILL.md) - You are a compliance expert specializing in regulatory requirements for software systems including G...
+- [team-collaboration-issue](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/team-collaboration-issue/SKILL.md) - You are a GitHub issue resolution expert specializing in systematic bug investigation, feature imple...
+

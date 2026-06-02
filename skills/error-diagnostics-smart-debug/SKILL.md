@@ -195,3 +195,19 @@ Focus on actionable insights. Use AI assistance throughout for pattern recogniti
 ---
 
 Issue to debug: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [defi-protocol-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/defi-protocol-templates/SKILL.md) - Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending ...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+- [error-resilience-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-resilience-patterns/SKILL.md) - Error boundaries, network retry, graceful degradation, and meaningful fallback UIs for React applica...
+- [nodejs-backend-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nodejs-backend-patterns/SKILL.md) - Build production-ready Node.js backend services with Express/Fastify, implementing middleware patter...
+- [slo-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/slo-implementation/SKILL.md) - Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error ...
+- [web3-testing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/web3-testing/SKILL.md) - Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, a...
+

@@ -47,3 +47,15 @@ For each issue, provide:
 - Prevention recommendations
 
 Focus on fixing the underlying issue, not just symptoms.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugging-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-strategies/SKILL.md) - Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently trac...
+- [error-detective](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-detective/SKILL.md) - Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across ...
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [supabase-edge-function-monitoring](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/supabase-edge-function-monitoring/SKILL.md) - Monitor Supabase Edge Function health, error rates, and invocation limits. Use when operating produc...
+

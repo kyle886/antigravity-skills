@@ -407,30 +407,11 @@ module.exports = {
 
 ## Resources
 
-- **references/orm-switching.md**: ORM migration guides
-- **references/schema-migration.md**: Schema transformation patterns
-- **references/data-transformation.md**: Data migration scripts
-- **references/rollback-strategies.md**: Rollback procedures
-- **assets/schema-migration-template.sql**: SQL migration templates
-- **assets/data-migration-script.py**: Data migration utilities
-- **scripts/test-migration.sh**: Migration testing script
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Always Provide Rollback**: Every up() needs a down()
-2. **Test Migrations**: Test on staging first
-3. **Use Transactions**: Atomic migrations when possible
-4. **Backup First**: Always backup before migration
-5. **Small Changes**: Break into small, incremental steps
-6. **Monitor**: Watch for errors during deployment
-7. **Document**: Explain why and how
-8. **Idempotent**: Migrations should be rerunnable
+- [database-migrations-sql-migrations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-sql-migrations/SKILL.md) - SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
+- [database-migrations-migration-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-migration-observability/SKILL.md) - Migration monitoring, CDC, and observability infrastructure
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
 
-## Common Pitfalls
-
-- Not testing rollback procedures
-- Making breaking changes without downtime strategy
-- Forgetting to handle NULL values
-- Not considering index performance
-- Ignoring foreign key constraints
-- Migrating too much data at once

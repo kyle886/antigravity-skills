@@ -236,3 +236,14 @@ az network vpn-connection show-device-config-script
 
 - `multi-cloud-architecture` - For architecture decisions
 - `terraform-module-library` - For IaC implementation
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-quality-frameworks](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-quality-frameworks/SKILL.md) - Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when b...
+- [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) - Design and implement event stores for event-sourced systems. Use when building event sourcing infras...
+- [mtls-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mtls-configuration/SKILL.md) - Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing z...
+

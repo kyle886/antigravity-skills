@@ -24,6 +24,7 @@ description: "Optimize multi-agent systems with coordinated profiling, workload 
 2. Profile agent workloads and identify coordination bottlenecks.
 3. Apply orchestration changes and cost controls incrementally.
 4. Validate improvements with repeatable tests and rollbacks.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -237,3 +238,15 @@ class CostOptimizer:
 - Implement gradual, reversible changes
 
 Target Optimization: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) - Systematic improvement of existing agents through performance analysis, prompt engineering, and cont...
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+

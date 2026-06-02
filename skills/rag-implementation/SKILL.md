@@ -29,6 +29,7 @@ Master Retrieval-Augmented Generation (RAG) to build LLM applications that provi
 2. Choose embedding models and vector store based on scale.
 3. Build ingestion, chunking, and retrieval with reranking.
 4. Evaluate with grounded QA metrics and monitor drift.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -392,30 +393,14 @@ def evaluate_rag_system(qa_chain, test_cases):
 
 ## Resources
 
-- **references/vector-databases.md**: Detailed comparison of vector DBs
-- **references/embeddings.md**: Embedding model selection guide
-- **references/retrieval-strategies.md**: Advanced retrieval techniques
-- **references/reranking.md**: Reranking methods and when to use them
-- **references/context-window.md**: Managing context limits
-- **assets/vector-store-config.yaml**: Configuration templates
-- **assets/retriever-pipeline.py**: Complete RAG pipeline
-- **assets/embedding-models.md**: Model comparison and benchmarks
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Chunk Size**: Balance between context and specificity (500-1000 tokens)
-2. **Overlap**: Use 10-20% overlap to preserve context at boundaries
-3. **Metadata**: Include source, page, timestamp for filtering and debugging
-4. **Hybrid Search**: Combine semantic and keyword search for best results
-5. **Reranking**: Improve top results with cross-encoder
-6. **Citations**: Always return source documents for transparency
-7. **Evaluation**: Continuously test retrieval quality and answer accuracy
-8. **Monitoring**: Track retrieval metrics in production
+- [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md) - Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements ve...
+- [embedding-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/embedding-strategies/SKILL.md) - Select and optimize embedding models for semantic search and RAG applications. Use when choosing emb...
+- [hybrid-search-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hybrid-search-implementation/SKILL.md) - Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, buildin...
+- [similarity-search-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/similarity-search-patterns/SKILL.md) - Implement efficient similarity search with vector databases. Use when building semantic search, impl...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [vector-database-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vector-database-engineer/SKILL.md) - Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pineco...
 
-## Common Issues
-
-- **Poor Retrieval**: Check embedding quality, chunk size, query formulation
-- **Irrelevant Results**: Add metadata filtering, use hybrid search, rerank
-- **Missing Information**: Ensure documents are properly indexed
-- **Slow Queries**: Optimize vector store, use caching, reduce k
-- **Hallucinations**: Improve grounding prompt, add verification step

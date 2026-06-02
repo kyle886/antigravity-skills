@@ -379,3 +379,14 @@ resource "grafana_folder" "monitoring" {
 
 - `prometheus-configuration` - For metric collection
 - `slo-implementation` - For SLO dashboards
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [kpi-dashboard-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/kpi-dashboard-design/SKILL.md) - Design effective KPI dashboards with metrics selection, visualization best practices, and real-time ...
+- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) - Master commercial real estate (CRE) terminology, metrics, and market analysis. Use when building CRE...
+- [chart-js-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/chart-js-integration/SKILL.md) - Master Chart.js for data visualization with responsive, animated charts. Use when creating dashboard...
+

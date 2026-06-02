@@ -331,3 +331,14 @@ For each step:
 3. Idempotency is critical for activities
 4. State preservation is automatic
 5. Design for failure and recovery
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [saga-orchestration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/saga-orchestration/SKILL.md) - Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordin...
+- [temporal-python-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/temporal-python-pro/SKILL.md) - Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns,...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+

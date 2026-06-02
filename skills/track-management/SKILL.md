@@ -35,4 +35,15 @@ Guide for creating, managing, and completing Conductor tracks - the logical work
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-manage](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-manage/SKILL.md) - Manage track lifecycle: archive, restore, delete, rename, and cleanup
+- [conductor-new-track](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-new-track/SKILL.md) - Create a new track with specification and phased implementation plan
+- [conductor-revert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-revert/SKILL.md) - Git-aware undo by logical work unit (track, phase, or task)
+- [conductor-status](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-status/SKILL.md) - Display project status, active tracks, and next actions
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

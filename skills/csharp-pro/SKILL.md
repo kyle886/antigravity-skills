@@ -57,3 +57,16 @@ You are a C# expert specializing in modern .NET development and enterprise-grade
 - Enterprise architecture patterns when applicable
 
 Follow .NET coding standards and include comprehensive XML documentation.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cpp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cpp-pro/SKILL.md) - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles tem...
+- [ruby-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ruby-pro/SKILL.md) - Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specia...
+- [php-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/php-pro/SKILL.md) - Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. U...
+- [javascript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-pro/SKILL.md) - Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops,...
+- [tanstack-query-advanced](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tanstack-query-advanced/SKILL.md) - Advanced TanStack Query patterns including prefetching, infinite queries, optimistic updates, suspen...
+

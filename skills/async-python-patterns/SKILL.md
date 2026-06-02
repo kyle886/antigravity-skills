@@ -36,4 +36,12 @@ Refer to `resources/implementation-playbook.md` for detailed patterns and exampl
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [rust-async-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-async-patterns/SKILL.md) - Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use...
+- [dotnet-backend-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dotnet-backend-patterns/SKILL.md) - Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise ap...
+- [fastapi-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-pro/SKILL.md) - Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservice...
+- [bash-defensive-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-defensive-patterns/SKILL.md) - Master defensive Bash programming techniques for production-grade scripts. Use when writing robust s...
+

@@ -26,6 +26,7 @@ Transform CSV data into structured JSON for web application consumption.
 2. Define JSON schema mapping
 3. Implement parsing with validation
 4. Test with edge cases (empty cells, special chars)
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Patterns
 
@@ -296,5 +297,12 @@ runPipeline().catch(console.error);
 
 ## Resources
 
-- [csv-parse](https://csv.js.org/parse/)
-- [Papa Parse](https://www.papaparse.com/) (browser)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [website-deployment-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/website-deployment-pipeline/SKILL.md) - Design and implement end-to-end website deployment pipelines including build, test, deploy, CDN purg...
+- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) - Master commercial real estate (CRE) terminology, metrics, and market analysis. Use when building CRE...
+- [data-storytelling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-storytelling/SKILL.md) - Transform data into compelling narratives using visualization, context, and persuasive structure. Us...
+- [marketing-website-content-refresh](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/marketing-website-content-refresh/SKILL.md) - Quarterly content freshness audit and data update workflow for marketing websites. Detects stale sta...
+

@@ -186,3 +186,14 @@ You are a reference documentation specialist focused on creating comprehensive, 
 - Make search terms explicit
 
 Remember: Your goal is to create reference documentation that answers every possible question about the system, organized so developers can find answers in seconds, not minutes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [docs-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/docs-architect/SKILL.md) - Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design...
+- [api-documenter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-documenter/SKILL.md) - Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practic...
+- [code-documentation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+

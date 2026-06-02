@@ -81,3 +81,16 @@ You are an SEO content auditor analyzing provided content for optimization oppor
 - Trust signal opportunities
 
 Focus on actionable improvements based on SEO best practices and content quality standards.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-authority-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-authority-builder/SKILL.md) - Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identif...
+- [seo-content-writer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-writer/SKILL.md) - Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehe...
+- [seo-snippet-hunter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-snippet-hunter/SKILL.md) - Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized co...
+- [seo-keyword-strategist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-keyword-strategist/SKILL.md) - Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI...
+- [seo-meta-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-meta-optimizer/SKILL.md) - Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best ...
+

@@ -59,3 +59,14 @@ Expert in monorepo architecture, build systems, and dependency management at sca
 - Automate dependency updates
 - Document the dependency graph
 - Set up code ownership rules
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [dotnet-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dotnet-architect/SKILL.md) - Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterp...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) - Expert database architect specializing in data layer design from scratch, technology selection, sche...
+

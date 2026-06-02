@@ -75,3 +75,14 @@ You are a payment integration specialist focused on secure, reliable payment pro
 - Environment variable configuration
 
 Always use official SDKs. Include both server-side and client-side code where needed.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [stripe-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/stripe-integration/SKILL.md) - Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subs...
+- [paypal-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/paypal-integration/SKILL.md) - Integrate PayPal payment processing with support for express checkout, subscriptions, and refund man...
+- [billing-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/billing-automation/SKILL.md) - Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunni...
+

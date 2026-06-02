@@ -31,4 +31,11 @@ Comprehensive guidance for writing comprehensive unit tests for shell scripts us
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bash-defensive-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-defensive-patterns/SKILL.md) - Master defensive Bash programming techniques for production-grade scripts. Use when writing robust s...
+- [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) - Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities....
+- [javascript-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-testing-patterns/SKILL.md) - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, i...
+

@@ -217,3 +217,15 @@ Expert MLOps engineer specializing in building scalable ML infrastructure and au
 - "Implement GitOps workflow for ML model deployment with approval gates"
 - "Build monitoring system for detecting data drift and model performance issues"
 - "Create cost-optimized training infrastructure using spot instances and auto-scaling"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineer/SKILL.md) - Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implem...
+- [ml-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ml-engineer/SKILL.md) - Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+- [risk-manager](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/risk-manager/SKILL.md) - Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates exp...
+

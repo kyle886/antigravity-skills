@@ -180,3 +180,14 @@ monitoring:
 - Continuous learning loop feeds back into next feature development cycle
 
 Feature to develop with data-driven approach: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) - Systematic improvement of existing agents through performance analysis, prompt engineering, and cont...
+- [ml-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ml-engineer/SKILL.md) - Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model...
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+

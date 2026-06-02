@@ -23,7 +23,10 @@ The final 5% that separates amateur sites from professional ones. Concrete check
 
 ## Instructions
 
-### Phase 1: Touch & Interactive Elements
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Touch & Interactive Elements
 
 **Minimum touch target: 44×44px** (WCAG 2.5.8, Apple HIG)
 
@@ -267,3 +270,14 @@ Audit checklist:
 - [ ] **Loading**: No flash of unstyled content (FOUC)
 - [ ] **Scroll to top**: Long pages have a "back to top" or reset scroll on route change
 - [ ] **Footer**: Contains correct year, company info, legal links
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [loading-states-and-transitions](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/loading-states-and-transitions/SKILL.md) - Production patterns for skeleton screens, progressive image loading, route transitions, optimistic U...
+- [typography-and-font-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typography-and-font-optimization/SKILL.md) - Font loading strategies, responsive type scales, text rendering optimization, and typographic polish...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

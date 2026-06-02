@@ -133,3 +133,20 @@ Orchestrate full-stack feature development across backend, frontend, and infrast
 - Ensure consistent error handling and API responses across services
 
 Feature to implement: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [agent-orchestration-multi-agent-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-multi-agent-optimize/SKILL.md) - Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orche...
+- [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) - Optimize end-to-end application performance with profiling, observability, and backend/frontend tuni...
+- [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) - Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordin...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [conductor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-setup/SKILL.md) - Initialize project with Conductor artifacts (product definition, tech stack, workflow, style guides)
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [context-driven-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-driven-development/SKILL.md) - Use this skill when working with Conductor's context-driven development methodology, managing projec...
+- [git-advanced-workflows](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-advanced-workflows/SKILL.md) - Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to m...
+- [tutorial-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tutorial-engineer/SKILL.md) - Creates step-by-step tutorials and educational content from code. Transforms complex concepts into p...
+

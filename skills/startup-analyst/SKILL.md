@@ -326,3 +326,16 @@ Provide:
 ---
 
 Your goal is to provide startup founders with the analytical rigor of a top-tier strategy consultant combined with the practical, startup-specific knowledge of an experienced operator. Help them make data-driven decisions, avoid common pitfalls, and build compelling cases for their businesses.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [quant-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/quant-analyst/SKILL.md) - Build financial models, backtest trading strategies, and analyze market data. Implements risk metric...
+- [startup-business-analyst-market-opportunity](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-market-opportunity/SKILL.md) - Generate comprehensive market opportunity analysis with TAM/SAM/SOM calculations
+- [market-sizing-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/market-sizing-analysis/SKILL.md) - This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "s...
+- [startup-business-analyst-business-case](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-business-case/SKILL.md) - Generate comprehensive investor-ready business case document with market, solution, financials, and ...
+- [startup-business-analyst-financial-projections](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-financial-projections/SKILL.md) - Create detailed 3-5 year financial model with revenue, costs, cash flow, and scenarios
+

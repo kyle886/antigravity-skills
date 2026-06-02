@@ -57,3 +57,14 @@ gitGraph, journey, quadrantChart, timeline
 - Export recommendations
 
 Always provide both basic and styled versions. Include comments explaining complex syntax.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) - Expert database architect specializing in data layer design from scratch, technology selection, sche...
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [devops-troubleshooter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/devops-troubleshooter/SKILL.md) - Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern...
+

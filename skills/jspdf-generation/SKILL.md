@@ -26,6 +26,7 @@ Client-side PDF generation using jsPDF and html2canvas for browser-based documen
 2. Design for print dimensions (A4/Letter)
 3. Implement with proper scaling
 4. Test across browsers
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -303,6 +304,12 @@ async function exportMarketProfile(marketId) {
 
 ## Resources
 
-- [jsPDF Documentation](https://raw.githack.com/MrRio/jsPDF/master/docs/)
-- [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)
-- [html2canvas Docs](https://html2canvas.hertzen.com/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [puppeteer-pdf-rendering](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/puppeteer-pdf-rendering/SKILL.md) - Master server-side PDF generation with Puppeteer (Node.js) or WeasyPrint (Python). Use for complex m...
+

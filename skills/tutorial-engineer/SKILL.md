@@ -137,3 +137,14 @@ Generate tutorials in Markdown with:
 - Links to working code repositories
 
 Remember: Your goal is to create tutorials that transform learners from confused to confident, ensuring they not only understand the code but can apply concepts independently.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+- [ruby-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ruby-pro/SKILL.md) - Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specia...
+

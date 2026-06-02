@@ -48,4 +48,12 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [codebase-cleanup-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-refactor-clean/SKILL.md) - You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and ...
+- [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) - You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical...
+- [codebase-cleanup-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-tech-debt/SKILL.md) - You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical...
+- [postgresql](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postgresql/SKILL.md) - Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, perfo...
+

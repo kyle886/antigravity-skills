@@ -112,3 +112,14 @@ You are a featured snippet optimization specialist formatting content for positi
 - Schema.org markup templates
 
 Focus on clear, direct answers. Format content to maximize featured snippet eligibility.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-content-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-auditor/SKILL.md) - Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and p...
+- [seo-content-writer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-writer/SKILL.md) - Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehe...
+- [seo-meta-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-meta-optimizer/SKILL.md) - Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best ...
+

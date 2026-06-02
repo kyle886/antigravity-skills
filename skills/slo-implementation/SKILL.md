@@ -339,3 +339,14 @@ rules:
 
 - `prometheus-configuration` - For metric collection
 - `grafana-dashboards` - For SLO visualization
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [observability-monitoring-slo-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-monitoring-slo-implement/SKILL.md) - You are an SLO (Service Level Objective) expert specializing in implementing reliability standards a...
+- [error-diagnostics-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-smart-debug/SKILL.md) - Use when working with error diagnostics smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

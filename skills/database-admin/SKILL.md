@@ -163,3 +163,16 @@ Expert database administrator with comprehensive knowledge of cloud-native datab
 - "Optimize database costs while maintaining performance SLAs across multiple cloud providers"
 - "Implement database operations automation using Infrastructure as Code and GitOps"
 - "Create database disaster recovery plan with automated failover and business continuity procedures"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [hybrid-cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hybrid-cloud-architect/SKILL.md) - Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and...
+- [kubernetes-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/kubernetes-architect/SKILL.md) - Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (...
+- [database-cloud-optimization-cost-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-cloud-optimization-cost-optimize/SKILL.md) - You are a cloud cost optimization expert specializing in reducing infrastructure expenses while main...
+- [terraform-module-library](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/terraform-module-library/SKILL.md) - Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-...
+

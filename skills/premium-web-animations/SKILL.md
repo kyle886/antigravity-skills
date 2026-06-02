@@ -25,7 +25,10 @@ Production-ready animation patterns for React + Framer Motion that make websites
 
 ## Instructions
 
-### Principle: Less Is More
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Principle: Less Is More
 
 Animations should be **subtle, purposeful, and fast**. The best animations are ones users feel but don't consciously notice. Rules:
 
@@ -401,3 +404,14 @@ Or globally via CSS:
 - Prefer CSS animations over JS for simple hover effects
 - Use `viewport={{ once: true }}` for scroll-triggered animations
 - Measure with Chrome DevTools Performance panel — target 60fps on mid-range mobile
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) - Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-d...
+- [typography-and-font-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typography-and-font-optimization/SKILL.md) - Font loading strategies, responsive type scales, text rendering optimization, and typographic polish...
+

@@ -23,7 +23,10 @@ Comprehensive audit and optimization guide for the three Core Web Vitals metrics
 
 ## Instructions
 
-### Phase 1: Measure
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Measure
 
 1. Run Lighthouse CI on the target URLs (both mobile and desktop):
 
@@ -94,3 +97,14 @@ curl "https://chromeuxreport.googleapis.com/v1/records:queryRecord?key=<API_KEY>
 | LCP    | ≤ 2.5s  | 2.5s – 4.0s       | > 4.0s  |
 | CLS    | ≤ 0.1   | 0.1 – 0.25        | > 0.25  |
 | INP    | ≤ 200ms | 200ms – 500ms     | > 500ms |
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [embedding-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/embedding-strategies/SKILL.md) - Select and optimize embedding models for semantic search and RAG applications. Use when choosing emb...
+- [vector-index-tuning](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vector-index-tuning/SKILL.md) - Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, ...
+- [python-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-performance-optimization/SKILL.md) - Profile and optimize Python code using cProfile, memory profilers, and performance best practices. U...
+

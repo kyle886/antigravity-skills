@@ -336,3 +336,15 @@ If invoked with `--json`:
   "blockers": []
 }
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-manage](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-manage/SKILL.md) - Manage track lifecycle: archive, restore, delete, rename, and cleanup
+- [conductor-validator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-validator/SKILL.md) - Validates Conductor project artifacts for completeness, consistency, and correctness. Use after setu...
+- [context-driven-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-driven-development/SKILL.md) - Use this skill when working with Conductor's context-driven development methodology, managing projec...
+- [track-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/track-management/SKILL.md) - Use this skill when creating, managing, or working with Conductor tracks - the logical work units fo...
+

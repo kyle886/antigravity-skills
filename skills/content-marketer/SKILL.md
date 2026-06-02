@@ -168,3 +168,15 @@ Master content marketer focused on creating high-converting, SEO-optimized conte
 - "Optimize existing content for featured snippets and voice search"
 - "Develop a user-generated content campaign with influencer partnerships"
 - "Create a content calendar for Black Friday and holiday marketing"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) - Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, ...
+- [customer-support](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/customer-support/SKILL.md) - Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, senti...
+- [seo-content-writer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-writer/SKILL.md) - Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehe...
+- [seo-content-planner](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-planner/SKILL.md) - Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and ident...
+

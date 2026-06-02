@@ -52,4 +52,11 @@ Focus on practical implementation that balances compliance requirements with bus
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [accessibility-compliance-accessibility-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/accessibility-compliance-accessibility-audit/SKILL.md) - You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive tec...
+- [security-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-auditor/SKILL.md) - Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frame...
+- [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) - You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective d...
+

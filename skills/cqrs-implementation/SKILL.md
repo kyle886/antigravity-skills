@@ -32,4 +32,11 @@ Comprehensive guide to implementing CQRS (Command Query Responsibility Segregati
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed CQRS patterns and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [projection-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/projection-patterns/SKILL.md) - Build read models and projections from event streams. Use when implementing CQRS read sides, buildin...
+- [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) - Design and implement event stores for event-sourced systems. Use when building event sourcing infras...
+- [microservices-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/microservices-patterns/SKILL.md) - Design microservices architectures with service boundaries, event-driven communication, and resilien...
+

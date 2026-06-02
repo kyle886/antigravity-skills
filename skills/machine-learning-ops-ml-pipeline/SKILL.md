@@ -312,3 +312,14 @@ Upon completion, the orchestrated pipeline will provide:
 - CI/CD pipelines for continuous improvement
 - Cost optimization and scaling strategies
 - Disaster recovery and rollback procedures
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-scientist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-scientist/SKILL.md) - Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles co...
+- [website-deployment-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/website-deployment-pipeline/SKILL.md) - Design and implement end-to-end website deployment pipelines including build, test, deploy, CDN purg...
+- [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md) - Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,...
+

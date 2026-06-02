@@ -435,7 +435,11 @@ const todosSlice = createSlice({
 
 ## Resources
 
-- [Redux Toolkit Documentation](https://redux-toolkit.js.org/)
-- [Zustand GitHub](https://github.com/pmndrs/zustand)
-- [Jotai Documentation](https://jotai.org/)
-- [TanStack Query](https://tanstack.com/query)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+

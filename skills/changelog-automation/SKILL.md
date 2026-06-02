@@ -35,4 +35,12 @@ Patterns and tools for automating changelog generation, release notes, and versi
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, templates, and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [conductor-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-implement/SKILL.md) - Execute tasks from a track's implementation plan following TDD workflow
+

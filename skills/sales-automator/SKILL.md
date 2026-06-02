@@ -53,3 +53,15 @@ You are a sales automation specialist focused on conversions and relationships.
 - Tracking metrics to monitor
 
 Write conversationally. Show empathy for customer problems.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [legal-advisor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/legal-advisor/SKILL.md) - Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant tex...
+- [marketing-website-content-refresh](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/marketing-website-content-refresh/SKILL.md) - Quarterly content freshness audit and data update workflow for marketing websites. Detects stale sta...
+- [seo-content-planner](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-planner/SKILL.md) - Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and ident...
+- [cpp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cpp-pro/SKILL.md) - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles tem...
+

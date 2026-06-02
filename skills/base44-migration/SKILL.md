@@ -26,6 +26,7 @@ Patterns and strategies for migrating applications from the Base44 SDK to direct
 - Clarify goals, constraints, and required inputs.
 - Apply relevant best practices and validate outcomes.
 - Provide actionable steps and verification.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Migration Overview
 
@@ -440,6 +441,13 @@ const { data } = await supabase.from("private_data").select("*");
 
 ## Resources
 
-- [Supabase Migration Guide](https://supabase.com/docs/guides/migrations)
-- [supabase-integration skill](file:///supabase-integration/SKILL.md)
-- [TanStack Query Documentation](https://tanstack.com/query)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md) - Integrate Google Analytics 4 (GA4) and custom event tracking. Use when adding analytics, conversion ...
+- [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) - Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency...
+- [react-modernization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/react-modernization/SKILL.md) - Upgrade React applications to latest versions, migrate from class components to hooks, and adopt con...
+- [error-resilience-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-resilience-patterns/SKILL.md) - Error boundaries, network retry, graceful degradation, and meaningful fallback UIs for React applica...
+- [premium-web-animations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/premium-web-animations/SKILL.md) - Copy-pasteable Framer Motion and CSS animation patterns for React. Scroll-triggered reveals, stagger...
+

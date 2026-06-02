@@ -164,3 +164,21 @@ Revenue = Σ (Price[t] × P_discharge[t] - Price[t] × P_charge[t]) × Δt
 - "Create an MPC controller for peak shaving with solar PV and battery storage"
 - "Model SOC dynamics with temperature-dependent efficiency for a lithium-ion system"
 - "Design a reinforcement learning agent for frequency regulation market participation"
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+- Apply relevant best practices and validate outcomes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [mpc-energy-dispatch](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mpc-energy-dispatch/SKILL.md) - Master Model Predictive Control (MPC) for energy dispatch optimization including rolling horizon, co...
+- [thermal-systems-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/thermal-systems-engineer/SKILL.md) - Master thermal modeling for diesel and gas generators including heat rate curves, ambient derating, ...
+- [industrial-scada-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/industrial-scada-pro/SKILL.md) - Master SCADA systems and OPC-UA protocol for industrial energy systems including data acquisition, h...
+- [ignition-gateway-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ignition-gateway-developer/SKILL.md) - Master Ignition SCADA platform development including Gateway architecture, Jython scripting, tag con...
+

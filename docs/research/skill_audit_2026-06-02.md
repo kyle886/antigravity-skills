@@ -4,7 +4,7 @@
 - **Total skills scanned:** 338
 - **Healthy (no flags of any severity):** 0
 - **🔴 High severity issues:** 471
-- **🟡 Medium severity issues:** 660
+- **🟡 Medium severity issues:** 95
 - **Stale skills (>90 days):** 329
 
 ## Flagged Skills
@@ -487,107 +487,101 @@
 ### 🟡 Medium Severity
 | Skill | Issue |
 |:------|:------|
-| [accessibility-compliance-accessibility-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/accessibility-compliance-accessibility-audit/SKILL.md) | ORPHAN |
-| [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) | NO-DATA |
-| [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) | ORPHAN |
-| [agent-orchestration-multi-agent-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-multi-agent-optimize/SKILL.md) | NO-DATA |
-| [agent-orchestration-multi-agent-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-multi-agent-optimize/SKILL.md) | ORPHAN |
-| [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md) | NO-DATA |
-| [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md) | ORPHAN |
-| [airflow-dag-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/airflow-dag-patterns/SKILL.md) | ORPHAN |
-| [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md) | BLOATED (341 lines) |
-| [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md) | NO-DATA |
-| [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md) | ORPHAN |
-| [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) | BLOATED (429 lines) |
-| [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) | NO-DATA |
-| [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) | ORPHAN |
-| [anti-reversing-techniques](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/anti-reversing-techniques/SKILL.md) | ORPHAN |
-| [api-design-principles](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-design-principles/SKILL.md) | ORPHAN |
-| [api-documenter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-documenter/SKILL.md) | NO-DATA |
-| [api-documenter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-documenter/SKILL.md) | ORPHAN |
-| [api-testing-observability-api-mock](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-testing-observability-api-mock/SKILL.md) | ORPHAN |
-| [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) | NO-DATA |
-| [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) | ORPHAN |
-| [architect-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architect-review/SKILL.md) | NO-DATA |
-| [architect-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architect-review/SKILL.md) | ORPHAN |
-| [architecture-decision-records](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-decision-records/SKILL.md) | NO-DATA |
-| [architecture-decision-records](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-decision-records/SKILL.md) | ORPHAN |
-| [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md) | ORPHAN |
-| [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md) | BLOATED (307 lines) |
-| [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md) | NO-DATA |
-| [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md) | ORPHAN |
-| [async-python-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/async-python-patterns/SKILL.md) | ORPHAN |
-| [attack-tree-construction](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/attack-tree-construction/SKILL.md) | ORPHAN |
-| [auth-implementation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/auth-implementation-patterns/SKILL.md) | ORPHAN |
-| [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) | NO-DATA |
-| [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) | ORPHAN |
-| [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) | NO-DATA |
-| [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) | ORPHAN |
-| [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) | NO-DATA |
-| [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) | ORPHAN |
-| [backtesting-frameworks](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backtesting-frameworks/SKILL.md) | ORPHAN |
-| [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) | BLOATED (446 lines) |
-| [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) | NO-DATA |
-| [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) | ORPHAN |
-| [bash-defensive-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-defensive-patterns/SKILL.md) | ORPHAN |
-| [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) | BLOATED (311 lines) |
-| [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) | NO-DATA |
-| [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) | ORPHAN |
-| [bats-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bats-testing-patterns/SKILL.md) | ORPHAN |
-| [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md) | BLOATED (398 lines) |
-| [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md) | NO-DATA |
-| [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md) | ORPHAN |
-| [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) | NO-DATA |
+| [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md) | BLOATED (348 lines) |
+| [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) | BLOATED (413 lines) |
+| [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md) | BLOATED (318 lines) |
+| [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) | BLOATED (454 lines) |
+| [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) | BLOATED (324 lines) |
+| [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md) | BLOATED (403 lines) |
 | [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) | NO-ANTI (0) |
-| [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) | ORPHAN |
-| [billing-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/billing-automation/SKILL.md) | ORPHAN |
-| [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md) | BLOATED (451 lines) |
-| [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md) | NO-DATA |
-| [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md) | NO-DATA |
-| [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md) | ORPHAN |
-| [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) | NO-DATA |
-| [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) | ORPHAN |
-| [c-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c-pro/SKILL.md) | NO-DATA |
-| [c-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c-pro/SKILL.md) | ORPHAN |
-| [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) | NO-DATA |
-| [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) | ORPHAN |
-| [c4-code](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-code/SKILL.md) | NO-DATA |
-| [c4-code](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-code/SKILL.md) | ORPHAN |
-| [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) | NO-DATA |
-| [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) | ORPHAN |
-| [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) | NO-DATA |
-| [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) | ORPHAN |
-| [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) | NO-DATA |
-| [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) | ORPHAN |
-| [changelog-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/changelog-automation/SKILL.md) | ORPHAN |
-| [chart-js-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/chart-js-integration/SKILL.md) | NO-DATA |
-| [chart-js-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/chart-js-integration/SKILL.md) | ORPHAN |
-| [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md) | ORPHAN |
-| [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) | NO-DATA |
-| [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) | ORPHAN |
-| [cloudflare-workers](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloudflare-workers/SKILL.md) | BLOATED (519 lines) |
-| [cloudflare-workers](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloudflare-workers/SKILL.md) | NO-DATA |
-| [cloudflare-workers](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloudflare-workers/SKILL.md) | ORPHAN |
-| [code-documentation-code-explain](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-code-explain/SKILL.md) | ORPHAN |
-| [code-documentation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-doc-generate/SKILL.md) | ORPHAN |
-| [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) | NO-DATA |
-| [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) | ORPHAN |
-| [code-refactoring-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-refactor-clean/SKILL.md) | ORPHAN |
-| [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) | BLOATED (387 lines) |
-| [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) | NO-DATA |
-| [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) | ORPHAN |
-| [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md) | BLOATED (451 lines) |
-| [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md) | NO-DATA |
-| [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md) | ORPHAN |
-| [code-review-excellence](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-excellence/SKILL.md) | ORPHAN |
-| [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) | NO-DATA |
-| [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) | ORPHAN |
-| [codebase-cleanup-deps-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-deps-audit/SKILL.md) | ORPHAN |
-| [codebase-cleanup-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-refactor-clean/SKILL.md) | ORPHAN |
-| [codebase-cleanup-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-tech-debt/SKILL.md) | BLOATED (387 lines) |
-| [codebase-cleanup-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-tech-debt/SKILL.md) | NO-DATA |
-| [codebase-cleanup-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-tech-debt/SKILL.md) | ORPHAN |
-| ... and 560 more medium severity issues ... | | 
+| [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md) | BLOATED (463 lines) |
+| [cloudflare-workers](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloudflare-workers/SKILL.md) | BLOATED (524 lines) |
+| [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) | BLOATED (402 lines) |
+| [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md) | BLOATED (463 lines) |
+| [codebase-cleanup-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-tech-debt/SKILL.md) | BLOATED (401 lines) |
+| [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) | BLOATED (308 lines) |
+| [conductor-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-implement/SKILL.md) | BLOATED (400 lines) |
+| [conductor-new-track](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-new-track/SKILL.md) | BLOATED (446 lines) |
+| [conductor-revert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-revert/SKILL.md) | BLOATED (384 lines) |
+| [conductor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-setup/SKILL.md) | BLOATED (438 lines) |
+| [conductor-status](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-status/SKILL.md) | BLOATED (351 lines) |
+| [context-driven-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-driven-development/SKILL.md) | BLOATED (416 lines) |
+| [csv-json-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csv-json-data-pipeline/SKILL.md) | BLOATED (309 lines) |
+| [data-storytelling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-storytelling/SKILL.md) | BLOATED (472 lines) |
+| [database-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migration/SKILL.md) | BLOATED (418 lines) |
+| [database-migrations-migration-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-migration-observability/SKILL.md) | BLOATED (436 lines) |
+| [defi-protocol-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/defi-protocol-templates/SKILL.md) | BLOATED (448 lines) |
+| [dependency-upgrade](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dependency-upgrade/SKILL.md) | BLOATED (375 lines) |
+| [deployment-pipeline-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-pipeline-design/SKILL.md) | BLOATED (385 lines) |
+| [deployment-validation-config-validate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-validation-config-validate/SKILL.md) | BLOATED (511 lines) |
+| [distributed-tracing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/distributed-tracing/SKILL.md) | BLOATED (463 lines) |
+| [embedding-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/embedding-strategies/SKILL.md) | BLOATED (500 lines) |
+| [error-resilience-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-resilience-patterns/SKILL.md) | BLOATED (305 lines) |
+| [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) | BLOATED (461 lines) |
+| [firmware-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/firmware-analyst/SKILL.md) | BLOATED (332 lines) |
+| [frontend-mobile-development-component-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-mobile-development-component-scaffold/SKILL.md) | BLOATED (418 lines) |
+| [frontend-mobile-security-xss-scan](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-mobile-security-xss-scan/SKILL.md) | BLOATED (337 lines) |
+| [git-advanced-workflows](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-advanced-workflows/SKILL.md) | BLOATED (415 lines) |
+| [git-pr-workflows-onboard](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-pr-workflows-onboard/SKILL.md) | BLOATED (428 lines) |
+| [github-actions-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/github-actions-templates/SKILL.md) | BLOATED (357 lines) |
+| [gitops-workflow](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitops-workflow/SKILL.md) | BLOATED (317 lines) |
+| [grafana-dashboards](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/grafana-dashboards/SKILL.md) | BLOATED (393 lines) |
+| [ignition-gateway-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ignition-gateway-developer/SKILL.md) | BLOATED (340 lines) |
+| [ignition-gateway-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ignition-gateway-developer/SKILL.md) | NO-ANTI (0) |
+| [incident-runbook-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-runbook-templates/SKILL.md) | BLOATED (401 lines) |
+| [industrial-scada-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/industrial-scada-pro/SKILL.md) | NO-ANTI (0) |
+| [istio-traffic-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/istio-traffic-management/SKILL.md) | BLOATED (343 lines) |
+| [javascript-typescript-typescript-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-typescript-typescript-scaffold/SKILL.md) | BLOATED (376 lines) |
+| [jspdf-generation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/jspdf-generation/SKILL.md) | BLOATED (316 lines) |
+| [k8s-security-policies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/k8s-security-policies/SKILL.md) | BLOATED (358 lines) |
+| [kpi-dashboard-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/kpi-dashboard-design/SKILL.md) | BLOATED (446 lines) |
+| [linkerd-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/linkerd-patterns/SKILL.md) | BLOATED (328 lines) |
+| [llm-evaluation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-evaluation/SKILL.md) | BLOATED (465 lines) |
+| [loading-states-and-transitions](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/loading-states-and-transitions/SKILL.md) | BLOATED (302 lines) |
+| [machine-learning-ops-ml-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/machine-learning-ops-ml-pipeline/SKILL.md) | BLOATED (326 lines) |
+| [market-sizing-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/market-sizing-analysis/SKILL.md) | BLOATED (440 lines) |
+| [memory-forensics](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/memory-forensics/SKILL.md) | BLOATED (503 lines) |
+| [microgrid-controls](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/microgrid-controls/SKILL.md) | NO-ANTI (0) |
+| [mpc-energy-dispatch](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mpc-energy-dispatch/SKILL.md) | NO-ANTI (0) |
+| [mtls-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mtls-configuration/SKILL.md) | BLOATED (365 lines) |
+| [nft-standards](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nft-standards/SKILL.md) | BLOATED (379 lines) |
+| [nx-workspace-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nx-workspace-patterns/SKILL.md) | BLOATED (471 lines) |
+| [on-call-handoff-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/on-call-handoff-patterns/SKILL.md) | BLOATED (306 lines) |
+| [paypal-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/paypal-integration/SKILL.md) | BLOATED (464 lines) |
+| [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) | BLOATED (461 lines) |
+| [performance-testing-review-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-ai-review/SKILL.md) | BLOATED (462 lines) |
+| [posix-shell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/posix-shell-pro/SKILL.md) | BLOATED (316 lines) |
+| [postmortem-writing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postmortem-writing/SKILL.md) | BLOATED (392 lines) |
+| [premium-web-animations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/premium-web-animations/SKILL.md) | BLOATED (418 lines) |
+| [prometheus-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prometheus-configuration/SKILL.md) | BLOATED (418 lines) |
+| [python-development-python-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-development-python-scaffold/SKILL.md) | BLOATED (346 lines) |
+| [rag-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rag-implementation/SKILL.md) | BLOATED (407 lines) |
+| [react-state-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/react-state-management/SKILL.md) | BLOATED (446 lines) |
+| [secrets-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/secrets-management/SKILL.md) | BLOATED (377 lines) |
+| [security-scanning-security-sast](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-sast/SKILL.md) | BLOATED (510 lines) |
+| [service-mesh-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-observability/SKILL.md) | BLOATED (401 lines) |
+| [shadcn-ui-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/shadcn-ui-patterns/SKILL.md) | BLOATED (688 lines) |
+| [shellcheck-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/shellcheck-configuration/SKILL.md) | BLOATED (472 lines) |
+| [sior-brand-guidelines](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sior-brand-guidelines/SKILL.md) | BLOATED (328 lines) |
+| [slo-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/slo-implementation/SKILL.md) | BLOATED (353 lines) |
+| [spark-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/spark-optimization/SKILL.md) | BLOATED (435 lines) |
+| [startup-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-analyst/SKILL.md) | BLOATED (342 lines) |
+| [startup-business-analyst-business-case](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-business-case/SKILL.md) | BLOATED (500 lines) |
+| [startup-business-analyst-financial-projections](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-financial-projections/SKILL.md) | BLOATED (365 lines) |
+| [startup-financial-modeling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-financial-modeling/SKILL.md) | BLOATED (481 lines) |
+| [stripe-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/stripe-integration/SKILL.md) | BLOATED (437 lines) |
+| [supabase-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/supabase-integration/SKILL.md) | BLOATED (611 lines) |
+| [systems-programming-rust-project](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/systems-programming-rust-project/SKILL.md) | BLOATED (456 lines) |
+| [tanstack-query-advanced](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tanstack-query-advanced/SKILL.md) | BLOATED (562 lines) |
+| [temporal-python-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/temporal-python-pro/SKILL.md) | BLOATED (360 lines) |
+| [thermal-systems-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/thermal-systems-engineer/SKILL.md) | BLOATED (320 lines) |
+| [thermal-systems-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/thermal-systems-engineer/SKILL.md) | NO-ANTI (0) |
+| [turborepo-caching](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/turborepo-caching/SKILL.md) | BLOATED (427 lines) |
+| [typography-and-font-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typography-and-font-optimization/SKILL.md) | BLOATED (315 lines) |
+| [unit-testing-test-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/unit-testing-test-generate/SKILL.md) | BLOATED (334 lines) |
+| [vanilla-js-components](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vanilla-js-components/SKILL.md) | BLOATED (369 lines) |
+| [vite-modern-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vite-modern-patterns/SKILL.md) | BLOATED (555 lines) |
+| [web3-testing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/web3-testing/SKILL.md) | BLOATED (414 lines) |
 
 ## Cross-Reference Gaps
 
@@ -598,7 +592,6 @@ None found. All references map to existing skills.
 | From Skill | To Skill |
 |:-----------|:---------|
 | [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) | [context-manager](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-manager/SKILL.md) |
-| [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) | [prompt-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prompt-engineer/SKILL.md) |
 | [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) | [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) |
 | [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) | [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) |
 | [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) | [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) |
@@ -622,14 +615,11 @@ None found. All references map to existing skills.
 | [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) | [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) |
 | [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) | [security-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-auditor/SKILL.md) |
 | [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) | [test-automator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/test-automator/SKILL.md) |
-| [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) | [security-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-auditor/SKILL.md) |
 | [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) | [supabase-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/supabase-integration/SKILL.md) |
 | [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) | [c4-code](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-code/SKILL.md) |
 | [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) | [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) |
 | [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) | [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) |
 | [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) | [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) |
-| [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) | [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) |
-| [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) | [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) |
 | [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [architect-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architect-review/SKILL.md) |
 | [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) |
 | [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [deployment-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-engineer/SKILL.md) |
@@ -637,70 +627,24 @@ None found. All references map to existing skills.
 | [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [legacy-modernizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/legacy-modernizer/SKILL.md) |
 | [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) |
 | [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [security-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-auditor/SKILL.md) |
-| [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) | [test-automator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/test-automator/SKILL.md) |
 | [core-web-vitals-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/core-web-vitals-audit/SKILL.md) | [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) |
 | [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) |
-| [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) |
 | [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [data-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineer/SKILL.md) |
 | [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [data-scientist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-scientist/SKILL.md) |
 | [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [deployment-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-engineer/SKILL.md) |
 | [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [frontend-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-developer/SKILL.md) |
-| [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [ml-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ml-engineer/SKILL.md) |
 | [data-engineering-data-driven-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-driven-feature/SKILL.md) | [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) |
-| ... and 131 more missing backlinks ... | | 
+| [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) | [postgresql](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postgresql/SKILL.md) |
+| [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) | [database-admin](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-admin/SKILL.md) |
+| [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) | [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) |
+| [database-migrations-migration-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-migration-observability/SKILL.md) | [postgresql](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postgresql/SKILL.md) |
+| [database-migrations-sql-migrations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-sql-migrations/SKILL.md) | [postgresql](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postgresql/SKILL.md) |
+| [distributed-tracing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/distributed-tracing/SKILL.md) | [grafana-dashboards](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/grafana-dashboards/SKILL.md) |
+| [distributed-tracing](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/distributed-tracing/SKILL.md) | [postgresql](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/postgresql/SKILL.md) |
+| ... and 111 more missing backlinks ... | | 
 
 ### 🔗 Orphaned Skills (Zero incoming & outgoing references)
-- [accessibility-compliance-accessibility-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/accessibility-compliance-accessibility-audit/SKILL.md)
-- [agent-orchestration-multi-agent-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-multi-agent-optimize/SKILL.md)
-- [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md)
-- [airflow-dag-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/airflow-dag-patterns/SKILL.md)
-- [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md)
-- [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md)
-- [anti-reversing-techniques](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/anti-reversing-techniques/SKILL.md)
-- [api-design-principles](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-design-principles/SKILL.md)
-- [api-testing-observability-api-mock](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-testing-observability-api-mock/SKILL.md)
-- [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md)
-- [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md)
-- [async-python-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/async-python-patterns/SKILL.md)
-- [attack-tree-construction](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/attack-tree-construction/SKILL.md)
-- [auth-implementation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/auth-implementation-patterns/SKILL.md)
-- [backtesting-frameworks](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backtesting-frameworks/SKILL.md)
-- [bash-defensive-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-defensive-patterns/SKILL.md)
-- [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md)
-- [bats-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bats-testing-patterns/SKILL.md)
-- [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md)
-- [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md)
-- [billing-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/billing-automation/SKILL.md)
-- [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md)
-- [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md)
-- [c-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c-pro/SKILL.md)
-- [changelog-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/changelog-automation/SKILL.md)
-- [chart-js-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/chart-js-integration/SKILL.md)
-- [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md)
-- [cloudflare-workers](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloudflare-workers/SKILL.md)
-- [code-documentation-code-explain](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-code-explain/SKILL.md)
-- [code-documentation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-doc-generate/SKILL.md)
-- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md)
-- [code-refactoring-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-refactor-clean/SKILL.md)
-- [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md)
-- [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md)
-- [code-review-excellence](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-excellence/SKILL.md)
-- [codebase-cleanup-deps-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-deps-audit/SKILL.md)
-- [codebase-cleanup-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-refactor-clean/SKILL.md)
-- [codebase-cleanup-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-tech-debt/SKILL.md)
-- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md)
-- [comprehensive-review-pr-enhance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-pr-enhance/SKILL.md)
-- [conductor-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-implement/SKILL.md)
-- [conductor-manage](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-manage/SKILL.md)
-- [conductor-new-track](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-new-track/SKILL.md)
-- [conductor-revert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-revert/SKILL.md)
-- [conductor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-setup/SKILL.md)
-- [conductor-status](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-status/SKILL.md)
-- [conductor-validator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-validator/SKILL.md)
-- [context-driven-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-driven-development/SKILL.md)
-- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md)
-- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md)
-- ... and 171 more orphaned skills ...
+No orphaned skills found.
 
 ## Overlap Analysis
 
@@ -763,12 +707,14 @@ None found. All references map to existing skills.
 - [mpc-energy-dispatch](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mpc-energy-dispatch/SKILL.md)
 - [quant-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/quant-analyst/SKILL.md)
 
-### "proof" (13 skills)
+### "proof" (15 skills)
 - [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md)
+- [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md)
 - [architect-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architect-review/SKILL.md)
 - [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md)
 - [content-marketer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/content-marketer/SKILL.md)
 - [firmware-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/firmware-analyst/SKILL.md)
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md)
 - [sales-automator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sales-automator/SKILL.md)
 - [security-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-auditor/SKILL.md)
 - [security-scanning-security-hardening](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-hardening/SKILL.md)
@@ -783,6 +729,6 @@ None found. All references map to existing skills.
 Rules Review: `.agent/rules/` does not exist in this repository (it is a standalone skills vault).
 
 ## Recommended Actions
-1. **Add Cross-References:** Implement bidirectionally linked `## Cross-References` sections to resolve the `ORPHAN` status for 221 orphaned skills.
+1. **Add Cross-References:** Implement bidirectionally linked `## Cross-References` sections to resolve the `ORPHAN` status for 0 orphaned skills.
 2. **Address Thin Skills:** Expand thin skills (lines < 30) such as `rust-async-patterns` to provide comprehensive usage notes.
 3. **Add Data Sources:** Add implementation resources, scripts, or examples to resolve `NO-DATA` flags.

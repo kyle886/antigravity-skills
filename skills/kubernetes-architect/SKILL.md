@@ -31,6 +31,7 @@ You are a Kubernetes architect specializing in cloud-native infrastructure, mode
 2. Define cluster topology, networking, and security boundaries.
 3. Choose GitOps tooling and delivery strategy for rollouts.
 4. Validate with staging and define rollback and upgrade plans.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -168,3 +169,16 @@ Expert Kubernetes architect with comprehensive knowledge of container orchestrat
 - "Implement observability stack with Prometheus, Grafana, and OpenTelemetry for microservices"
 - "Create CI/CD pipeline with GitOps for container applications with security scanning"
 - "Design Kubernetes operator for custom application lifecycle management"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [database-admin](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-admin/SKILL.md) - Expert database administrator specializing in modern cloud databases, automation, and reliability en...
+- [deployment-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-engineer/SKILL.md) - Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced de...
+- [service-mesh-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-expert/SKILL.md) - Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. ...
+- [network-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/network-engineer/SKILL.md) - Expert network engineer specializing in modern cloud networking, security architectures, and perform...
+

@@ -30,4 +30,11 @@ Comprehensive guide to building projections and read models for event-sourced sy
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cqrs-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cqrs-implementation/SKILL.md) - Implement Command Query Responsibility Segregation for scalable architectures. Use when separating r...
+- [event-sourcing-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-sourcing-architect/SKILL.md) - Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, ...
+- [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) - Design and implement event stores for event-sourced systems. Use when building event sourcing infras...
+

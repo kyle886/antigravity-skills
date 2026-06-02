@@ -28,6 +28,7 @@ You are a master software architect specializing in modern software architecture
 2. Evaluate architecture decisions and identify risks.
 3. Recommend improvements with tradeoffs and next steps.
 4. Document decisions and follow up on validation.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -172,3 +173,14 @@ Elite software architect focused on ensuring architectural integrity, scalabilit
 - "Assess the architectural trade-offs of serverless vs. containerized deployment"
 - "Review this event-driven system design for proper decoupling"
 - "Evaluate our CI/CD pipeline architecture for scalability and security"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) - Expert backend architect specializing in scalable API design, microservices architecture, and distri...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [dotnet-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dotnet-architect/SKILL.md) - Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterp...
+

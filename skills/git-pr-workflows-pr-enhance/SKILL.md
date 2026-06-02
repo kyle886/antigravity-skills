@@ -45,4 +45,12 @@ Focus on creating PRs that are a pleasure to review, with all necessary context 
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md) - You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Acti...
+- [comprehensive-review-pr-enhance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-pr-enhance/SKILL.md) - You are a PR optimization expert specializing in creating high-quality pull requests that facilitate...
+- [git-pr-workflows-git-workflow](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-pr-workflows-git-workflow/SKILL.md) - Orchestrate a comprehensive git workflow from code review through PR creation, leveraging specialize...
+- [framework-migration-code-migrate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-code-migrate/SKILL.md) - You are a code migration expert specializing in transitioning codebases between frameworks, language...
+

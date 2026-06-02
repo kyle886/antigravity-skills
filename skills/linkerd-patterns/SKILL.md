@@ -316,6 +316,12 @@ linkerd viz tap deploy/my-app --to deploy/my-backend
 
 ## Resources
 
-- [Linkerd Documentation](https://linkerd.io/2.14/overview/)
-- [Service Profiles](https://linkerd.io/2.14/features/service-profiles/)
-- [Authorization Policy](https://linkerd.io/2.14/features/server-policy/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [istio-traffic-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/istio-traffic-management/SKILL.md) - Configure Istio traffic management including routing, load balancing, circuit breakers, and canary d...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [mtls-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mtls-configuration/SKILL.md) - Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing z...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

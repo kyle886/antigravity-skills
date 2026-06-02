@@ -30,4 +30,12 @@ Production-ready patterns for React Native development with Expo, including navi
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [mobile-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-developer/SKILL.md) - Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cros...
+- [multi-platform-apps-multi-platform](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/multi-platform-apps-multi-platform/SKILL.md) - Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-f...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

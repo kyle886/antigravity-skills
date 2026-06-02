@@ -392,6 +392,11 @@ bazel build //... --notrack_incremental_state
 
 ## Resources
 
-- [Bazel Documentation](https://bazel.build/docs)
-- [Bazel Remote Execution](https://bazel.build/docs/remote-execution)
-- [rules_js](https://github.com/aspect-build/rules_js)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [turborepo-caching](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/turborepo-caching/SKILL.md) - Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up...
+- [gitlab-ci-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitlab-ci-patterns/SKILL.md) - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalab...
+- [nx-workspace-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nx-workspace-patterns/SKILL.md) - Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundarie...
+

@@ -34,4 +34,12 @@ Master C#/.NET patterns for building production-grade APIs, MCP servers, and ent
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed .NET patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [async-python-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/async-python-patterns/SKILL.md) - Master Python asyncio, concurrent programming, and async/await patterns for high-performance applica...
+- [dotnet-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dotnet-architect/SKILL.md) - Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterp...
+- [rust-async-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-async-patterns/SKILL.md) - Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use...
+- [fastapi-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-templates/SKILL.md) - Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensiv...
+

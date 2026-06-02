@@ -41,4 +41,12 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed tooling and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [accessibility-compliance-accessibility-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/accessibility-compliance-accessibility-audit/SKILL.md) - You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive tec...
+- [codebase-cleanup-deps-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-deps-audit/SKILL.md) - You are a dependency security expert specializing in vulnerability scanning, license compliance, and...
+- [security-scanning-security-dependencies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-dependencies/SKILL.md) - You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and su...
+- [framework-migration-deps-upgrade](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-deps-upgrade/SKILL.md) - You are a dependency management expert specializing in safe, incremental upgrades of project depende...
+

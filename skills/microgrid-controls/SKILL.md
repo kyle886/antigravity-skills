@@ -193,3 +193,20 @@ V = V_nom - n_q × (Q - Q_set)
 - "Implement seamless transition logic between grid-tied and islanded modes"
 - "Create a Monte Carlo simulation to size DERs for 99.9% reliability"
 - "Optimize generator scheduling with minimum run time and startup cost constraints"
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+- Apply relevant best practices and validate outcomes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [mpc-energy-dispatch](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mpc-energy-dispatch/SKILL.md) - Master Model Predictive Control (MPC) for energy dispatch optimization including rolling horizon, co...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md) - Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,...
+

@@ -319,32 +319,12 @@ llm = OpenAI(streaming=True, callbacks=[StreamingStdOutCallbackHandler()])
 
 ## Resources
 
-- **references/agents.md**: Deep dive on agent architectures
-- **references/memory.md**: Memory system patterns
-- **references/chains.md**: Chain composition strategies
-- **references/document-processing.md**: Document loading and indexing
-- **references/callbacks.md**: Monitoring and observability
-- **assets/agent-template.py**: Production-ready agent template
-- **assets/memory-config.yaml**: Memory configuration examples
-- **assets/chain-example.py**: Complex chain examples
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Common Pitfalls
+## Cross-References
 
-1. **Memory Overflow**: Not managing conversation history length
-2. **Tool Selection Errors**: Poor tool descriptions confuse agents
-3. **Context Window Exceeded**: Exceeding LLM token limits
-4. **No Error Handling**: Not catching and handling agent failures
-5. **Inefficient Retrieval**: Not optimizing vector store queries
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [multi-cloud-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/multi-cloud-architecture/SKILL.md) - Design multi-cloud architectures using a decision framework to select and integrate services across ...
 
-## Production Checklist
-
-- [ ] Implement proper error handling
-- [ ] Add request/response logging
-- [ ] Monitor token usage and costs
-- [ ] Set timeout limits for agent execution
-- [ ] Implement rate limiting
-- [ ] Add input validation
-- [ ] Test with edge cases
-- [ ] Set up observability (callbacks)
-- [ ] Implement fallback strategies
-- [ ] Version control prompts and configurations

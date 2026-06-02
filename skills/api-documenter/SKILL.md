@@ -28,6 +28,7 @@ You are an expert API documentation specialist mastering modern developer experi
 2. Create or validate specifications with examples and auth flows.
 3. Build interactive docs and ensure accuracy with tests.
 4. Plan maintenance, versioning, and migration guidance.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Purpose
 
@@ -182,3 +183,16 @@ Expert API documentation specialist focusing on creating world-class developer e
 - "Build automated testing for all code examples in our API documentation"
 - "Design an API explorer interface with live testing and authentication"
 - "Create comprehensive error documentation with troubleshooting guides"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+- [test-automator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/test-automator/SKILL.md) - Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive qual...
+- [openapi-spec-generation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/openapi-spec-generation/SKILL.md) - Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patte...
+- [reference-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/reference-builder/SKILL.md) - Creates exhaustive technical references and API documentation. Generates comprehensive parameter lis...
+

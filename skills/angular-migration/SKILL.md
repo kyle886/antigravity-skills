@@ -29,6 +29,7 @@ Master AngularJS to Angular migration, including hybrid apps, component conversi
 2. Choose a migration strategy (hybrid vs rewrite) and define milestones.
 3. Set up ngUpgrade and migrate modules, components, and routing.
 4. Validate with tests and plan a safe cutover.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -400,29 +401,12 @@ Phase 4: Cleanup (1-2 weeks)
 
 ## Resources
 
-- **references/hybrid-mode.md**: Hybrid app patterns
-- **references/component-migration.md**: Component conversion guide
-- **references/dependency-injection.md**: DI migration strategies
-- **references/routing.md**: Routing migration
-- **assets/hybrid-bootstrap.ts**: Hybrid app template
-- **assets/migration-timeline.md**: Project planning
-- **scripts/analyze-angular-app.sh**: App analysis script
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Start with Services**: Migrate services first (easier)
-2. **Incremental Approach**: Feature-by-feature migration
-3. **Test Continuously**: Test at every step
-4. **Use TypeScript**: Migrate to TypeScript early
-5. **Follow Style Guide**: Angular style guide from day 1
-6. **Optimize Later**: Get it working, then optimize
-7. **Document**: Keep migration notes
+- [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) - Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-d...
+- [react-modernization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/react-modernization/SKILL.md) - Upgrade React applications to latest versions, migrate from class components to hooks, and adopt con...
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [legacy-modernizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/legacy-modernizer/SKILL.md) - Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles...
 
-## Common Pitfalls
-
-- Not setting up hybrid app correctly
-- Migrating UI before logic
-- Ignoring change detection differences
-- Not handling scope properly
-- Mixing patterns (AngularJS + Angular)
-- Inadequate testing

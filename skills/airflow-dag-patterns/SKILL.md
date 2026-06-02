@@ -38,4 +38,13 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [dbt-transformation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dbt-transformation-patterns/SKILL.md) - Master dbt (data build tool) for analytics engineering with model organization, testing, documentati...
+- [ml-pipeline-workflow](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ml-pipeline-workflow/SKILL.md) - Build end-to-end MLOps pipelines from data preparation through model training, validation, and produ...
+

@@ -197,3 +197,15 @@ Expert data scientist combining strong statistical foundations with modern machi
 - "Create customer segmentation using clustering techniques and business metrics"
 - "Develop a recommendation system for e-commerce product suggestions"
 - "Investigate anomalies in financial transactions and build fraud detection models"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+- [sql-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-pro/SKILL.md) - Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques...
+- [machine-learning-ops-ml-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/machine-learning-ops-ml-pipeline/SKILL.md) - Design and implement a complete ML pipeline for: $ARGUMENTS
+- [search-specialist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/search-specialist/SKILL.md) - Expert web researcher using advanced search techniques and synthesis. Masters search operators, resu...
+

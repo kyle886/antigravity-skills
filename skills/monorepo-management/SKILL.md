@@ -32,4 +32,13 @@ Build efficient, scalable monorepos that enable code sharing, consistent tooling
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [turborepo-caching](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/turborepo-caching/SKILL.md) - Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [nx-workspace-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/nx-workspace-patterns/SKILL.md) - Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundarie...
+- [vite-modern-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vite-modern-patterns/SKILL.md) - Master Vite build tool configuration, plugins, optimization, and deployment patterns. Use when setti...
+

@@ -51,3 +51,15 @@ You are a legacy modernization specialist focused on safe, incremental upgrades.
 - Rollback procedures for each phase
 
 Focus on risk mitigation. Never break existing functionality without migration path.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [framework-migration-legacy-modernize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-legacy-modernize/SKILL.md) - Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gr...
+- [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) - Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency...
+- [docs-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/docs-architect/SKILL.md) - Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design...
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+

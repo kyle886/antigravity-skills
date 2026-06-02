@@ -25,6 +25,7 @@ Official SIOR (Society of Industrial and Office Realtors) brand guidelines for c
 2. Use approved typography
 3. Follow logo usage guidelines
 4. Maintain brand consistency across all touchpoints
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Color Palette
 
@@ -316,5 +317,11 @@ const siorGlobeTheme = {
 
 ## Resources
 
-- SIOR Brand Kit (available at `/docs/SIOR Branding/`)
-- Official SIOR website: https://www.sior.com/
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cre-brand-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cre-brand-compliance/SKILL.md) - Audit and enforce brand consistency for commercial real estate companies. Covers visual identity (co...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [error-handling-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-handling-patterns/SKILL.md) - Master error handling patterns across languages including exceptions, Result types, error propagatio...
+

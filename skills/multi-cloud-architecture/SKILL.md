@@ -187,3 +187,14 @@ AWS / Azure / GCP
 - `terraform-module-library` - For IaC implementation
 - `cost-optimization` - For cost management
 - `hybrid-cloud-networking` - For connectivity
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) - Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordin...
+- [microservices-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/microservices-patterns/SKILL.md) - Design microservices architectures with service boundaries, event-driven communication, and resilien...
+- [langchain-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/langchain-architecture/SKILL.md) - Design LLM applications using the LangChain framework with agents, memory, and tool integration patt...
+

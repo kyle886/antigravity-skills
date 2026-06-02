@@ -168,3 +168,14 @@ Expert frontend security developer with comprehensive knowledge of client-side s
 - "Sanitize user input for rich text editor with DOMPurify integration"
 - "Implement secure authentication token storage and rotation"
 - "Create secure third-party widget integration with iframe sandboxing"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+- [mobile-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-security-coder/SKILL.md) - Expert in secure mobile coding practices specializing in input validation, WebView security, and mob...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+

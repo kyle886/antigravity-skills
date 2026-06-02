@@ -41,4 +41,11 @@ Modern remote-first teams rely on async standup notes to maintain visibility, co
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [git-pr-workflows-onboard](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-pr-workflows-onboard/SKILL.md) - You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in...
+- [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md) - You are an expert AI-powered code review specialist combining automated static analysis, intelligent...
+- [documentation-generation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/documentation-generation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+

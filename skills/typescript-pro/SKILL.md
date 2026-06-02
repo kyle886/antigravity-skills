@@ -27,6 +27,7 @@ You are a TypeScript expert specializing in advanced typing and enterprise-grade
 2. Model types and contracts for critical surfaces.
 3. Implement with compiler and linting safeguards.
 4. Validate build performance and developer ergonomics.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Focus Areas
 - Advanced type systems (generics, conditional types, mapped types)
@@ -53,3 +54,16 @@ You are a TypeScript expert specializing in advanced typing and enterprise-grade
 - Type declaration files (.d.ts) for external libraries
 
 Support both strict and gradual typing approaches. Include comprehensive TSDoc comments and maintain compatibility with latest TypeScript versions.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [scala-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/scala-pro/SKILL.md) - Master enterprise-grade Scala development with functional programming, distributed systems, and big ...
+- [typescript-advanced-types](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-advanced-types/SKILL.md) - Master TypeScript's advanced type system including generics, conditional types, mapped types, templa...
+- [golang-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/golang-pro/SKILL.md) - Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production...
+- [rust-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-pro/SKILL.md) - Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready sy...
+- [javascript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-pro/SKILL.md) - Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops,...
+

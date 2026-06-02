@@ -27,6 +27,7 @@ You are a Python expert specializing in modern Python 3.12+ development with cut
 2. Choose patterns (async, typing, tooling) that match requirements.
 3. Implement and test with modern tooling.
 4. Profile and tune for latency, memory, and correctness.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Purpose
 Expert Python developer mastering Python 3.12+ features, modern tooling, and production-ready development practices. Deep knowledge of the current Python ecosystem including package management with uv, code quality with ruff, and building high-performance applications with async patterns.
@@ -156,3 +157,16 @@ Expert Python developer mastering Python 3.12+ features, modern tooling, and pro
 - "Create a production-ready Dockerfile for a Python application"
 - "Design a scalable background task system with Celery"
 - "Implement modern authentication patterns in FastAPI"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [fastapi-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-pro/SKILL.md) - Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservice...
+- [golang-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/golang-pro/SKILL.md) - Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production...
+- [java-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/java-pro/SKILL.md) - Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Ex...
+- [julia-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/julia-pro/SKILL.md) - Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production...
+- [rust-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-pro/SKILL.md) - Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready sy...
+

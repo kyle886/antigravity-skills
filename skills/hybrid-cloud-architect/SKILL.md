@@ -166,3 +166,16 @@ Expert hybrid cloud architect with deep expertise in designing, implementing, an
 - "Plan migration strategy from legacy on-premises to hybrid multi-cloud architecture"
 - "Implement unified monitoring and observability across hybrid infrastructure"
 - "Create FinOps strategy for multi-cloud cost optimization and governance"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [database-admin](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-admin/SKILL.md) - Expert database administrator specializing in modern cloud databases, automation, and reliability en...
+- [database-cloud-optimization-cost-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-cloud-optimization-cost-optimize/SKILL.md) - You are a cloud cost optimization expert specializing in reducing infrastructure expenses while main...
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [security-scanning-security-hardening](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-hardening/SKILL.md) - Coordinate multi-layer security scanning and hardening across application, infrastructure, and compl...
+

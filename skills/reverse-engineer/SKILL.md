@@ -171,3 +171,14 @@ Response: For authorized analysis of the DLL:
    - Map data structures
    - Note any security considerations
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [firmware-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/firmware-analyst/SKILL.md) - Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse enginee...
+- [malware-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/malware-analyst/SKILL.md) - Expert malware analyst specializing in defensive malware research, threat intelligence, and incident...
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+

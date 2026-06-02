@@ -437,30 +437,11 @@ contract FlashLoanReceiver is IFlashLoanReceiver {
 
 ## Resources
 
-- **references/staking.md**: Staking mechanics and reward distribution
-- **references/liquidity-pools.md**: AMM mathematics and pricing
-- **references/governance-tokens.md**: Governance and voting systems
-- **references/lending-protocols.md**: Lending/borrowing implementation
-- **references/flash-loans.md**: Flash loan security and use cases
-- **assets/staking-contract.sol**: Production staking template
-- **assets/amm-contract.sol**: Full AMM implementation
-- **assets/governance-token.sol**: Governance system
-- **assets/lending-protocol.sol**: Lending platform template
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Use Established Libraries**: OpenZeppelin, Solmate
-2. **Test Thoroughly**: Unit tests, integration tests, fuzzing
-3. **Audit Before Launch**: Professional security audits
-4. **Start Simple**: MVP first, add features incrementally
-5. **Monitor**: Track contract health and user activity
-6. **Upgradability**: Consider proxy patterns for upgrades
-7. **Emergency Controls**: Pause mechanisms for critical issues
+- [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md) - Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeF...
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [error-diagnostics-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-smart-debug/SKILL.md) - Use when working with error diagnostics smart debug
 
-## Common DeFi Patterns
-
-- **Time-Weighted Average Price (TWAP)**: Price oracle resistance
-- **Liquidity Mining**: Incentivize liquidity provision
-- **Vesting**: Lock tokens with gradual release
-- **Multisig**: Require multiple signatures for critical operations
-- **Timelocks**: Delay execution of governance decisions

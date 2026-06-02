@@ -130,3 +130,14 @@ Orchestrate a comprehensive legacy system modernization using the strangler fig 
 - Complete documentation enabling new developer onboarding in <1 week
 
 Target: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [legacy-modernizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/legacy-modernizer/SKILL.md) - Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles...
+- [agent-orchestration-improve-agent](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/agent-orchestration-improve-agent/SKILL.md) - Systematic improvement of existing agents through performance analysis, prompt engineering, and cont...
+- [c4-architecture-c4-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-architecture-c4-architecture/SKILL.md) - Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bot...
+

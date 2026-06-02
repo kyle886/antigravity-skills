@@ -284,3 +284,14 @@ resource "aws_cloudwatch_metric_alarm" "cpu_high" {
 
 - `terraform-module-library` - For resource provisioning
 - `multi-cloud-architecture` - For cloud selection
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [database-cloud-optimization-cost-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-cloud-optimization-cost-optimize/SKILL.md) - You are a cloud cost optimization expert specializing in reducing infrastructure expenses while main...
+- [embedding-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/embedding-strategies/SKILL.md) - Select and optimize embedding models for semantic search and RAG applications. Use when choosing emb...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

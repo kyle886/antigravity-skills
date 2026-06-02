@@ -195,3 +195,16 @@ var status = order.State switch
     _ => "Unknown"
 };
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [architect-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architect-review/SKILL.md) - Master software architect specializing in modern architecture patterns, clean architecture, microser...
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+- [dotnet-backend-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dotnet-backend-patterns/SKILL.md) - Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise ap...
+- [mobile-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-security-coder/SKILL.md) - Expert in secure mobile coding practices specializing in input validation, WebView security, and mob...
+- [monorepo-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/monorepo-architect/SKILL.md) - Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turb...
+

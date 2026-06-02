@@ -43,6 +43,7 @@ Expert in threat modeling methodologies, security architecture review, and risk 
 6. Score and prioritize threats
 7. Design mitigations
 8. Document residual risks
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -58,3 +59,14 @@ Expert in threat modeling methodologies, security architecture review, and risk 
 - Link threats to security requirements
 - Track mitigations to implementation
 - Review regularly, not just at design time
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [security-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-auditor/SKILL.md) - Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frame...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) - Expert database architect specializing in data layer design from scratch, technology selection, sche...
+

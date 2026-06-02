@@ -448,3 +448,14 @@ Comprehensive AI code review combining:
 8. Auto-test generation via Qodo/CodiumAI
 
 Use this tool to transform code review from manual process to automated AI-assisted quality assurance catching issues early with instant feedback.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-review-ai-ai-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-review-ai-ai-review/SKILL.md) - You are an expert AI-powered code review specialist combining automated static analysis, intelligent...
+- [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) - Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, ...
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+

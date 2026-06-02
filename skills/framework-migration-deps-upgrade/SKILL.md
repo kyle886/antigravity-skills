@@ -45,4 +45,12 @@ Focus on safe, incremental upgrades that maintain system stability while keeping
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [deployment-validation-config-validate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-validation-config-validate/SKILL.md) - You are a configuration management expert specializing in validating, testing, and ensuring the corr...
+- [dependency-management-deps-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dependency-management-deps-audit/SKILL.md) - You are a dependency security expert specializing in vulnerability scanning, license compliance, and...
+- [systems-programming-rust-project](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/systems-programming-rust-project/SKILL.md) - You are a Rust project architecture expert specializing in scaffolding production-ready Rust applica...
+- [framework-migration-code-migrate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-code-migrate/SKILL.md) - You are a code migration expert specializing in transitioning codebases between frameworks, language...
+

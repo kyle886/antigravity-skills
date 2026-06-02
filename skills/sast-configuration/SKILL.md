@@ -28,6 +28,7 @@ Static Application Security Testing (SAST) tool setup, configuration, and custom
 3. Integrate scans into CI/CD with gating thresholds.
 4. Tune rules and suppressions based on false positives.
 5. Track remediation and verify fixes.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -210,3 +211,15 @@ semgrep --config p/pci-dss --json -o pci-scan-results.json
 4. Integrate into CI/CD pipeline
 5. Establish security gate policies
 6. Train development team on findings and remediation
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [security-scanning-security-sast](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-sast/SKILL.md) - Static Application Security Testing (SAST) for code vulnerability analysis across multiple languages...
+- [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) - Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, ...
+- [gitops-workflow](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitops-workflow/SKILL.md) - Implement GitOps workflows with ArgoCD and Flux for automated, declarative Kubernetes deployments wi...
+- [shellcheck-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/shellcheck-configuration/SKILL.md) - Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting...
+

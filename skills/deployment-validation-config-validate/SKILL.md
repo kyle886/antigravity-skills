@@ -25,7 +25,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Configuration Analysis
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Configuration Analysis
 
 Analyze existing configuration structure and identify validation needs:
 
@@ -494,3 +497,14 @@ class ConfigDocGenerator:
 7. **Documentation**: Auto-generated reference
 
 Focus on preventing configuration errors, ensuring consistency, and maintaining security best practices.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [framework-migration-deps-upgrade](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-deps-upgrade/SKILL.md) - You are a dependency management expert specializing in safe, incremental upgrades of project depende...
+- [observability-monitoring-monitor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-monitoring-monitor-setup/SKILL.md) - You are a monitoring and observability expert specializing in implementing comprehensive monitoring ...
+- [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) - You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective d...
+

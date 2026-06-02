@@ -31,4 +31,11 @@ Transform debugging from frustrating guesswork into systematic problem-solving w
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed debugging patterns and checklists.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugger](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugger/SKILL.md) - Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encoun...
+- [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) - Optimize end-to-end application performance with profiling, observability, and backend/frontend tuni...
+- [sql-optimization-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-optimization-patterns/SKILL.md) - Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve dat...
+

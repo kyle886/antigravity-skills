@@ -22,7 +22,10 @@ The foundation of professional feel. Font loading, type scales, rendering, and t
 
 ## Instructions
 
-### Phase 1: Font Loading Strategy
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Font Loading Strategy
 
 The single biggest typography issue on the web. Prevent Flash of Unstyled Text (FOUT) and Flash of Invisible Text (FOIT).
 
@@ -297,3 +300,15 @@ kbd {
 - [ ] Minimum 16px font size (prevents iOS input zoom)
 - [ ] Proper fallback font stack defined
 - [ ] No CLS from font loading (test with Lighthouse)
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [loading-states-and-transitions](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/loading-states-and-transitions/SKILL.md) - Production patterns for skeleton screens, progressive image loading, route transitions, optimistic U...
+- [premium-web-animations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/premium-web-animations/SKILL.md) - Copy-pasteable Framer Motion and CSS animation patterns for React. Scroll-triggered reveals, stagger...
+- [responsive-polish-checklist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/responsive-polish-checklist/SKILL.md) - The "last 5%" cross-browser, cross-device quality checklist for production websites. Touch targets, ...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

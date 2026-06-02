@@ -454,30 +454,11 @@ class BenchmarkRunner:
 
 ## Resources
 
-- **references/metrics.md**: Comprehensive metric guide
-- **references/human-evaluation.md**: Annotation best practices
-- **references/benchmarking.md**: Standard benchmarks
-- **references/a-b-testing.md**: Statistical testing guide
-- **references/regression-testing.md**: CI/CD integration
-- **assets/evaluation-framework.py**: Complete evaluation harness
-- **assets/benchmark-dataset.jsonl**: Example datasets
-- **scripts/evaluate-model.py**: Automated evaluation runner
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Multiple Metrics**: Use diverse metrics for comprehensive view
-2. **Representative Data**: Test on real-world, diverse examples
-3. **Baselines**: Always compare against baseline performance
-4. **Statistical Rigor**: Use proper statistical tests for comparisons
-5. **Continuous Evaluation**: Integrate into CI/CD pipeline
-6. **Human Validation**: Combine automated metrics with human judgment
-7. **Error Analysis**: Investigate failures to understand weaknesses
-8. **Version Control**: Track evaluation results over time
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [data-quality-frameworks](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-quality-frameworks/SKILL.md) - Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when b...
 
-## Common Pitfalls
-
-- **Single Metric Obsession**: Optimizing for one metric at the expense of others
-- **Small Sample Size**: Drawing conclusions from too few examples
-- **Data Contamination**: Testing on training data
-- **Ignoring Variance**: Not accounting for statistical uncertainty
-- **Metric Mismatch**: Using metrics not aligned with business goals

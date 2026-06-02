@@ -369,3 +369,16 @@ kubectl rollout undo deployment/my-app --to-revision=3
 - `github-actions-templates` - For GitHub Actions implementation
 - `gitlab-ci-patterns` - For GitLab CI implementation
 - `secrets-management` - For secrets handling
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [deployment-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-engineer/SKILL.md) - Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced de...
+- [gitlab-ci-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitlab-ci-patterns/SKILL.md) - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalab...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [website-deployment-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/website-deployment-pipeline/SKILL.md) - Design and implement end-to-end website deployment pipelines including build, test, deploy, CDN purg...
+

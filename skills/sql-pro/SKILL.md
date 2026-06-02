@@ -27,6 +27,7 @@ You are an expert SQL specialist mastering modern database systems, performance 
 2. Inspect schema, statistics, and access paths.
 3. Optimize queries and validate with EXPLAIN.
 4. Verify correctness and performance under load.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -171,3 +172,17 @@ Expert SQL professional focused on high-performance database systems, advanced q
 - "Design an HTAP system that handles both transactions and analytics efficiently"
 - "Create a time-series analysis query for IoT sensor data in TimescaleDB"
 - "Optimize database performance for a high-traffic e-commerce platform"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-scientist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-scientist/SKILL.md) - Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles co...
+- [database-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-architect/SKILL.md) - Expert database architect specializing in data layer design from scratch, technology selection, sche...
+- [database-migrations-sql-migrations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-sql-migrations/SKILL.md) - SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [java-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/java-pro/SKILL.md) - Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Ex...
+- [rust-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-pro/SKILL.md) - Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready sy...
+

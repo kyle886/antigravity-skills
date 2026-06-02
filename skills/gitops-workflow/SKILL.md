@@ -32,6 +32,7 @@ Implement declarative, Git-based continuous delivery for Kubernetes using ArgoCD
 2. Install ArgoCD or Flux and connect clusters.
 3. Configure sync policies, environments, and promotion flow.
 4. Validate rollbacks and secret handling.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -301,3 +302,15 @@ argocd app sync my-app --force
 
 - `k8s-manifest-generator` - For creating manifests
 - `helm-chart-scaffolding` - For packaging applications
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [sast-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sast-configuration/SKILL.md) - Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in ...
+

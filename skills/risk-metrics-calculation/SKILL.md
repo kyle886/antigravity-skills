@@ -30,4 +30,11 @@ Comprehensive risk measurement toolkit for portfolio management, including Value
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [godot-gdscript-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/godot-gdscript-patterns/SKILL.md) - Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use wh...
+- [prometheus-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prometheus-configuration/SKILL.md) - Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and...
+- [service-mesh-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-observability/SKILL.md) - Implement comprehensive observability for service meshes including distributed tracing, metrics, and...
+

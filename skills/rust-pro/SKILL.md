@@ -27,6 +27,7 @@ You are a Rust expert specializing in modern Rust 1.75+ development with advance
 2. Choose async/runtime and crate ecosystem approach.
 3. Implement with tests and linting.
 4. Profile and optimize hotspots.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Purpose
 Expert Rust developer mastering Rust 1.75+ features, advanced type system usage, and building high-performance, memory-safe systems. Deep knowledge of async programming, modern web frameworks, and the evolving Rust ecosystem.
@@ -176,3 +177,19 @@ Expert Rust developer mastering Rust 1.75+ features, advanced type system usage,
 - "Design a plugin system with dynamic loading and type safety"
 - "Implement a custom allocator for a specific use case"
 - "Debug and fix lifetime issues in this complex generic code"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [golang-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/golang-pro/SKILL.md) - Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production...
+- [haskell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/haskell-pro/SKILL.md) - Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reli...
+- [industrial-scada-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/industrial-scada-pro/SKILL.md) - Master SCADA systems and OPC-UA protocol for industrial energy systems including data acquisition, h...
+- [java-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/java-pro/SKILL.md) - Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Ex...
+- [julia-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/julia-pro/SKILL.md) - Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production...
+- [python-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-pro/SKILL.md) - Master Python 3.12+ with modern features, async programming, performance optimization, and productio...
+- [sql-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-pro/SKILL.md) - Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques...
+- [typescript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-pro/SKILL.md) - Master TypeScript with advanced types, generics, and strict type safety. Handles complex type system...
+

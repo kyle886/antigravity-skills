@@ -26,6 +26,7 @@ Lightweight, responsive data visualization using Chart.js.
 2. Design with accessibility in mind
 3. Implement responsive behavior
 4. Validate across screen sizes
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -278,5 +279,12 @@ function createMarketCharts(marketData) {
 
 ## Resources
 
-- [Chart.js Documentation](https://www.chartjs.org/docs/)
-- [Chart.js Samples](https://www.chartjs.org/samples/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [grafana-dashboards](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/grafana-dashboards/SKILL.md) - Create and manage production Grafana dashboards for real-time visualization of system and applicatio...
+

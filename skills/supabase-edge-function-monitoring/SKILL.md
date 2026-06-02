@@ -23,7 +23,10 @@ Health monitoring and operational observability for Supabase Edge Functions.
 
 ## Instructions
 
-### Phase 1: Inventory
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Inventory
 
 1. List all deployed edge functions:
 
@@ -106,3 +109,14 @@ done
 - Never expose real JWT tokens or API keys in logs or documentation
 - Do not invoke functions with test data in production without a cleanup plan
 - Be cautious with functions that trigger emails or external API calls
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+- [debugger](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugger/SKILL.md) - Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encoun...
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+

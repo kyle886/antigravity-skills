@@ -422,6 +422,13 @@ spark_configs = {
 
 ## Resources
 
-- [Spark Performance Tuning](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
-- [Spark Configuration](https://spark.apache.org/docs/latest/configuration.html)
-- [Databricks Optimization Guide](https://docs.databricks.com/en/optimizations/index.html)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [pwa-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pwa-optimization/SKILL.md) - Optimize Progressive Web App service worker strategies, precache configuration, offline UX, and mani...
+- [python-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-performance-optimization/SKILL.md) - Profile and optimize Python code using cProfile, memory profilers, and performance best practices. U...
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [vector-index-tuning](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vector-index-tuning/SKILL.md) - Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, ...
+

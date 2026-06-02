@@ -25,6 +25,7 @@ description: Design a PostgreSQL-specific schema. Covers best-practices, data ty
 3. Add indexes for real query paths and validate with `EXPLAIN`.
 4. Plan partitioning or RLS where required by scale or access control.
 5. Review migration impact and apply changes safely.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -228,3 +229,14 @@ CREATE TABLE profiles (
 );
 CREATE INDEX profiles_attrs_gin ON profiles USING GIN (attrs);
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-refactoring-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-refactor-clean/SKILL.md) - You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and ...
+- [codebase-cleanup-refactor-clean](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/codebase-cleanup-refactor-clean/SKILL.md) - You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and ...
+- [terraform-specialist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/terraform-specialist/SKILL.md) - Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterp...
+

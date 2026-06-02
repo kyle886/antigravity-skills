@@ -54,3 +54,16 @@ You are a Haskell expert specializing in strongly typed functional programming a
 - QuickCheck/Hspec tests with property-based reasoning
 
 Provide modern, maintainable Haskell that balances rigor with practicality.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [arm-cortex-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/arm-cortex-expert/SKILL.md) - Senior embedded software engineer specializing in firmware and driver development for ARM Cortex-M m...
+- [golang-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/golang-pro/SKILL.md) - Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production...
+- [rust-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-pro/SKILL.md) - Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready sy...
+- [scala-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/scala-pro/SKILL.md) - Master enterprise-grade Scala development with functional programming, distributed systems, and big ...
+- [posix-shell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/posix-shell-pro/SKILL.md) - Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in...
+

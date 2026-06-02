@@ -222,3 +222,15 @@ Expert test automation engineer focused on building robust, maintainable, and in
 - "Design TDD compliance dashboard for team adherence monitoring"
 - "Implement London School TDD with mock-based test isolation"
 - "Set up continuous TDD verification in CI/CD pipeline"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [api-documenter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-documenter/SKILL.md) - Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practic...
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+

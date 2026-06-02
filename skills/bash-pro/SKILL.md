@@ -23,6 +23,7 @@ metadata:
 2. Apply strict mode and safe argument parsing.
 3. Implement core logic with defensive patterns.
 4. Add tests and linting with Bats and ShellCheck.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -308,3 +309,15 @@ metadata:
 - [Bash Security Best Practices](https://github.com/carlospolop/PEASS-ng) - Security-focused shell script patterns
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) - Curated list of Bash resources and tools
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - Collection of pure bash alternatives to external commands
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bash-defensive-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-defensive-patterns/SKILL.md) - Master defensive Bash programming techniques for production-grade scripts. Use when writing robust s...
+- [bats-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bats-testing-patterns/SKILL.md) - Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing...
+- [deployment-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-engineer/SKILL.md) - Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced de...
+- [posix-shell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/posix-shell-pro/SKILL.md) - Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in...
+

@@ -148,3 +148,15 @@ When creating context documentation, provide:
 - Links to container and component documentation
 - Stakeholder-friendly documentation understandable by non-technical audiences
 - Consistent documentation format
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [c4-code](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-code/SKILL.md) - Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 ...
+- [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) - Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Com...
+- [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) - Expert C4 Container-level documentation specialist. Synthesizes Component-level documentation into C...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

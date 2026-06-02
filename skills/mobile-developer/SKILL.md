@@ -203,3 +203,14 @@ Expert mobile developer specializing in React Native, Flutter, and native iOS/An
 - "Create native modules for camera processing in React Native"
 - "Implement real-time chat with offline message queueing"
 - "Design offline-first data sync with conflict resolution"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [flutter-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/flutter-expert/SKILL.md) - Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles sta...
+- [ios-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ios-developer/SKILL.md) - Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core...
+- [react-native-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/react-native-architecture/SKILL.md) - Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-pl...
+

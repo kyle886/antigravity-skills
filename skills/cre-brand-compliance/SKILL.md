@@ -24,7 +24,10 @@ Brand consistency audit and enforcement for commercial real estate companies, en
 
 ## Instructions
 
-### Phase 1: Define Brand Standards
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Define Brand Standards
 
 1. Collect or document the brand's core identity:
 
@@ -99,3 +102,14 @@ Brand consistency audit and enforcement for commercial real estate companies, en
 - Do not modify logos or brand assets without designer/stakeholder approval
 - Keep backup of original assets before any modifications
 - Verify color changes maintain WCAG AA contrast ratios
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) - Master commercial real estate (CRE) terminology, metrics, and market analysis. Use when building CRE...
+- [sior-brand-guidelines](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sior-brand-guidelines/SKILL.md) - Apply SIOR brand guidelines including colors, typography, logos, and visual identity. Use when desig...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

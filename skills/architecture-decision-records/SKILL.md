@@ -28,6 +28,7 @@ Comprehensive patterns for creating, maintaining, and managing Architecture Deci
 2. Document considered options with tradeoffs.
 3. Record the decision, rationale, and consequences.
 4. Link related ADRs and update status over time.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -435,7 +436,11 @@ adr link 2 "Complements" 1 "Is complemented by"
 
 ## Resources
 
-- [Documenting Architecture Decisions (Michael Nygard)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
-- [MADR Template](https://adr.github.io/madr/)
-- [ADR GitHub Organization](https://adr.github.io/)
-- [adr-tools](https://github.com/npryce/adr-tools)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [employment-contract-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/employment-contract-templates/SKILL.md) - Create employment contracts, offer letters, and HR policy documents following legal best practices. ...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [dbt-transformation-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dbt-transformation-patterns/SKILL.md) - Master dbt (data build tool) for analytics engineering with model organization, testing, documentati...
+

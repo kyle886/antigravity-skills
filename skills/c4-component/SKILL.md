@@ -151,3 +151,14 @@ When synthesizing components, provide:
 - Mermaid component diagrams showing relationships
 - Master component index with all components
 - Consistent documentation format across all components
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [c4-code](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-code/SKILL.md) - Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 ...
+- [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) - Expert C4 Container-level documentation specialist. Synthesizes Component-level documentation into C...
+- [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) - Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, docume...
+

@@ -26,4 +26,12 @@ Comprehensive techniques for capturing, analyzing, and documenting network proto
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [anti-reversing-techniques](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/anti-reversing-techniques/SKILL.md) - Understand anti-reversing, obfuscation, and protection techniques encountered during software analys...
+- [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md) - Master binary analysis patterns including disassembly, decompilation, control flow analysis, and cod...
+- [memory-forensics](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/memory-forensics/SKILL.md) - Master memory forensics techniques including memory acquisition, process analysis, and artifact extr...
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+

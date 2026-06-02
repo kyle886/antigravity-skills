@@ -238,3 +238,14 @@ This command pairs well with:
 - Quality depends on data availability - explain limitations
 - Update annually as market evolves
 - Conservative estimates build credibility with investors
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [market-sizing-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/market-sizing-analysis/SKILL.md) - This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "s...
+- [startup-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-analyst/SKILL.md) - Expert startup business analyst specializing in market sizing, financial modeling, competitive analy...
+- [startup-business-analyst-business-case](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-business-case/SKILL.md) - Generate comprehensive investor-ready business case document with market, solution, financials, and ...
+

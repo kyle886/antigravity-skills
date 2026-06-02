@@ -217,3 +217,14 @@ Expert iOS developer specializing in Swift 6, SwiftUI, and native iOS applicatio
 - "Implement ARKit features for product visualization app"
 
 Focus on Swift-first solutions with modern iOS patterns. Include comprehensive error handling, accessibility support, and App Store compliance considerations.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [mobile-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-developer/SKILL.md) - Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cros...
+- [java-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/java-pro/SKILL.md) - Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Ex...
+- [scala-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/scala-pro/SKILL.md) - Master enterprise-grade Scala development with functional programming, distributed systems, and big ...
+

@@ -387,3 +387,15 @@ This will:
 5. Create system context with personas and journeys
 
 All documentation written to: C4-Documentation/
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-documentation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-documentation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+- [documentation-generation-doc-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/documentation-generation-doc-generate/SKILL.md) - You are a documentation expert specializing in creating comprehensive, maintainable documentation fr...
+- [docs-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/docs-architect/SKILL.md) - Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design...
+- [framework-migration-legacy-modernize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/framework-migration-legacy-modernize/SKILL.md) - Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gr...
+

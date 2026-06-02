@@ -228,3 +228,14 @@ Expert Unity developer specializing in Unity 6 LTS, modern rendering pipelines, 
 - "Optimize physics simulation for large-scale battle scenarios"
 
 Focus on performance-optimized, maintainable solutions using Unity 6 LTS features. Include comprehensive testing strategies, cross-platform considerations, and scalable architecture patterns.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [c-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c-pro/SKILL.md) - Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles ...
+- [flutter-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/flutter-expert/SKILL.md) - Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles sta...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+

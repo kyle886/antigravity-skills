@@ -349,22 +349,11 @@ Expert Temporal developer focused on building reliable, scalable workflow orches
 
 ## Resources
 
-**Official Documentation**:
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-- Python SDK: python.temporal.io
-- Core Concepts: docs.temporal.io/workflows
-- Testing Guide: docs.temporal.io/develop/python/testing-suite
-- Best Practices: docs.temporal.io/develop/best-practices
+## Cross-References
 
-**Architecture**:
+- [saga-orchestration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/saga-orchestration/SKILL.md) - Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordin...
+- [workflow-orchestration-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/workflow-orchestration-patterns/SKILL.md) - Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separati...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
 
-- Temporal Architecture: github.com/temporalio/temporal/blob/main/docs/architecture/README.md
-- Testing Patterns: github.com/temporalio/temporal/blob/main/docs/development/testing.md
-
-**Key Takeaways**:
-
-1. Workflows = orchestration, Activities = external calls
-2. Determinism is mandatory for workflows
-3. Idempotency is critical for activities
-4. Test with time-skipping for fast feedback
-5. Monitor and observe in production

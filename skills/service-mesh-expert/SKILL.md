@@ -56,3 +56,14 @@ Expert service mesh architect specializing in Istio, Linkerd, and cloud-native n
 - Monitor mesh overhead (latency, resource usage)
 - Keep sidecar resources appropriately sized
 - Use destination rules for consistent load balancing
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [kubernetes-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/kubernetes-architect/SKILL.md) - Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (...
+- [network-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/network-engineer/SKILL.md) - Expert network engineer specializing in modern cloud networking, security architectures, and perform...
+- [backend-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-architect/SKILL.md) - Expert backend architect specializing in scalable API design, microservices architecture, and distri...
+

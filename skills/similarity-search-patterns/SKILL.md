@@ -30,4 +30,12 @@ Patterns for implementing efficient similarity search in production systems.
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [hybrid-search-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hybrid-search-implementation/SKILL.md) - Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, buildin...
+- [rag-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rag-implementation/SKILL.md) - Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and se...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+

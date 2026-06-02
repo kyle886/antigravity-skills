@@ -124,3 +124,14 @@ Output a single Markdown package with:
 - **Not a substitute for licensed legal advice**; **consult local counsel** on high-risk or jurisdiction-specific matters (terminations, protected leaves, immigration, works councils/unions, international data transfers).
 - Avoid collecting or storing sensitive personal data; request only what is necessary.
 - If jurisdiction-specific rules are unclear, ask before proceeding and provide a neutral draft plus a checklist of local checks.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [php-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/php-pro/SKILL.md) - Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. U...
+- [conductor-validator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-validator/SKILL.md) - Validates Conductor project artifacts for completeness, consistency, and correctness. Use after setu...
+- [cpp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cpp-pro/SKILL.md) - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles tem...
+

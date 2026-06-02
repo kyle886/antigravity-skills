@@ -27,7 +27,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. XSS Vulnerability Detection
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. XSS Vulnerability Detection
 
 Scan codebase for XSS vulnerabilities using static analysis:
 
@@ -320,3 +323,14 @@ class XSSReportGenerator {
 5. **Prevention Checklist**: Best practices for XSS prevention
 
 Focus on identifying XSS attack vectors, providing actionable fixes, and establishing secure coding patterns.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [security-scanning-security-dependencies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-dependencies/SKILL.md) - You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and su...
+- [security-scanning-security-sast](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-sast/SKILL.md) - Static Application Security Testing (SAST) for code vulnerability analysis across multiple languages...
+- [code-refactoring-tech-debt](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-tech-debt/SKILL.md) - You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical...
+

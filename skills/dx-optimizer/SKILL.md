@@ -81,3 +81,14 @@ You are a Developer Experience (DX) optimization specialist. Your mission is to 
 - Developer satisfaction feedback
 
 Remember: Great DX is invisible when it works and obvious when it doesn't. Aim for invisible.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [uv-package-manager](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/uv-package-manager/SKILL.md) - Master the uv package manager for fast Python dependency management, virtual environments, and moder...
+

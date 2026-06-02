@@ -61,3 +61,15 @@ You are a PHP expert specializing in modern PHP development with focus on perfor
 - Production-ready code with proper logging and monitoring hooks
 
 Prefer PHP standard library and built-in functions over third-party packages. Use external dependencies sparingly and only when necessary. Focus on working code over explanations.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cpp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cpp-pro/SKILL.md) - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles tem...
+- [csharp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csharp-pro/SKILL.md) - Write modern C# code with advanced features like records, pattern matching, and async/await. Optimiz...
+- [hr-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hr-pro/SKILL.md) - Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, com...
+- [julia-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/julia-pro/SKILL.md) - Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production...
+

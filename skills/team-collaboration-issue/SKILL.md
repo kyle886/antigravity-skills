@@ -34,4 +34,11 @@ GitHub Issue ID or URL: $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md) - You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Acti...
+- [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) - You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective d...
+- [distributed-debugging-debug-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/distributed-debugging-debug-trace/SKILL.md) - You are a debugging expert specializing in setting up comprehensive debugging environments, distribu...
+

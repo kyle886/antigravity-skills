@@ -460,6 +460,12 @@ Present ranges:
 
 ## Resources
 
-- [Storytelling with Data (Cole Nussbaumer)](https://www.storytellingwithdata.com/)
-- [The Pyramid Principle (Barbara Minto)](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516)
-- [Resonate (Nancy Duarte)](https://www.duarte.com/resonate/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [csv-json-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csv-json-data-pipeline/SKILL.md) - Transform CSV data to JSON for web applications. Use when processing spreadsheet data, converting ma...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+

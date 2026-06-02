@@ -461,6 +461,11 @@ shellcheck --format=quiet script.sh
 
 ## Resources
 
-- **ShellCheck GitHub**: https://github.com/koalaman/shellcheck
-- **ShellCheck Wiki**: https://www.shellcheck.net/wiki/
-- **Error Code Reference**: https://www.shellcheck.net/
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [prometheus-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prometheus-configuration/SKILL.md) - Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and...
+- [sast-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sast-configuration/SKILL.md) - Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in ...
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+

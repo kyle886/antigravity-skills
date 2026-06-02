@@ -300,3 +300,20 @@ Q_rejected ≈ 0.25-0.35 × Q_fuel (for diesel)
 - "Build a startup sequence controller with oil temperature checks"
 - "Create a thermal-aware dispatch optimizer for hot ambient conditions"
 - "Calculate payload derating for a 2000m altitude installation"
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+- Apply relevant best practices and validate outcomes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) - Master Battery Energy Storage System (BESS) optimization including State of Charge modeling, degrada...
+- [mpc-energy-dispatch](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mpc-energy-dispatch/SKILL.md) - Master Model Predictive Control (MPC) for energy dispatch optimization including rolling horizon, co...
+- [julia-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/julia-pro/SKILL.md) - Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production...
+

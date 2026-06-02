@@ -31,4 +31,11 @@ Master React version upgrades, class to hooks migration, concurrent features ado
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [angular-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/angular-migration/SKILL.md) - Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency...
+- [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) - Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-d...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+

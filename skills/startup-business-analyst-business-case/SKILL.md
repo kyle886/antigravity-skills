@@ -485,3 +485,15 @@ What materials do you have?
 - Update quarterly or for funding rounds
 - Customize sections based on audience
 - Keep executive summary to 2 pages max
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [startup-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-analyst/SKILL.md) - Expert startup business analyst specializing in market sizing, financial modeling, competitive analy...
+- [startup-business-analyst-market-opportunity](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-market-opportunity/SKILL.md) - Generate comprehensive market opportunity analysis with TAM/SAM/SOM calculations
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+- [startup-business-analyst-financial-projections](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-financial-projections/SKILL.md) - Create detailed 3-5 year financial model with revenue, costs, cash flow, and scenarios
+

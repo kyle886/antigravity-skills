@@ -23,7 +23,10 @@ Systematic content freshness audit for marketing websites with hardcoded or semi
 
 ## Instructions
 
-### Phase 1: Scan for Staleness
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Phase 1: Scan for Staleness
 
 1. Search the codebase for time-sensitive patterns:
 
@@ -116,3 +119,14 @@ npm run build
 - Keep a changelog of data updates for audit trails
 - Do not publish data that isn't publicly available or properly licensed
 - Mark any projected/forecast data clearly as estimates
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-content-refresher](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-refresher/SKILL.md) - Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds s...
+- [sales-automator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sales-automator/SKILL.md) - Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sale...
+- [csv-json-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/csv-json-data-pipeline/SKILL.md) - Transform CSV data to JSON for web applications. Use when processing spreadsheet data, converting ma...
+

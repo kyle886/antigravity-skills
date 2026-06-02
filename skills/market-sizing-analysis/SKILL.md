@@ -423,3 +423,17 @@ To perform market sizing analysis:
 9. **Present** - Structure for audience (investors, strategy, operations)
 
 For detailed step-by-step guidance on each methodology, reference the files in `references/` directory. For complete worked examples, see `examples/` directory.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [competitive-landscape](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/competitive-landscape/SKILL.md) - This skill should be used when the user asks to "analyze competitors", "assess competitive landscape...
+- [startup-business-analyst-market-opportunity](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-business-analyst-market-opportunity/SKILL.md) - Generate comprehensive market opportunity analysis with TAM/SAM/SOM calculations
+- [team-composition-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/team-composition-analysis/SKILL.md) - This skill should be used when the user asks to "plan team structure", "determine hiring needs", "de...
+- [startup-financial-modeling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-financial-modeling/SKILL.md) - This skill should be used when the user asks to "create financial projections", "build a financial m...
+- [startup-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-analyst/SKILL.md) - Expert startup business analyst specializing in market sizing, financial modeling, competitive analy...
+- [startup-metrics-framework](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-metrics-framework/SKILL.md) - This skill should be used when the user asks about "key startup metrics", "SaaS metrics", "CAC and L...
+

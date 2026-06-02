@@ -93,3 +93,15 @@ Entities: [related concepts to include]
 - Static sites: Frontmatter keyword schema
 
 Focus on natural keyword integration and semantic relevance. Build topical depth through related concepts.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [seo-cannibalization-detector](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-cannibalization-detector/SKILL.md) - Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. S...
+- [seo-content-writer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-writer/SKILL.md) - Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehe...
+- [seo-content-auditor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-content-auditor/SKILL.md) - Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and p...
+- [seo-structure-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-structure-architect/SKILL.md) - Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and int...
+

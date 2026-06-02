@@ -27,7 +27,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Analyze Component Requirements
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Analyze Component Requirements
 
 ```typescript
 interface ComponentSpec {
@@ -401,3 +404,14 @@ export const Interactive: Story = {
 6. **Index File**: Barrel exports for clean imports
 
 Focus on creating production-ready, accessible, and maintainable components that follow modern React patterns and best practices.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [javascript-typescript-typescript-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-typescript-typescript-scaffold/SKILL.md) - You are a TypeScript project architecture expert specializing in scaffolding production-ready Node.j...
+- [python-development-python-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-development-python-scaffold/SKILL.md) - You are a Python project architecture expert specializing in scaffolding production-ready Python app...
+- [systems-programming-rust-project](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/systems-programming-rust-project/SKILL.md) - You are a Rust project architecture expert specializing in scaffolding production-ready Rust applica...
+

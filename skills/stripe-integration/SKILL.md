@@ -425,30 +425,12 @@ def test_payment_flow():
 
 ## Resources
 
-- **references/checkout-flows.md**: Detailed checkout implementation
-- **references/webhook-handling.md**: Webhook security and processing
-- **references/subscription-management.md**: Subscription lifecycle
-- **references/customer-management.md**: Customer and payment method handling
-- **references/invoice-generation.md**: Invoicing and billing
-- **assets/stripe-client.py**: Production-ready Stripe client wrapper
-- **assets/webhook-handler.py**: Complete webhook processor
-- **assets/checkout-config.json**: Checkout configuration templates
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
 
-## Best Practices
+## Cross-References
 
-1. **Always Use Webhooks**: Don't rely solely on client-side confirmation
-2. **Idempotency**: Handle webhook events idempotently
-3. **Error Handling**: Gracefully handle all Stripe errors
-4. **Test Mode**: Thoroughly test with test keys before production
-5. **Metadata**: Use metadata to link Stripe objects to your database
-6. **Monitoring**: Track payment success rates and errors
-7. **PCI Compliance**: Never handle raw card data on your server
-8. **SCA Ready**: Implement 3D Secure for European payments
+- [billing-automation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/billing-automation/SKILL.md) - Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunni...
+- [payment-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/payment-integration/SKILL.md) - Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, a...
+- [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) - Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste...
+- [paypal-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/paypal-integration/SKILL.md) - Integrate PayPal payment processing with support for express checkout, subscriptions, and refund man...
 
-## Common Pitfalls
-
-- **Not Verifying Webhooks**: Always verify webhook signatures
-- **Missing Webhook Events**: Handle all relevant webhook events
-- **Hardcoded Amounts**: Use cents/smallest currency unit
-- **No Retry Logic**: Implement retries for API calls
-- **Ignoring Test Mode**: Test all edge cases with test cards

@@ -424,3 +424,14 @@ If `--resume` argument or resuming from state:
 - If file write fails: Halt and report error, do not update state
 - If user cancels: Save current state for future resume
 - If state file corrupted: Offer to start fresh or attempt recovery
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-driven-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-driven-development/SKILL.md) - Use this skill when working with Conductor's context-driven development methodology, managing projec...
+- [conductor-validator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-validator/SKILL.md) - Validates Conductor project artifacts for completeness, consistency, and correctness. Use after setu...
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+

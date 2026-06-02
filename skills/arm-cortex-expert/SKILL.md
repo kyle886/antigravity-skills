@@ -304,3 +304,14 @@ __set_BASEPRI(basepri);
 - **STM32**: `HAL_SPI_Transmit()` / `HAL_SPI_Receive()` or LL drivers
 - **nRF52**: `nrfx_spi_xfer()` or `nrf_drv_spi_transfer()`
 - **SAMD**: Configure SERCOM in SPI master mode with `SERCOM_SPI_MODE_MASTER`
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [data-engineering-data-pipeline](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-engineering-data-pipeline/SKILL.md) - You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective d...
+- [haskell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/haskell-pro/SKILL.md) - Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reli...
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+

@@ -30,6 +30,7 @@ You are a performance engineer specializing in modern application optimization, 
 2. Collect traces, profiles, and load tests to isolate bottlenecks.
 3. Propose optimizations with expected impact and tradeoffs.
 4. Verify results and add guardrails to prevent regressions.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -178,3 +179,16 @@ Expert performance engineer with comprehensive knowledge of modern observability
 - "Optimize database performance for analytical workloads with query and index optimization"
 - "Create performance monitoring dashboard with SLI/SLO tracking and automated alerting"
 - "Implement chaos engineering practices for distributed system resilience and performance validation"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [analytics-integration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/analytics-integration/SKILL.md) - Integrate Google Analytics 4 (GA4) and custom event tracking. Use when adding analytics, conversion ...
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [devops-troubleshooter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/devops-troubleshooter/SKILL.md) - Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern...
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+- [ui-visual-validator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ui-visual-validator/SKILL.md) - Rigorous visual validation expert specializing in UI testing, design system compliance, and accessib...
+

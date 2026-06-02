@@ -57,3 +57,14 @@ You are an Elixir expert specializing in concurrent, fault-tolerant, and distrib
 - Telemetry instrumentation for observability
 
 Follow Elixir conventions. Design for fault tolerance and horizontal scaling.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [ruby-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ruby-pro/SKILL.md) - Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specia...
+- [cpp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cpp-pro/SKILL.md) - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles tem...
+

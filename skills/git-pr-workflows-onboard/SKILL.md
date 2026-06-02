@@ -414,3 +414,14 @@ Ensuring onboarding effectiveness and iteration:
 6. **Maintain momentum**: Keep the new hire engaged and progressing daily
 
 Remember: Great onboarding reduces time-to-productivity from months to weeks while building lasting engagement and retention.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [error-debugging-error-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-analysis/SKILL.md) - You are an expert error analysis specialist with deep expertise in debugging distributed systems, an...
+- [error-diagnostics-error-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-error-analysis/SKILL.md) - You are an expert error analysis specialist with deep expertise in debugging distributed systems, an...
+- [team-collaboration-standup-notes](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/team-collaboration-standup-notes/SKILL.md) - You are an expert team communication specialist focused on async-first standup practices, AI-assiste...
+

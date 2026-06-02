@@ -25,6 +25,7 @@ Write comprehensive failing tests following TDD red phase principles.
 2. Generate failing tests that define expected outcomes.
 3. Ensure failures are due to missing behavior, not setup errors.
 4. Document how to run tests and verify failures.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -162,3 +163,14 @@ describe('AuthService', () => {
 ```
 
 Test requirements: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-green](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-green/SKILL.md) - Implement the minimal code needed to make failing tests pass in the TDD green phase.
+- [javascript-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-testing-patterns/SKILL.md) - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, i...
+- [error-resilience-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-resilience-patterns/SKILL.md) - Error boundaries, network retry, graceful degradation, and meaningful fallback UIs for React applica...
+

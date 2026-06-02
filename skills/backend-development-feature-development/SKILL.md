@@ -26,6 +26,7 @@ Orchestrate end-to-end feature development from requirements to production deplo
 2. Select a methodology and define phase outputs.
 3. Orchestrate implementation, testing, and security validation.
 4. Prepare rollout, monitoring, and documentation plans.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -178,3 +179,14 @@ If issues arise during or after deployment:
 5. Incident post-mortem and fixes before re-deployment
 
 Feature description: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) - Optimize end-to-end application performance with profiling, observability, and backend/frontend tuni...
+- [multi-cloud-architecture](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/multi-cloud-architecture/SKILL.md) - Design multi-cloud architectures using a decision framework to select and integrate services across ...
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+

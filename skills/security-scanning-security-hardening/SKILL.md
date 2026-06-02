@@ -145,3 +145,15 @@ Implement comprehensive security hardening with defense-in-depth strategy throug
 - Regular security reviews scheduled post-implementation
 
 Security hardening target: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [multi-platform-apps-multi-platform](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/multi-platform-apps-multi-platform/SKILL.md) - Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-f...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [hybrid-cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/hybrid-cloud-architect/SKILL.md) - Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and...
+- [security-scanning-security-sast](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-scanning-security-sast/SKILL.md) - Static Application Security Testing (SAST) for code vulnerability analysis across multiple languages...
+

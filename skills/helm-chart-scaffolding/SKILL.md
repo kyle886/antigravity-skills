@@ -31,4 +31,12 @@ Use this skill when you need to:
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [k8s-manifest-generator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/k8s-manifest-generator/SKILL.md) - Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets foll...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [typescript-advanced-types](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/typescript-advanced-types/SKILL.md) - Master TypeScript's advanced type system including generics, conditional types, mapped types, templa...
+

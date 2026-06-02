@@ -37,4 +37,11 @@ Transform code reviews from gatekeeping to knowledge sharing through constructiv
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed review patterns and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [api-design-principles](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-design-principles/SKILL.md) - Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs th...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+

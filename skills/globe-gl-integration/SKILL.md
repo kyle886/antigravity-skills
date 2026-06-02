@@ -26,6 +26,7 @@ Interactive 3D globe visualization using Globe.gl (Three.js wrapper) for display
 2. Design point styling and interaction patterns
 3. Implement with performance considerations
 4. Validate on target devices/browsers
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Concepts
 
@@ -225,6 +226,12 @@ resizeGlobe();
 
 ## Resources
 
-- [Globe.gl Documentation](https://globe.gl/)
-- [Three.js Docs](https://threejs.org/docs/)
-- [Globe.gl Examples](https://github.com/vasturiano/globe.gl/tree/master/example)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) - Master commercial real estate (CRE) terminology, metrics, and market analysis. Use when building CRE...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+

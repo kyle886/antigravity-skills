@@ -32,4 +32,16 @@ Comprehensive guide for implementing robust testing strategies in JavaScript/Typ
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bats-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bats-testing-patterns/SKILL.md) - Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing...
+- [python-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-testing-patterns/SKILL.md) - Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven developme...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [prometheus-configuration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prometheus-configuration/SKILL.md) - Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and...
+- [tdd-workflows-tdd-green](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-green/SKILL.md) - Implement the minimal code needed to make failing tests pass in the TDD green phase.
+- [tdd-workflows-tdd-red](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-red/SKILL.md) - Generate failing tests for the TDD red phase to define expected behavior and edge cases.
+- [unit-testing-test-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/unit-testing-test-generate/SKILL.md) - Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case ...
+

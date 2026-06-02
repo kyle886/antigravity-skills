@@ -34,4 +34,13 @@ Comprehensive guide to using uv, an extremely fast Python package installer and 
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [dx-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/dx-optimizer/SKILL.md) - Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when settin...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [vite-modern-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vite-modern-patterns/SKILL.md) - Master Vite build tool configuration, plugins, optimization, and deployment patterns. Use when setti...
+

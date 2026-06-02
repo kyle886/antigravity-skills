@@ -254,3 +254,21 @@ z[t] - z[t-1] ≤ z[τ]  ∀τ ∈ [t, t + T_min_up)
 - "Add minimum generator runtime constraints to the dispatch model"
 - "Create a robust MPC that handles 20% solar forecast uncertainty"
 - "Design a two-stage stochastic program for day-ahead bidding with scenarios"
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+- Apply relevant best practices and validate outcomes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) - Master Battery Energy Storage System (BESS) optimization including State of Charge modeling, degrada...
+- [microgrid-controls](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/microgrid-controls/SKILL.md) - Design and implement microgrid control systems including peak shaving, DER coordination, grid-tied/i...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [thermal-systems-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/thermal-systems-engineer/SKILL.md) - Master thermal modeling for diesel and gas generators including heat rate curves, ambient derating, ...
+

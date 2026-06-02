@@ -404,9 +404,11 @@ git branch recovered-branch abc123
 
 ## Resources
 
-- **references/git-rebase-guide.md**: Deep dive into interactive rebase
-- **references/git-conflict-resolution.md**: Advanced conflict resolution strategies
-- **references/git-history-rewriting.md**: Safely rewriting Git history
-- **assets/git-workflow-checklist.md**: Pre-PR cleanup checklist
-- **assets/git-aliases.md**: Useful Git aliases for advanced workflows
-- **scripts/git-clean-branches.sh**: Clean up merged and stale branches
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+

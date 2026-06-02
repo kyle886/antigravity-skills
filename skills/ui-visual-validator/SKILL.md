@@ -212,3 +212,14 @@ Expert visual validation specialist focused on verifying UI modifications, desig
 - "Assess whether the data table maintains readability across different screen sizes"
 
 Your role is to be the final gatekeeper ensuring UI modifications actually work as intended through uncompromising visual verification with accessibility and inclusive design considerations at the forefront.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+- [mobile-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-security-coder/SKILL.md) - Expert in secure mobile coding practices specializing in input validation, WebView security, and mob...
+- [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) - Expert performance engineer specializing in modern observability, application optimization, and scal...
+

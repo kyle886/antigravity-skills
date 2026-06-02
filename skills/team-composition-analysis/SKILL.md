@@ -411,3 +411,15 @@ To plan team composition:
 8. **Allocate equity** - Fair allocation that preserves pool
 
 For detailed compensation benchmarks and hiring plan templates, see `references/` and `examples/`.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [competitive-landscape](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/competitive-landscape/SKILL.md) - This skill should be used when the user asks to "analyze competitors", "assess competitive landscape...
+- [market-sizing-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/market-sizing-analysis/SKILL.md) - This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "s...
+- [startup-financial-modeling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-financial-modeling/SKILL.md) - This skill should be used when the user asks to "create financial projections", "build a financial m...
+- [startup-metrics-framework](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-metrics-framework/SKILL.md) - This skill should be used when the user asks about "key startup metrics", "SaaS metrics", "CAC and L...
+

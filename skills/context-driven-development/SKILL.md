@@ -398,3 +398,18 @@ If interrupted mid-task:
 8. **Preserve history**: Use git to track context evolution over time
 9. **Question staleness**: If context feels wrong, investigate and update
 10. **Keep it actionable**: Every context item should inform a decision or behavior
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-setup](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-setup/SKILL.md) - Initialize project with Conductor artifacts (product definition, tech stack, workflow, style guides)
+- [conductor-status](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-status/SKILL.md) - Display project status, active tracks, and next actions
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+- [workflow-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/workflow-patterns/SKILL.md) - Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpo...
+

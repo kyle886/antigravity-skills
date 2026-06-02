@@ -36,4 +36,11 @@ Templates and patterns for creating legally sound employment documentation inclu
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed templates and checklists.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [architecture-decision-records](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-decision-records/SKILL.md) - Write and maintain Architecture Decision Records (ADRs) following best practices for technical decis...
+- [k8s-manifest-generator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/k8s-manifest-generator/SKILL.md) - Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets foll...
+- [terraform-module-library](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/terraform-module-library/SKILL.md) - Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-...
+

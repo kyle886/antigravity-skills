@@ -259,3 +259,15 @@ func TestVPCModule(t *testing.T) {
 
 - `multi-cloud-architecture` - For architectural decisions
 - `cost-optimization` - For cost-effective designs
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [employment-contract-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/employment-contract-templates/SKILL.md) - Create employment contracts, offer letters, and HR policy documents following legal best practices. ...
+- [terraform-specialist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/terraform-specialist/SKILL.md) - Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterp...
+- [cloud-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cloud-architect/SKILL.md) - Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC...
+- [database-admin](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-admin/SKILL.md) - Expert database administrator specializing in modern cloud databases, automation, and reliability en...
+

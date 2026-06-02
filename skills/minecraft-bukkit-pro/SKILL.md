@@ -124,3 +124,14 @@ You are a Minecraft plugin development master specializing in Bukkit, Spigot, an
 - Performance tuning guidelines
 
 Always leverage WebSearch and WebFetch to ensure best practices and find existing solutions. Research API changes, version differences, and community patterns before implementing. Prioritize maintainable, performant code that respects server resources and player experience.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [ruby-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ruby-pro/SKILL.md) - Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specia...
+- [javascript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-pro/SKILL.md) - Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops,...
+- [fastapi-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-pro/SKILL.md) - Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservice...
+

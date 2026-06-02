@@ -370,3 +370,14 @@ Alternatively, if not yet pushed:
 
 (Use with caution - this discards the revert commits)
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [track-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/track-management/SKILL.md) - Use this skill when creating, managing, or working with Conductor tracks - the logical work units fo...
+- [workflow-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/workflow-patterns/SKILL.md) - Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpo...
+- [conductor-manage](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-manage/SKILL.md) - Manage track lifecycle: archive, restore, delete, rename, and cleanup
+

@@ -32,4 +32,12 @@ Transform slow database queries into lightning-fast operations through systemati
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugging-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-strategies/SKILL.md) - Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently trac...
+- [prompt-engineering-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/prompt-engineering-patterns/SKILL.md) - Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controll...
+- [python-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-performance-optimization/SKILL.md) - Profile and optimize Python code using cProfile, memory profilers, and performance best practices. U...
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+

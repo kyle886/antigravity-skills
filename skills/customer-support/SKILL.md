@@ -168,3 +168,14 @@ Master customer support professional specializing in AI-driven support automatio
 - "Design an escalation workflow for high-value customer issues"
 - "Develop a multi-language support strategy for global customer base"
 - "Create customer satisfaction measurement and improvement framework"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [code-reviewer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-reviewer/SKILL.md) - Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, ...
+- [content-marketer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/content-marketer/SKILL.md) - Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribu...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

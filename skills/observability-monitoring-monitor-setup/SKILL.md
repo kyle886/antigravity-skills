@@ -45,4 +45,12 @@ Focus on creating a monitoring system that provides actionable insights, reduces
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [deployment-validation-config-validate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/deployment-validation-config-validate/SKILL.md) - You are a configuration management expert specializing in validating, testing, and ensuring the corr...
+- [distributed-debugging-debug-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/distributed-debugging-debug-trace/SKILL.md) - You are a debugging expert specializing in setting up comprehensive debugging environments, distribu...
+- [error-diagnostics-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+- [error-debugging-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+

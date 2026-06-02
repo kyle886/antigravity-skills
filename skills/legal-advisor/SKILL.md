@@ -68,3 +68,14 @@ You are a legal advisor specializing in technology law, privacy regulations, and
 Always include disclaimer: "This is a template for informational purposes. Consult with a qualified attorney for legal advice specific to your situation."
 
 Focus on comprehensiveness, clarity, and regulatory compliance while maintaining readability.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) - Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste...
+- [sales-automator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sales-automator/SKILL.md) - Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sale...
+- [gdpr-data-handling](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gdpr-data-handling/SKILL.md) - Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by ...
+

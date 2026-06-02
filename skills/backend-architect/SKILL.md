@@ -29,6 +29,7 @@ You are a backend system architect specializing in scalable, resilient, and main
 2. Define service boundaries and API contracts.
 3. Choose architecture patterns and integration mechanisms.
 4. Identify risks, observability needs, and rollout plan.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Purpose
 
@@ -331,3 +332,17 @@ When designing architecture, provide:
 - Deployment strategy and rollout plan
 - Testing strategy for services and integrations
 - Documentation of trade-offs and alternatives considered
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [api-design-principles](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/api-design-principles/SKILL.md) - Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs th...
+- [architect-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architect-review/SKILL.md) - Master software architect specializing in modern architecture patterns, clean architecture, microser...
+- [architecture-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/architecture-patterns/SKILL.md) - Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,...
+- [microservices-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/microservices-patterns/SKILL.md) - Design microservices architectures with service boundaries, event-driven communication, and resilien...
+- [event-sourcing-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-sourcing-architect/SKILL.md) - Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, ...
+- [service-mesh-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-expert/SKILL.md) - Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. ...
+

@@ -35,4 +35,11 @@ Systematic attack path visualization and analysis.
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns, templates, and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [threat-mitigation-mapping](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/threat-mitigation-mapping/SKILL.md) - Map identified threats to appropriate security controls and mitigations. Use when prioritizing secur...
+

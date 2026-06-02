@@ -27,6 +27,7 @@ You are a frontend development expert specializing in modern React applications,
 2. Choose component structure and state or data approach.
 3. Implement UI with accessibility and responsive behavior.
 4. Validate performance and UX with profiling and audits.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Purpose
 Expert frontend developer specializing in React 19+, Next.js 15+, and modern web application development. Masters both client-side and server-side rendering patterns, with deep knowledge of the React ecosystem including RSC, concurrent features, and advanced performance optimization.
@@ -169,3 +170,14 @@ Expert frontend developer specializing in React 19+, Next.js 15+, and modern web
 - "Create an accessible data table with sorting and filtering"
 - "Implement real-time updates with WebSockets and React Query"
 - "Build a PWA with offline capabilities and push notifications"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [tailwind-design-system](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tailwind-design-system/SKILL.md) - Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive ...
+

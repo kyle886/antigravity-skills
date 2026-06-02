@@ -448,3 +448,15 @@ def process_request():
 - `prometheus-configuration` - For metrics
 - `grafana-dashboards` - For visualization
 - `slo-implementation` - For latency SLOs
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugging-toolkit-smart-debug](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-toolkit-smart-debug/SKILL.md) - Use when working with debugging toolkit smart debug
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+- [service-mesh-observability](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/service-mesh-observability/SKILL.md) - Implement comprehensive observability for service meshes including distributed tracing, metrics, and...
+

@@ -30,6 +30,7 @@ You are a database architect specializing in designing scalable, performant, and
 2. Choose the database model and architecture pattern.
 3. Design schemas, indexes, and lifecycle policies.
 4. Plan migration, backup, and rollout strategies.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -266,3 +267,19 @@ When designing architecture, provide:
 - Code examples for ORM integration and migration scripts
 - Monitoring and alerting recommendations
 - Documentation of trade-offs and alternative approaches considered
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [graphql-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/graphql-architect/SKILL.md) - Master modern GraphQL with federation, performance optimization, and enterprise security. Build scal...
+- [sql-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-pro/SKILL.md) - Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques...
+- [database-migrations-sql-migrations](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-migrations-sql-migrations/SKILL.md) - SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
+- [docs-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/docs-architect/SKILL.md) - Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design...
+- [mermaid-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mermaid-expert/SKILL.md) - Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all d...
+- [monorepo-architect](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/monorepo-architect/SKILL.md) - Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turb...
+- [threat-modeling-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/threat-modeling-expert/SKILL.md) - Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters ...
+

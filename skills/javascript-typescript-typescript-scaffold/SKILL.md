@@ -27,7 +27,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Analyze Project Type
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Analyze Project Type
 
 Determine the project type from user requirements:
 - **Next.js**: Full-stack React applications, SSR/SSG, API routes
@@ -359,3 +362,14 @@ export default defineConfig({
 6. **Development Tools**: .env.example, .gitignore, linting config
 
 Focus on creating production-ready TypeScript projects with modern tooling, strict type safety, and comprehensive testing setup.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [frontend-mobile-development-component-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-mobile-development-component-scaffold/SKILL.md) - You are a React component architecture expert specializing in scaffolding production-ready, accessib...
+- [python-development-python-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-development-python-scaffold/SKILL.md) - You are a Python project architecture expert specializing in scaffolding production-ready Python app...
+- [systems-programming-rust-project](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/systems-programming-rust-project/SKILL.md) - You are a Rust project architecture expert specializing in scaffolding production-ready Rust applica...
+

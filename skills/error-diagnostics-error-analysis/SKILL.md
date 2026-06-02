@@ -44,4 +44,12 @@ The analysis scope may include specific error messages, stack traces, log files,
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed analysis frameworks and checklists.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [error-debugging-error-analysis](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-analysis/SKILL.md) - You are an expert error analysis specialist with deep expertise in debugging distributed systems, an...
+- [error-debugging-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+- [error-diagnostics-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-diagnostics-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+- [git-pr-workflows-onboard](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-pr-workflows-onboard/SKILL.md) - You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in...
+

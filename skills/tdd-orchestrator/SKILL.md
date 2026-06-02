@@ -203,3 +203,15 @@ Elite TDD orchestrator focused on enforcing disciplined test-driven development 
 - "Orchestrate performance TDD workflow with load testing integration"
 - "Implement mutation testing pipeline for test suite quality validation"
 - "Design AI-assisted test generation workflow for rapid TDD cycle acceleration"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+- [unit-testing-test-generate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/unit-testing-test-generate/SKILL.md) - Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case ...
+

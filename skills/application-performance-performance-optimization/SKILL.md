@@ -26,6 +26,7 @@ Optimize application performance end-to-end using specialized performance and op
 2. Establish baselines with profiling, tracing, and real-user data.
 3. Execute phased optimizations across the stack with measurable impact.
 4. Validate improvements and set guardrails to prevent regressions.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -152,3 +153,18 @@ Optimize application performance end-to-end using specialized performance and op
 - **Monitoring Coverage**: 100% of critical paths instrumented with alerting
 
 Performance optimization target: $ARGUMENTS
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [full-stack-orchestration-full-stack-feature](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/full-stack-orchestration-full-stack-feature/SKILL.md) - Use when working with full stack orchestration full stack feature
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [performance-testing-review-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-testing-review-multi-agent-review/SKILL.md) - Use when working with performance testing review multi agent review
+- [backend-development-feature-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-development-feature-development/SKILL.md) - Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordin...
+- [debugging-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugging-strategies/SKILL.md) - Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently trac...
+- [pwa-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pwa-optimization/SKILL.md) - Optimize Progressive Web App service worker strategies, precache configuration, offline UX, and mani...
+- [website-conversion-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/website-conversion-optimization/SKILL.md) - B2B marketing website conversion patterns — trust signals, CTA hierarchy, social proof, lead capture...
+

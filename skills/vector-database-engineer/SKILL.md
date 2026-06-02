@@ -58,3 +58,14 @@ Expert in vector databases, embedding strategies, and semantic search implementa
 - Plan for index rebuilding
 - Cache frequent queries
 - Test recall vs latency tradeoffs
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [rag-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rag-implementation/SKILL.md) - Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and se...
+- [embedding-strategies](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/embedding-strategies/SKILL.md) - Select and optimize embedding models for semantic search and RAG applications. Use when choosing emb...
+- [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md) - Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements ve...
+

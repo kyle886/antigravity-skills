@@ -178,3 +178,15 @@ Expert Django developer specializing in Django 5.x best practices, scalable arch
 - "Optimize database queries for a high-traffic Django application"
 - "Implement JWT authentication with refresh tokens in DRF"
 - "Create a robust background task system with Celery"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [fastapi-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-pro/SKILL.md) - Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservice...
+- [javascript-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-pro/SKILL.md) - Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops,...
+- [ruby-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ruby-pro/SKILL.md) - Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specia...
+- [flutter-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/flutter-expert/SKILL.md) - Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles sta...
+

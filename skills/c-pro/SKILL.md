@@ -54,3 +54,14 @@ You are a C programming expert specializing in systems programming and performan
 - Performance benchmarks if applicable
 
 Follow C99/C11 standards. Include error handling for all system calls.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [unity-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/unity-developer/SKILL.md) - Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Maste...
+- [cpp-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cpp-pro/SKILL.md) - Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles tem...
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+

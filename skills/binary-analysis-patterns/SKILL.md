@@ -448,3 +448,15 @@ def auto_rename():
 - **Tail call optimization**: `jmp` instead of `call` + `ret`
 - **Dead code**: Unreachable code from optimization
 - **Position-independent code**: RIP-relative addressing
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [anti-reversing-techniques](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/anti-reversing-techniques/SKILL.md) - Understand anti-reversing, obfuscation, and protection techniques encountered during software analys...
+- [protocol-reverse-engineering](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/protocol-reverse-engineering/SKILL.md) - Master network protocol reverse engineering including packet analysis, protocol dissection, and cust...
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [memory-forensics](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/memory-forensics/SKILL.md) - Master memory forensics techniques including memory acquisition, process analysis, and artifact extr...
+

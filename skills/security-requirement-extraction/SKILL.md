@@ -30,4 +30,13 @@ Transform threat analysis into actionable security requirements.
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [context-management-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-restore/SKILL.md) - Use when working with context management context restore
+- [context-management-context-save](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-management-context-save/SKILL.md) - Use when working with context management context save
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+- [stride-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/stride-analysis-patterns/SKILL.md) - Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, con...
+- [threat-mitigation-mapping](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/threat-mitigation-mapping/SKILL.md) - Map identified threats to appropriate security controls and mitigations. Use when prioritizing secur...
+

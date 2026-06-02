@@ -28,6 +28,7 @@ You are an AI engineer specializing in production-grade LLM applications, genera
 2. Design the AI architecture, data flow, and model selection.
 3. Implement with monitoring, safety, and cost controls.
 4. Validate with tests and staged rollout plans.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -169,3 +170,15 @@ Expert AI engineer specializing in LLM application development, RAG systems, and
 - "Implement semantic search with reranking for improved retrieval accuracy"
 - "Design an A/B testing framework for comparing different LLM prompts"
 - "Create a real-time AI content moderation system with custom classifiers"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [blockchain-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/blockchain-developer/SKILL.md) - Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeF...
+- [rag-implementation](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rag-implementation/SKILL.md) - Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and se...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+- [vector-database-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/vector-database-engineer/SKILL.md) - Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pineco...
+

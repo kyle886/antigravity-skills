@@ -138,3 +138,14 @@ In case of issues after merge:
 - **Review Response**: Address review comments within 24 hours
 - **Merge Strategy**: Squash for feature branches, merge for release branches
 - **Sign-Off**: Require at least 2 approvals for main branch changes
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [git-pr-workflows-pr-enhance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/git-pr-workflows-pr-enhance/SKILL.md) - You are a PR optimization expert specializing in creating high-quality pull requests that facilitate...
+- [comprehensive-review-pr-enhance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-pr-enhance/SKILL.md) - You are a PR optimization expert specializing in creating high-quality pull requests that facilitate...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

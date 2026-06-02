@@ -78,3 +78,14 @@ You are a search specialist expert at finding and synthesizing information from 
 - Recommendations for further research
 
 Focus on actionable insights. Always provide direct quotes for important claims.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [database-optimizer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/database-optimizer/SKILL.md) - Expert database optimizer specializing in modern performance tuning, query optimization, and scalabl...
+- [data-scientist](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/data-scientist/SKILL.md) - Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles co...
+- [devops-troubleshooter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/devops-troubleshooter/SKILL.md) - Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern...
+

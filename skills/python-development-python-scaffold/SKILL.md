@@ -27,7 +27,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Analyze Project Type
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Analyze Project Type
 
 Determine the project type from user requirements:
 - **FastAPI**: REST APIs, microservices, async applications
@@ -329,3 +332,14 @@ clean:
 6. **Development Tools**: Makefile, .env.example, .gitignore
 
 Focus on creating production-ready Python projects with modern tooling, type safety, and comprehensive testing setup.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [frontend-mobile-development-component-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/frontend-mobile-development-component-scaffold/SKILL.md) - You are a React component architecture expert specializing in scaffolding production-ready, accessib...
+- [javascript-typescript-typescript-scaffold](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-typescript-typescript-scaffold/SKILL.md) - You are a TypeScript project architecture expert specializing in scaffolding production-ready Node.j...
+- [systems-programming-rust-project](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/systems-programming-rust-project/SKILL.md) - You are a Rust project architecture expert specializing in scaffolding production-ready Rust applica...
+

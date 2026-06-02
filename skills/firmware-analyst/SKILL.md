@@ -318,3 +318,14 @@ sudo chroot squashfs-root /usr/bin/qemu-arm-static /bin/httpd
 4. **Analyze systematically**: Follow structured analysis workflow
 5. **Identify issues**: Security vulnerabilities and misconfigurations
 6. **Document findings**: Clear reporting with remediation guidance
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [reverse-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/reverse-engineer/SKILL.md) - Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software an...
+- [malware-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/malware-analyst/SKILL.md) - Expert malware analyst specializing in defensive malware research, threat intelligence, and incident...
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+

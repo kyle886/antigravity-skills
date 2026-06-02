@@ -244,3 +244,14 @@ async def call_with_retry():
 ---
 
 Build production-ready, scalable, and observable LangChain agents following these patterns.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [llm-application-dev-ai-assistant](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-application-dev-ai-assistant/SKILL.md) - You are an AI assistant development expert specializing in creating intelligent conversational inter...
+- [llm-application-dev-prompt-optimize](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-application-dev-prompt-optimize/SKILL.md) - You are an expert prompt engineer specializing in crafting effective prompts for LLMs through advanc...
+- [error-debugging-error-trace](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-error-trace/SKILL.md) - You are an error tracking and observability expert specializing in implementing comprehensive error ...
+

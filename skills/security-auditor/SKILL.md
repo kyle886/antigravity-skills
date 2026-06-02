@@ -31,6 +31,7 @@ You are a security auditor specializing in DevSecOps, application security, and 
 3. Run targeted scans and manual verification for high-risk areas.
 4. Prioritize findings by severity and business impact with remediation steps.
 5. Validate fixes and document residual risk.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -167,3 +168,16 @@ Expert security auditor with comprehensive knowledge of modern cybersecurity pra
 - "Implement secure API gateway with OAuth 2.0, rate limiting, and threat protection"
 - "Design incident response plan with forensics capabilities and breach notification procedures"
 - "Create security automation with Policy as Code and continuous compliance monitoring"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [backend-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/backend-security-coder/SKILL.md) - Expert in secure backend coding practices specializing in input validation, authentication, and API ...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [mobile-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-security-coder/SKILL.md) - Expert in secure mobile coding practices specializing in input validation, WebView security, and mob...
+- [security-compliance-compliance-check](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/security-compliance-compliance-check/SKILL.md) - You are a compliance expert specializing in regulatory requirements for software systems including G...
+- [threat-modeling-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/threat-modeling-expert/SKILL.md) - Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters ...
+

@@ -33,4 +33,12 @@ Comprehensive guide to profiling, analyzing, and optimizing Python code for bett
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [core-web-vitals-audit](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/core-web-vitals-audit/SKILL.md) - Audit and optimize Core Web Vitals (LCP, CLS, INP) using Lighthouse, CrUX data, and PageSpeed Insigh...
+- [spark-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/spark-optimization/SKILL.md) - Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use ...
+- [sql-optimization-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/sql-optimization-patterns/SKILL.md) - Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve dat...
+- [code-refactoring-context-restore](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/code-refactoring-context-restore/SKILL.md) - Use when working with code refactoring context restore
+

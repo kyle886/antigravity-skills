@@ -255,3 +255,14 @@ After setting up your pipeline:
 - **experiment-tracking-setup**: MLflow and Weights & Biases integration
 - **hyperparameter-tuning**: Automated hyperparameter optimization
 - **model-deployment-patterns**: Advanced deployment strategies
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [airflow-dag-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/airflow-dag-patterns/SKILL.md) - Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deploy...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+

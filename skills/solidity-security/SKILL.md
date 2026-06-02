@@ -31,4 +31,11 @@ Master smart contract security best practices, vulnerability prevention, and sec
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [pci-compliance](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/pci-compliance/SKILL.md) - Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste...
+- [event-store-design](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/event-store-design/SKILL.md) - Design and implement event stores for event-sourced systems. Use when building event sourcing infras...
+- [python-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-testing-patterns/SKILL.md) - Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven developme...
+

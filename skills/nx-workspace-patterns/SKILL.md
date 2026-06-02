@@ -459,6 +459,12 @@ nx migrate --run-migrations
 
 ## Resources
 
-- [Nx Documentation](https://nx.dev/getting-started/intro)
-- [Module Boundaries](https://nx.dev/core-features/enforce-module-boundaries)
-- [Nx Cloud](https://nx.app/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bazel-build-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bazel-build-optimization/SKILL.md) - Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote exe...
+- [turborepo-caching](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/turborepo-caching/SKILL.md) - Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up...
+- [gitlab-ci-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/gitlab-ci-patterns/SKILL.md) - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalab...
+- [monorepo-management](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/monorepo-management/SKILL.md) - Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable mult...
+

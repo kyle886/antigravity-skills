@@ -435,6 +435,11 @@ for alert in alerts:
 
 ## Resources
 
-- [Stephen Few's Dashboard Design](https://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
-- [Edward Tufte's Principles](https://www.edwardtufte.com/tufte/)
-- [Google Data Studio Gallery](https://datastudio.google.com/gallery)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [grafana-dashboards](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/grafana-dashboards/SKILL.md) - Create and manage production Grafana dashboards for real-time visualization of system and applicatio...
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+

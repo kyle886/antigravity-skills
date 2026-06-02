@@ -302,3 +302,14 @@ Use `[ ]` test command with POSIX operators:
 
 ### Tools & Testing
 - [checkbashisms](https://manpages.debian.org/testing/devscripts/checkbashisms.1.en.html) - Detect bash-specific constructs
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bash-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bash-pro/SKILL.md) - Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities....
+- [haskell-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/haskell-pro/SKILL.md) - Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reli...
+- [java-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/java-pro/SKILL.md) - Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Ex...
+

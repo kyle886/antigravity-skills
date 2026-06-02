@@ -25,6 +25,7 @@ Google Analytics 4 (GA4) and custom event tracking implementation.
 2. Install tracking code
 3. Define custom events
 4. Configure goals/conversions
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Core Patterns
 
@@ -336,5 +337,11 @@ const PrivacyCompliantAnalytics = {
 
 ## Resources
 
-- [GA4 Developer Guide](https://developers.google.com/analytics/devguides/collection/ga4)
-- [gtag.js Reference](https://developers.google.com/tag-platform/gtagjs/reference)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [performance-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/performance-engineer/SKILL.md) - Expert performance engineer specializing in modern observability, application optimization, and scal...
+- [base44-migration](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/base44-migration/SKILL.md) - Patterns for migrating from Base44 SDK to direct Supabase integration. Use when modernizing Base44-d...
+

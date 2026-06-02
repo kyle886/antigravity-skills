@@ -23,7 +23,10 @@ Patterns that turn visitors into leads on B2B marketing websites, specifically f
 
 ## Instructions
 
-### Pattern 1: Above-the-Fold Formula
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## Pattern 1: Above-the-Fold Formula
 
 The first screen must answer 3 questions within 5 seconds:
 
@@ -257,3 +260,14 @@ Each section should be self-contained and scannable — visitors scroll, they do
 - **Include team credentials**: SIOR, CCIM, CPM designations matter to CRE clients
 - **Location pages**: Each market should have its own landing page for SEO + conversion
 - **Response time**: Promise fast responses — "We respond within 4 business hours"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [incident-response-incident-response](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/incident-response-incident-response/SKILL.md) - Use when working with incident response incident response
+- [application-performance-performance-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/application-performance-performance-optimization/SKILL.md) - Optimize end-to-end application performance with profiling, observability, and backend/frontend tuni...
+- [seo-authority-builder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/seo-authority-builder/SKILL.md) - Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identif...
+

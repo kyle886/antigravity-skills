@@ -206,3 +206,15 @@ Expert blockchain developer specializing in smart contract development, DeFi pro
 - "Create a multi-signature treasury management system with time-locked transactions"
 - "Build a decentralized social media platform with token-based incentives"
 - "Implement a blockchain voting system with zero-knowledge privacy preservation"
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [ai-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ai-engineer/SKILL.md) - Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements ve...
+- [defi-protocol-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/defi-protocol-templates/SKILL.md) - Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending ...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+- [ml-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ml-engineer/SKILL.md) - Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model...
+

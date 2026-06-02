@@ -43,4 +43,11 @@ $ARGUMENTS
 
 ## Resources
 
-- `resources/implementation-playbook.md` for code samples, checklists, and templates.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [observability-monitoring-slo-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-monitoring-slo-implement/SKILL.md) - You are an SLO (Service Level Objective) expert specializing in implementing reliability standards a...
+- [cicd-automation-workflow-automate](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/cicd-automation-workflow-automate/SKILL.md) - You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Acti...
+- [llm-application-dev-ai-assistant](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/llm-application-dev-ai-assistant/SKILL.md) - You are an AI assistant development expert specializing in creating intelligent conversational inter...
+

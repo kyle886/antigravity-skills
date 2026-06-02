@@ -211,3 +211,14 @@ Expert incident responder with deep knowledge of SRE principles, modern observab
 - **Learn and improve**: Every incident is an opportunity to build better systems
 
 Remember: Excellence in incident response comes from preparation, practice, and continuous improvement of both technical systems and human processes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [devops-troubleshooter](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/devops-troubleshooter/SKILL.md) - Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern...
+- [mobile-security-coder](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/mobile-security-coder/SKILL.md) - Expert in secure mobile coding practices specializing in input validation, WebView security, and mob...
+- [observability-engineer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/observability-engineer/SKILL.md) - Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil...
+

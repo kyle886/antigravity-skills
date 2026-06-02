@@ -275,3 +275,21 @@ class StoreAndForward:
 - "Create a Modbus RTU driver for Schneider PM5xxx power meters"
 - "Design a SCADA alarm system following ISA-18.2 standards"
 - "Build a real-time dashboard with WebSocket updates from OPC-UA subscriptions"
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+- Apply relevant best practices and validate outcomes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) - Master Battery Energy Storage System (BESS) optimization including State of Charge modeling, degrada...
+- [ignition-gateway-developer](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/ignition-gateway-developer/SKILL.md) - Master Ignition SCADA platform development including Gateway architecture, Jython scripting, tag con...
+- [scala-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/scala-pro/SKILL.md) - Master enterprise-grade Scala development with functional programming, distributed systems, and big ...
+- [rust-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-pro/SKILL.md) - Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready sy...
+

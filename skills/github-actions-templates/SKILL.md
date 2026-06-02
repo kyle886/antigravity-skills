@@ -343,3 +343,14 @@ jobs:
 - `gitlab-ci-patterns` - For GitLab CI workflows
 - `deployment-pipeline-design` - For pipeline architecture
 - `secrets-management` - For secrets handling
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+- [fastapi-templates](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/fastapi-templates/SKILL.md) - Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensiv...
+

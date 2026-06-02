@@ -492,5 +492,11 @@ class TimeoutSagaOrchestrator(SagaOrchestrator):
 
 ## Resources
 
-- [Saga Pattern](https://microservices.io/patterns/data/saga.html)
-- [Designing Data-Intensive Applications](https://dataintensive.net/)
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [workflow-orchestration-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/workflow-orchestration-patterns/SKILL.md) - Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separati...
+- [temporal-python-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/temporal-python-pro/SKILL.md) - Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns,...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+

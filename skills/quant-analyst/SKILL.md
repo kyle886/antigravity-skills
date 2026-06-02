@@ -51,3 +51,14 @@ You are a quantitative analyst specializing in algorithmic trading and financial
 - Parameter sensitivity analysis
 
 Use pandas, numpy, and scipy. Include realistic assumptions about market microstructure.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [business-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/business-analyst/SKILL.md) - Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven ins...
+- [startup-analyst](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/startup-analyst/SKILL.md) - Expert startup business analyst specializing in market sizing, financial modeling, competitive analy...
+- [risk-manager](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/risk-manager/SKILL.md) - Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates exp...
+

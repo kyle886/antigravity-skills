@@ -242,3 +242,15 @@ When analyzing code, provide:
 - Consistent naming and formatting across all code documentation
 
 ```
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [c4-context](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-context/SKILL.md) - Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, docume...
+- [comprehensive-review-full-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/comprehensive-review-full-review/SKILL.md) - Use when working with comprehensive review full review
+- [c4-component](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-component/SKILL.md) - Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Com...
+- [c4-container](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/c4-container/SKILL.md) - Expert C4 Container-level documentation specialist. Synthesizes Component-level documentation into C...
+

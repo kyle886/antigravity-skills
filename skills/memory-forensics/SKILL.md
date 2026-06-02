@@ -489,3 +489,14 @@ floss pid.1234.dmp
 - **Symbol issues**: Ensure correct symbol files for OS version
 - **Smear**: Memory may change during acquisition
 - **Encryption**: Some data may be encrypted in memory
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [binary-analysis-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/binary-analysis-patterns/SKILL.md) - Master binary analysis patterns including disassembly, decompilation, control flow analysis, and cod...
+- [commercial-real-estate-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/commercial-real-estate-expert/SKILL.md) - Master commercial real estate (CRE) terminology, metrics, and market analysis. Use when building CRE...
+- [protocol-reverse-engineering](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/protocol-reverse-engineering/SKILL.md) - Master network protocol reverse engineering including packet analysis, protocol dissection, and cust...
+

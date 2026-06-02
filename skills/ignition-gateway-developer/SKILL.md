@@ -320,3 +320,20 @@ def generateDailyReport():
 - "Design a Perspective dashboard for microgrid monitoring"
 - "Configure alarm escalation pipeline with SMS notification"
 - "Build an energy report with daily kWh totals and peak demand"
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+- Apply relevant best practices and validate outcomes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [industrial-scada-pro](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/industrial-scada-pro/SKILL.md) - Master SCADA systems and OPC-UA protocol for industrial energy systems including data acquisition, h...
+- [bess-optimization](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/bess-optimization/SKILL.md) - Master Battery Energy Storage System (BESS) optimization including State of Charge modeling, degrada...
+- [flutter-expert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/flutter-expert/SKILL.md) - Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles sta...
+

@@ -62,6 +62,7 @@ app.post('/api/users',
 2. Implement the minimal change to pass the next test.
 3. Run tests after each change to confirm progress.
 4. Record shortcuts or debt for the refactor phase.
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
 
 ## Safety
 
@@ -70,4 +71,11 @@ app.post('/api/users',
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [tdd-workflows-tdd-red](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-red/SKILL.md) - Generate failing tests for the TDD red phase to define expected behavior and edge cases.
+- [javascript-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-testing-patterns/SKILL.md) - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, i...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+

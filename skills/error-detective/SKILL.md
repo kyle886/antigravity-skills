@@ -51,3 +51,14 @@ You are an error detective specializing in log analysis and pattern recognition.
 - Code locations likely causing errors
 
 Focus on actionable findings. Include both immediate fixes and prevention strategies.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [debugger](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/debugger/SKILL.md) - Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encoun...
+- [error-debugging-multi-agent-review](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/error-debugging-multi-agent-review/SKILL.md) - Use when working with error debugging multi agent review
+- [rust-async-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/rust-async-patterns/SKILL.md) - Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use...
+

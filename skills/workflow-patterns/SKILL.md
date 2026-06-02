@@ -35,4 +35,13 @@ Guide for implementing tasks using Conductor's TDD workflow, managing phase chec
 
 ## Resources
 
-- `resources/implementation-playbook.md` for detailed patterns and examples.
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [conductor-implement](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-implement/SKILL.md) - Execute tasks from a track's implementation plan following TDD workflow
+- [conductor-revert](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/conductor-revert/SKILL.md) - Git-aware undo by logical work unit (track, phase, or task)
+- [context-driven-development](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/context-driven-development/SKILL.md) - Use this skill when working with Conductor's context-driven development methodology, managing projec...
+- [tdd-workflows-tdd-cycle](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-cycle/SKILL.md) - Use when working with tdd workflows tdd cycle
+- [tdd-workflows-tdd-refactor](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-workflows-tdd-refactor/SKILL.md) - Use when working with tdd workflows tdd refactor
+

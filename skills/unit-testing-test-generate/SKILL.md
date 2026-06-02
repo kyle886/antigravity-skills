@@ -29,7 +29,10 @@ $ARGUMENTS
 
 ## Instructions
 
-### 1. Analyze Code for Test Generation
+#
+- Load the nested playbook at `resources/playbook.md` on-demand for detailed implementation guides and checklists.
+
+## 1. Analyze Code for Test Generation
 
 Scan codebase to identify untested code and generate comprehensive test suites:
 
@@ -317,3 +320,14 @@ def generate_mock_objects(self, dependencies: List[str]) -> str:
 5. **CI Integration**: Commands to run tests in pipeline
 
 Focus on generating maintainable, comprehensive tests that catch bugs early and provide confidence in code changes.
+
+## Resources
+
+- `resources/playbook.md` for detailed patterns, checklists, and code templates.
+
+## Cross-References
+
+- [javascript-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/javascript-testing-patterns/SKILL.md) - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, i...
+- [python-testing-patterns](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/python-testing-patterns/SKILL.md) - Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven developme...
+- [tdd-orchestrator](file:///Users/kylehutchin/Developer/Github/antigravity-skills/skills/tdd-orchestrator/SKILL.md) - Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordina...
+
